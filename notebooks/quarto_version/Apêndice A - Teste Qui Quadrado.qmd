@@ -1,0 +1,146 @@
+---
+title: Apêndice - Teste Qui Quadrado
+author: Guilherme Almeida e José Luiz Nunes
+format:
+  html:
+    toc: true
+    toc-depth: 4
+    toc-location: left
+    toc-title: Conteúdo
+    number-sections: true
+    number-depth: 3
+    smooth-scroll: true
+    link-external-icon: true
+    link-external-newwindow: true
+    self-contained: true
+embed-resources: true
+theme: zephyr
+abstract: Nesse arquivo apresentamos rapidamente o teste Qui Quadrado (Chi Squared) para avaliar distribuições de frequência.
+jupyter: python3
+---
+
+# Apêndice - Teste Qui Quadrado (Chi-Squared Test)
+
+Em outras aulas vimos alguns exemplos de testes de hipótese para avaliar se a média de populações amostradas eram iguais. Vimos isso para 2, mas também apenas 1, população com o teste t. E também para mais grupos usando ANOVA. Porém, nem sempre queremos testar valores referentes a média.
+
+Para isso, existem outros testes estatísticos. Existem testes para comparar a mediana, a variância, se um conjunto de dados tem distribuição normal. Outra avaliação comum é comparar a frequência de observações entre diferentes grupos. Em outras palavras, temo 2 variáveis categóricas diferentes e nossas observações se dividem entre elas.
+
+Por exemplo, se queremos avaliar se classes processuais diferentes são distribuídas com a mesma frequência para ministros diferentes no STF. Teríamos como variável 1 os ministros e como variável 2 as classes processuais (ou grupos de classe, como controle concentrado). A hipótese contra a qual testaremos por padrão é de que não há relação entre as duas variáveis, logo, ministros diferentes recebem quantidades iguais (ou muito semelhantes) de processos de cada classe.
+
+Para isso, podemos usar o teste qui-quadrado. Em outras palavras, temos 2 variáveis categóricas diferentes: classe e ministro e nossas observações se dividem entre elas. 
+
+O teste qui-quadrado tem como objetivo comparar a distribuição de frequência de observações amostrais entre diferentes categorias. Ele pode é usado quando queremos comparar a distribuição da frequência de observações entre grupos divididos por duas variáveis categóricas.
+
+A comparação é feita contra a distribuição esperada. NOrmalmente, e por padrão, iremos comparar com a hipótese de que todos os grupos deveriam receber o mesmo número de observações, mas podemos definir qual distribuição contra qual queremos comparar. Em nosso caso, a expectativa é de que todos os ministros recebem casos muito parecidos de cada classe processual.
+
+Veja um exemplo prático abaixo baseado no número de torcedores de 3 times de futebol em 2 cidades diferentes.
+
+## Criando um conjunto de dados
+
+Imagina que estamos pensando em número de torcedores (em milhões de pessoas) de três times entre dois estados diferentes (números inventados).
+
+Obs: O exemplo simplifica a realidade, e considera fatores como outro times ou que na realidade São Paulo tem mais habitantes que o Rio de Janeiro.
+
+```{python}
+import pandas as pd
+from scipy.stats import chi2_contingency
+
+df = pd.DataFrame(
+    columns=["Time", "Estado", "Número de torcedores"],
+    data=[
+        ("Flamengo", "Rio de Janeiro", 8.5),
+        ("Flamengo", "São Paulo", 4),
+        ("Palmeiras", "Rio de Janeiro", 0.5),
+        ("Palmeiras", "São Paulo", 5),
+        ("Vasco", "Rio de Janeiro", 2),
+        ("Vasco", "São Paulo", 0.5)
+    ]
+)
+
+df.head()
+```
+
+O teste qui-quadrado (`chi2_contingency`) não espera os dados no formato **tidy** como costumamos usar ao longo do curso. Isso é, não espera que cada linha seja uma observação e cada coluna uma variável.
+
+Essa tabela espera que os dados estejam em um formato diferente, onde uma variável (e.g., time) é representada pelas linhas e outra pelas colunas (e.g., Estado). O número de observações é representado pelas células dessa tabela.
+
+O nome desse formato de representação de dados é **contingency table**. A forma mais simples para transformar os dados tidy para a tabela de contingência, podemos usar a função `crosstab` do pandas. 
+
+O código abaixo faz essa transformação. Se não tivéssemos a estrutura acima, mas sim só as categorias, poderíamos omitir os argumentos `values` e `aggfunc`. Vamos mostrar essa segundo forma em seguida.
+
+```{python}
+cont_table = pd.crosstab(df["Time"], df["Estado"], values=df["Número de torcedores"], aggfunc=sum)
+cont_table
+```
+
+Agora um exemplo menor se precisássemos contar o número de linhas.
+
+Por exemplo, cada linha sendo um torcedor diferente, sobre o qual obtemos algumas informações.
+
+Não se preocupe com o código aqui, e não nós preocupamos em manter a relação com a realidade como acima. O objetivo é apenas mostrar o uso do `crosstab` para criar a tabela de contingência a partir de dados tidy.
+
+```{python}
+df_torcedores = pd.DataFrame(
+    columns=["id_respondente", "time", "estado"],
+    data=[
+        (i, df["Time"].sample().values[0], df["Estado"].sample().values[0])
+        for i in range(127)
+    ]
+)
+
+df_torcedores.head(2)
+```
+
+```{python}
+contingency_from_tidy = pd.crosstab(df_torcedores["time"], df_torcedores["estado"])
+
+contingency_from_tidy
+```
+
+# Realizando o teste
+
+Agora que os dados estão no formato adequado, podemos realizar o chisquare test!
+
+Como você pode ter reparado mais acima, vamos usar a função `chi2_contingency` do módulo `scipy.stats`. Você pode consultar a documentação dela [aqui](https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.chi2_contingency.html).
+
+```{python}
+chi2, p, dof, expected = chi2_contingency(cont_table)
+
+print(f"Estatística Qui-quadrado:     {chi2:.5g}")
+print(f"p-value:            {p:.5g}")
+print(f"DoF: {dof}")
+print("Frequências esperadas:")
+print(expected)
+```
+
+Segundo a documentação, o resultado retorna:
+
+chi2 - *The test statistic.*<br>
+p - *The p-value of the test.*<br>
+dof - *Degrees of freedom.*<br>
+expected - *The expected frequencies, based on the marginal sums of the table.*
+
+Ou seja, o primeiro valor é a estatística de tamanho do efeito, o segundo valor é o valor p e por último temos quais seriam as frequências esperadas caso a hipótese nula fosse verdadeira.
+
+Para melhor visualização poderíamos criar um novo dataframe com os valores esperados e calcular a diferença absoluta:
+
+```{python}
+# cria df com mesmas colunas e nomes de índices
+df_expected = pd.DataFrame(
+    columns=cont_table.columns,
+    index=cont_table.index,
+    data=expected
+)
+df_expected
+```
+
+Para ver a diferença absoluta entre o observado e esperado podemos diminuir os valores:
+
+```{python}
+cont_table - df_expected
+```
+
+O que encontramos como resultado? 
+
+Considere a significância do valor p, e que a diferença observada positiva significa que o número de torcedores de determinado time naquele estado é maior que o esperado se não houvesse relação entre as duas variáveis, e se negativo menor que o esperado.
+
