@@ -1,10 +1,10 @@
-Country,Region,Year,Month,election_type,chamber_type,chamber_total_seats,total_women_elected,percent_elected_women,notes
+Country,Region,Year,Month,election_type,chamber_type,election_total_seats,total_women_elected,percent_elected_women,notes
 Afghanistan,ASIA,1965,July,Election,Lower,210,4,0.01904761904761905,First legislature of Afghanistan after the abolition of the monarchy in 1964
-Afghanistan,ASIA,1965,July,Election,Upper,84,0,0,First legislature of Afghanistan after the abolition of the monarchy in 1964
-Afghanistan,ASIA,1969,,Election,Lower,216,0,0,Parliament was dissolved following a military coup d'Etat in July 1973.
-Afghanistan,ASIA,1969,,Election,Upper,84,0,0,Parliament was dissolved following a military coup d'Etat in July 1973.
+Afghanistan,ASIA,1965,July,Election,Upper,84,0,0.0,First legislature of Afghanistan after the abolition of the monarchy in 1964
+Afghanistan,ASIA,1969,,Election,Lower,216,0,0.0,Parliament was dissolved following a military coup d'Etat in July 1973.
+Afghanistan,ASIA,1969,,Election,Upper,84,0,0.0,Parliament was dissolved following a military coup d'Etat in July 1973.
 Afghanistan,ASIA,1988,,Election,Lower,235,7,0.029787234042553193,"Collapse of constitutional institutions, including Parliament, in April 1992.  A Council of Decision and Settlement or Constituent Assembly, comprising 1335 members met in December 1992 and January 1993 and elected from among its ranks a 250-member interim Assembly. Pending general elections: no available information concerning the number of women members of the Council or the interim Assembly."
-Afghanistan,ASIA,1988,,Election,Upper,173,0,0,"Collapse of constitutional institutions, including Parliament, in April 1992.  A Council of Decision and Settlement or Constituent Assembly, comprising 1335 members met in December 1992 and January 1993 and elected from among its ranks a 250-member interim Assembly. Pending general elections: no available information concerning the number of women members of the Council or the interim Assembly."
+Afghanistan,ASIA,1988,,Election,Upper,173,0,0.0,"Collapse of constitutional institutions, including Parliament, in April 1992.  A Council of Decision and Settlement or Constituent Assembly, comprising 1335 members met in December 1992 and January 1993 and elected from among its ranks a 250-member interim Assembly. Pending general elections: no available information concerning the number of women members of the Council or the interim Assembly."
 Afghanistan,ASIA,2005,,Election,Lower,249,68,0.27309236947791166,65 seats were reserved for women in general and 10 seats for Kuchis including at least 3 women.
 Afghanistan,ASIA,2005,,Election,Upper,102,23,0.22549019607843138,
 Afghanistan,ASIA,2010,,Election,Lower,249,69,0.27710843373493976,Elections were held for all the seats in the House of the People on the normal expiry of the members' term of office.
@@ -66,9 +66,9 @@ Angola,SUB-SAHARAN,1992,,Election,Single,220,21,0.09545454545454546,
 Angola,SUB-SAHARAN,2008,,Election,Single,220,82,0.37272727272727274,
 Angola,SUB-SAHARAN,2012,september,Election,Single,220,75,0.3409090909090909,
 Angola,SUB-SAHARAN,2017,August,Election,Single,220,68,0.3090909090909091,
-Antigua and Barbuda,AME,1984,,Election,Lower,17,0,0,First legislature of Antigua and Barbuda after the country became independent on 1 November 1981; All members of the House of Representatives were appointed
+Antigua and Barbuda,AME,1984,,Election,Lower,17,0,0.0,First legislature of Antigua and Barbuda after the country became independent on 1 November 1981; All members of the House of Representatives were appointed
 Antigua and Barbuda,AME,1984,,Election,Upper,17,2,0.11764705882352941,First legislature of Antigua and Barbuda after the country became independent on 1 November 1981; 
-Antigua and Barbuda,AME,1989,,Election,Lower,17,0,0,All members of the House of Representatives were appointed.
+Antigua and Barbuda,AME,1989,,Election,Lower,17,0,0.0,All members of the House of Representatives were appointed.
 Antigua and Barbuda,AME,1989,,Election,Upper,17,1,0.058823529411764705,
 Antigua and Barbuda,AME,1992,,Election,Upper,17,2,0.11764705882352941,
 Antigua and Barbuda,AME,1994,,Election,Lower,19,1,0.05263157894736842,"First time members were elected. However, the first female member of the House of Representatives was co-opted on appointment by the Government."
@@ -83,18 +83,18 @@ Antigua and Barbuda,AME,2014,,Election,Lower,18,2,0.1111111111111111,
 Antigua and Barbuda,AME,2014,,Election,Upper,15,5,0.3333333333333333,
 Antigua and Barbuda,AME,2018,March,Election,Lower,18,2,0.1111111111111111,
 Antigua and Barbuda,AME,2018,March,Election,Upper,17,9,0.5294117647058824,
-Argentina,AME,1946,,Election,Lower,158,0,0,
-Argentina,AME,1946,,Election,Upper,34,0,0,
-Argentina,AME,1948,,Election,Lower,158,0,0,"Election for only half the members of the House, modifying its composition."
+Argentina,AME,1946,,Election,Lower,158,0,0.0,
+Argentina,AME,1946,,Election,Upper,34,0,0.0,
+Argentina,AME,1948,,Election,Lower,158,0,0.0,"Election for only half the members of the House, modifying its composition."
 Argentina,AME,1951,,Election,Lower,155,24,0.15483870967741936,
 Argentina,AME,1951,,Election,Upper,30,6,0.2,"The nominal number of seats is 34, but there were 4 vacancies at the time."
 Argentina,AME,1955,,Election,Lower,157,34,0.21656050955414013,Congress was dissolved following a military coup d'Etat on 16 September 1955.
 Argentina,AME,1955,,Election,Upper,30,6,0.2,Congress was dissolved following a military coup d'Etat on 16 September 1955.
 Argentina,AME,1958,,Election,Lower,184,4,0.021739130434782608,"102 members of house elected. The nominal number of seats is 187, but there were 3 vacancies."
-Argentina,AME,1958,,Election,Upper,42,0,0,"Election of 102 of the 192 members of the House, modifying its composition. The nominal number of seats is 46, but there were 4 vacancies at the time. Congress was dissolved some six months after the military coup d'Etat of March 1962."
+Argentina,AME,1958,,Election,Upper,42,0,0.0,"Election of 102 of the 192 members of the House, modifying its composition. The nominal number of seats is 46, but there were 4 vacancies at the time. Congress was dissolved some six months after the military coup d'Etat of March 1962."
 Argentina,AME,1960,,Election,Lower,190,2,0.010526315789473684,"Election of 102 of the 192 members of the House, modifying its composition.  Congress was dissolved some six months after the military coup d'Etat of March 1962."
 Argentina,AME,1963,,Election,Lower,192,1,0.005208333333333333,"The nominal number of seats is 194, but there were 2 vacancies at the time."
-Argentina,AME,1963,,Election,Upper,46,0,0,Congress was dissolved following a military coup d'Etat on 28 June 1966.
+Argentina,AME,1963,,Election,Upper,46,0,0.0,Congress was dissolved following a military coup d'Etat on 28 June 1966.
 Argentina,AME,1965,,Election,Lower,192,4,0.020833333333333332,"Election for only half of the members of the House, modifying its composition. The nominal number of seats is 194, but there were 2 vacancies at the time. Congress was dissolved following a military coup d'Etat on 28 June 1966. "
 Argentina,AME,1973,,Election,Lower,243,19,0.07818930041152264,Congress was dissolved following a military coup d'Etat on 24 March 1976.
 Argentina,AME,1973,,Election,Upper,69,3,0.043478260869565216,Congress was dissolved following a military coup d'Etat on 24 March 1976.
@@ -144,29 +144,29 @@ Australia,PAC,1946,,Election,Lower,75,2,0.02666666666666667,
 Australia,PAC,1946,,Election,Upper,36,2,0.05555555555555555,
 Australia,PAC,1949,,Election,Lower,123,1,0.008130081300813009,
 Australia,PAC,1949,,Election,Upper,60,4,0.06666666666666667,
-Australia,PAC,1951,,Election,Lower,123,0,0,
+Australia,PAC,1951,,Election,Lower,123,0,0.0,
 Australia,PAC,1951,,Election,Upper,60,4,0.06666666666666667,
 Australia,PAC,1953,,Election,Upper,60,4,0.06666666666666667,
-Australia,PAC,1954,,Election,Lower,123,0,0,
-Australia,PAC,1955,,Election,Lower,124,0,0,
+Australia,PAC,1954,,Election,Lower,123,0,0.0,
+Australia,PAC,1955,,Election,Lower,124,0,0.0,
 Australia,PAC,1955,,Election,Upper,60,5,0.08333333333333333,
-Australia,PAC,1958,,Election,Lower,124,0,0,
+Australia,PAC,1958,,Election,Lower,124,0,0.0,
 Australia,PAC,1958,,Election,Upper,60,5,0.08333333333333333,
-Australia,PAC,1961,,Election,Lower,124,0,0,
+Australia,PAC,1961,,Election,Lower,124,0,0.0,
 Australia,PAC,1961,,Election,Upper,60,5,0.08333333333333333,
-Australia,PAC,1963,,Election,Lower,124,0,0,
+Australia,PAC,1963,,Election,Lower,124,0,0.0,
 Australia,PAC,1964,,Election,Upper,60,4,0.06666666666666667,
 Australia,PAC,1966,,Election,Lower,124,1,0.008064516129032258,
 Australia,PAC,1966,,Election,Upper,60,4,0.06666666666666667,
 Australia,PAC,1967,,Election,Upper,60,3,0.05,
-Australia,PAC,1969,,Election,Lower,125,0,0,
+Australia,PAC,1969,,Election,Lower,125,0,0.0,
 Australia,PAC,1970,,Election,Upper,60,2,0.03333333333333333,
-Australia,PAC,1972,,Election,Lower,125,0,0,
+Australia,PAC,1972,,Election,Lower,125,0,0.0,
 Australia,PAC,1974,,Election,Lower,127,1,0.007874015748031496,
 Australia,PAC,1974,,Election,Upper,60,4,0.06666666666666667,
-Australia,PAC,1975,,Election,Lower,127,0,0,
+Australia,PAC,1975,,Election,Lower,127,0,0.0,
 Australia,PAC,1975,,Election,Upper,64,6,0.09375,
-Australia,PAC,1977,,Election,Lower,124,0,0,
+Australia,PAC,1977,,Election,Lower,124,0,0.0,
 Australia,PAC,1977,,Election,Upper,64,6,0.09375,
 Australia,PAC,1980,,Election,Lower,125,3,0.024,
 Australia,PAC,1980,,Election,Upper,64,9,0.140625,
@@ -222,10 +222,10 @@ Austria,EUR,2008,,Election,Lower,183,50,0.273224043715847,Elections were held fo
 Austria,EUR,2013,january,Election,Lower,183,51,0.2786885245901639,
 Austria,EUR,2013,October,Election,Lower,183,61,0.3333333333333333,
 Austria,EUR,2017,October,Election,Lower,183,63,0.3442622950819672,
-Austria,EUR,1945,,Renewal,Upper,49,0,0,Indirectly elected; dates of elections vary according to the province. The numbers given refer to the sitting following the Lower House elections
-Austria,EUR,1946,,Renewal,Upper,49,0,0,Indirectly elected; dates of elections vary according to the province. The numbers given refer to the sitting following the Lower House elections
-Austria,EUR,1947,,Renewal,Upper,49,0,0,Indirectly elected; dates of elections vary according to the province. The numbers given refer to the sitting following the Lower House elections
-Austria,EUR,1948,,Renewal,Upper,49,0,0,Indirectly elected; dates of elections vary according to the province. The numbers given refer to the sitting following the Lower House elections
+Austria,EUR,1945,,Renewal,Upper,49,0,0.0,Indirectly elected; dates of elections vary according to the province. The numbers given refer to the sitting following the Lower House elections
+Austria,EUR,1946,,Renewal,Upper,49,0,0.0,Indirectly elected; dates of elections vary according to the province. The numbers given refer to the sitting following the Lower House elections
+Austria,EUR,1947,,Renewal,Upper,49,0,0.0,Indirectly elected; dates of elections vary according to the province. The numbers given refer to the sitting following the Lower House elections
+Austria,EUR,1948,,Renewal,Upper,49,0,0.0,Indirectly elected; dates of elections vary according to the province. The numbers given refer to the sitting following the Lower House elections
 Austria,EUR,1949,,Renewal,Upper,48,1,0.020833333333333332,Indirectly elected; dates of elections vary according to the province. The numbers given refer to the sitting following the Lower House elections
 Austria,EUR,1950,,Renewal,Upper,48,1,0.020833333333333332,Indirectly elected; dates of elections vary according to the province. The numbers given refer to the sitting following the Lower House elections
 Austria,EUR,1951,,Renewal,Upper,48,1,0.020833333333333332,Indirectly elected; dates of elections vary according to the province. The numbers given refer to the sitting following the Lower House elections
@@ -329,7 +329,7 @@ Belgium,EUR,1961,,Election,Upper,175,3,0.017142857142857144,
 Belgium,EUR,1965,,Election,Lower,212,7,0.0330188679245283,
 Belgium,EUR,1965,,Election,Upper,178,2,0.011235955056179775,
 Belgium,EUR,1968,,Election,Lower,212,8,0.03773584905660377,
-Belgium,EUR,1968,,Election,Upper,178,0,0,
+Belgium,EUR,1968,,Election,Upper,178,0,0.0,
 Belgium,EUR,1971,,Election,Lower,212,6,0.02830188679245283,
 Belgium,EUR,1971,,Election,Upper,178,5,0.028089887640449437,
 Belgium,EUR,1974,,Election,Lower,212,6,0.02830188679245283,
@@ -368,7 +368,7 @@ Belize,AME,1984,,Election,Lower,28,1,0.03571428571428571,First legislature of Be
 Belize,AME,1984,,Election,Upper,10,3,0.3,"First legislature of Belize after the country became independent on 21 September 1981. Nine members appointed and a President who is elected from outside the Senate. 
 
 "
-Belize,AME,1989,,Election,Lower,29,0,0,
+Belize,AME,1989,,Election,Lower,29,0,0.0,
 Belize,AME,1989,,Election,Upper,10,3,0.3,Nine members appointed and a President who is elected from outside the Senate.
 Belize,AME,1993,,Election,Lower,29,1,0.034482758620689655,
 Belize,AME,1993,,Election,Upper,10,3,0.3,Nine members appointed and a President who is elected from outside the Senate.
@@ -376,7 +376,7 @@ Belize,AME,1998,,Election,Lower,29,2,0.06896551724137931,
 Belize,AME,1998,,Election,Upper,8,3,0.375,Nine members appointed and a President who is elected from outside the Senate.
 Belize,AME,2003,,Election,Lower,30,1,0.03333333333333333,29 Members appointed and a Speaker who is elected from outside the Senate
 Belize,AME,2003,,Election,Upper,13,3,0.23076923076923078,Nine members appointed and a President who is elected from outside the Senate.
-Belize,AME,2008,,Election,Lower,32,0,0,31 Members appointed and a Speaker who is elected from outside the Senate
+Belize,AME,2008,,Election,Lower,32,0,0.0,31 Members appointed and a Speaker who is elected from outside the Senate
 Belize,AME,2008,March - February,Election,Upper,12,3,0.25,"Nine members appointed and a President who is elected from outside the Senate. 4 women members appointed, the speaker, elected from outside the Senate is also a woman."
 Belize,AME,2008,March - April,Election,Upper,12,4,0.3333333333333333,
 Belize,AME,2008,March - June,Election,Upper,13,5,0.38461538461538464,
@@ -394,7 +394,7 @@ Benin,SUB-SAHARAN,2003,,Election,Single,83,6,0.07228915662650602,
 Benin,SUB-SAHARAN,2007,March,Election,Single,83,9,0.10843373493975904,
 Benin,SUB-SAHARAN,2011,,Election,Single,83,7,0.08433734939759036,"Parliamentary elections, initially called for 17 April 2011, were postponed to 30 April due to delays in the presidential elections and the registration of parliamentary candidates. "
 Benin,SUB-SAHARAN,2015,,Election,Single,83,6,0.07228915662650602,
-Bhutan,ASIA,1953,,Election,Single,150,0,0,"1953:  Establishment of the Tshogdu as the first legislature of the Kingdom of Bhutan. The members of the Tshogdu are elected for 3 years in individual constituencies at various dates depending on the expiry of their term.  The information is given by period depending on whether or not there were any women in the Tshogdu. Including 105 members directly elected by direct suffrage and 12 seats reserved for religious bodies; the remainder are occupied by dignitaries, ministers and members of the Royal Advisory Council."
+Bhutan,ASIA,1953,,Election,Single,150,0,0.0,"1953:  Establishment of the Tshogdu as the first legislature of the Kingdom of Bhutan. The members of the Tshogdu are elected for 3 years in individual constituencies at various dates depending on the expiry of their term.  The information is given by period depending on whether or not there were any women in the Tshogdu. Including 105 members directly elected by direct suffrage and 12 seats reserved for religious bodies; the remainder are occupied by dignitaries, ministers and members of the Royal Advisory Council."
 Bhutan,ASIA,2007,,Election,Upper,15,3,0.2,First part of first Upper House elections.
 Bhutan,ASIA,2008,,Election,Lower,47,4,0.0851063829787234,"First elections, elections for 15 of the 20 constituencies were held in December 2007"
 Bhutan,ASIA,2008,,Election,Upper,25,6,0.24,Second part of first Upper House elections.
@@ -402,18 +402,18 @@ Bhutan,ASIA,2013,August,Election,Lower,47,3,0.06382978723404255,
 Bhutan,ASIA,2013,,Election,Upper,25,2,0.08,"A total of 67 candidates stood for the second elections to the 25-member National Council. At stake were 20 seats; the five remaining seats being appointed by the King. All candidates ran as independents since, unlike the National Assembly, membership of the National Council is not party-based. Candidates' programmes included upholding democracy, ensuring good governance, peace and security or increasing Gross National Happiness (see note). Six of the 14 outgoing members were re-elected. Although three women had been elected to the previous legislature, none of the five women candidates were successful in 2013."
 Bhutan,ASIA,2018,October,Election,Lower,47,7,0.14893617021276595,
 Bhutan,ASIA,2018,April,Election,Upper,25,4,0.16,
-Bolivia,AME,1951,,Election,Lower,56,0,0,The results of the elections were nullified and Congress was dissolved following a military coup d'Etat in May 1951.
-Bolivia,AME,1951,,Election,Upper,18,0,0,The results of the elections were nullified and Congress was dissolved following a military coup d'Etat in May 1951.
+Bolivia,AME,1951,,Election,Lower,56,0,0.0,The results of the elections were nullified and Congress was dissolved following a military coup d'Etat in May 1951.
+Bolivia,AME,1951,,Election,Upper,18,0,0.0,The results of the elections were nullified and Congress was dissolved following a military coup d'Etat in May 1951.
 Bolivia,AME,1956,,Election,Lower,56,1,0.017857142857142856,plus 1 female subsitute member
-Bolivia,AME,1956,,Election,Upper,18,0,0,
-Bolivia,AME,1958,,Election,Lower,56,0,0,plus 1 female subsitute member
-Bolivia,AME,1960,,Election,Lower,103,0,0,"plus 2 female subsitute members; Elections for only half of the members of the House, modifying its composition"
-Bolivia,AME,1960,,Election,Upper,27,0,0,"Elections for only half of the members of the House, modifying its composition"
-Bolivia,AME,1961,,Election,Lower,103,0,0,plus 1 female subsitute member
+Bolivia,AME,1956,,Election,Upper,18,0,0.0,
+Bolivia,AME,1958,,Election,Lower,56,0,0.0,plus 1 female subsitute member
+Bolivia,AME,1960,,Election,Lower,103,0,0.0,"plus 2 female subsitute members; Elections for only half of the members of the House, modifying its composition"
+Bolivia,AME,1960,,Election,Upper,27,0,0.0,"Elections for only half of the members of the House, modifying its composition"
+Bolivia,AME,1961,,Election,Lower,103,0,0.0,plus 1 female subsitute member
 Bolivia,AME,1962,,Election,Lower,103,2,0.019417475728155338,plus 6 female substiute members
 Bolivia,AME,1963,,Election,Lower,103,2,0.019417475728155338,plus 1 female subsitute member
 Bolivia,AME,1966,,Election,Lower,103,1,0.009708737864077669,plus 1 female subsitute member; Congress was dissolved following a military coup d'Etat in September 1969.
-Bolivia,AME,1966,,Election,Upper,27,0,0,Congress was dissolved following a military coup d'Etat in September 1969.
+Bolivia,AME,1966,,Election,Upper,27,0,0.0,Congress was dissolved following a military coup d'Etat in September 1969.
 Bolivia,AME,1979,,Election,Lower,117,3,0.02564102564102564,"Elections held on 9 July 1979 were nullified by an Electoral Tribunal; following a military coup d'Etat on 1 November 1979, the parliamentary institution was then suspended."
 Bolivia,AME,1979,,Election,Upper,27,1,0.037037037037037035,"Elections held on 9 July 1979 were nullified by an Electoral Tribunal; following a military coup d'Etat on 1 November 1979, the parliamentary institution was then suspended."
 Bolivia,AME,1980,,Election,Lower,130,1,0.007692307692307693,"plus 3 female substitute members; The military command which took power following a military coup d'Etat on 17 July 1980 nullified the results of the elections on 6 June 1980; on 23 September 1982, the Electoral Tribunal validated the election results and on 10 October 1982, the National Congress was restored."
@@ -436,10 +436,10 @@ Bolivia,AME,2014,,Election,Lower,130,69,0.5307692307692308,
 Bolivia,AME,2014,,Election,Upper,36,17,0.4722222222222222,
 Bosnia and Herzegovina,EUR,1990,,Election,Single,156,7,0.04487179487179487,The Assembly of the Federated Republic of Bosnia and Herzegovina became the first legislature of Bosnia and Herzegovina after the country became independent in March 1992. Women of Bosnia and Herzegovina were previously elected to the Parliament of the SFR of Yugoslavia.
 Bosnia and Herzegovina,EUR,1998,,Election,Lower,42,12,0.2857142857142857,
-Bosnia and Herzegovina,EUR,1998,,Election,Upper,15,0,0,
+Bosnia and Herzegovina,EUR,1998,,Election,Upper,15,0,0.0,
 Bosnia and Herzegovina,EUR,2000,,Election,Lower,42,3,0.07142857142857142,
 Bosnia and Herzegovina,EUR,2002,,Election,Lower,42,7,0.16666666666666666,
-Bosnia and Herzegovina,EUR,2002,,Election,Upper,15,0,0,
+Bosnia and Herzegovina,EUR,2002,,Election,Upper,15,0,0.0,
 Bosnia and Herzegovina,EUR,2006,,Election,Lower,42,6,0.14285714285714285,
 Bosnia and Herzegovina,EUR,2007,,Election,Upper,15,2,0.13333333333333333,
 Bosnia and Herzegovina,EUR,2010,,Election,Lower,42,7,0.16666666666666666,"28 from the Federation of Bosnia and Herzegovina, 14 from the Republika Srpska."
@@ -447,9 +447,9 @@ Bosnia and Herzegovina,EUR,2011,,Election,Upper,15,2,0.13333333333333333, Ten fr
 Bosnia and Herzegovina,EUR,2014,,Election,Lower,42,9,0.21428571428571427,
 Bosnia and Herzegovina,EUR,2015,,Election,Upper,15,2,0.13333333333333333,
 Bosnia and Herzegovina,EUR,2018,October,Election,Lower,42,9,0.21428571428571427,
-Botswana,SUB-SAHARAN,1965,,Election,Single,31,0,0,The Legislative Assembly of Buchanaland became the first legislature of Botswana after the country became independent on 30 September 1966.
-Botswana,SUB-SAHARAN,1969,,Election,Single,36,0,0,
-Botswana,SUB-SAHARAN,1974,,Election,Single,37,0,0,
+Botswana,SUB-SAHARAN,1965,,Election,Single,31,0,0.0,The Legislative Assembly of Buchanaland became the first legislature of Botswana after the country became independent on 30 September 1966.
+Botswana,SUB-SAHARAN,1969,,Election,Single,36,0,0.0,
+Botswana,SUB-SAHARAN,1974,,Election,Single,37,0,0.0,
 Botswana,SUB-SAHARAN,1979,,Election,Single,37,2,0.05405405405405406,
 Botswana,SUB-SAHARAN,1984,,Election,Single,39,2,0.05128205128205128,
 Botswana,SUB-SAHARAN,1989,,Election,Single,40,2,0.05,"34 directly elected, 4 co-opted and 2 ex officio members (the President of the Republic and the Attorney-General)."
@@ -458,28 +458,28 @@ Botswana,SUB-SAHARAN,1999,,Election,Single,47,8,0.1702127659574468,
 Botswana,SUB-SAHARAN,2004,November,Election,Single,63,7,0.1111111111111111,
 Botswana,SUB-SAHARAN,2009,,Election,Single,63,5,0.07936507936507936,"directly elected 57; other 6: Other: Four members nominated by the President and elected by the National Assembly; Two ex officio members (the President of the Republic and the Attorney General). The statutory number of members includes the Speaker, who may be appointed from outside the National Assembly. "
 Botswana,SUB-SAHARAN,2014,November,Election,Single,63,6,0.09523809523809523,
-Brazil,AME,1945,,Election,Lower,286,0,0,
-Brazil,AME,1945,,Election,Upper,63,0,0,
+Brazil,AME,1945,,Election,Lower,286,0,0.0,
+Brazil,AME,1945,,Election,Upper,63,0,0.0,
 Brazil,AME,1950,,Election,Lower,304,1,0.003289473684210526,
-Brazil,AME,1950,,Election,Upper,63,0,0,
+Brazil,AME,1950,,Election,Upper,63,0,0.0,
 Brazil,AME,1954,,Election,Lower,321,1,0.003115264797507788,
-Brazil,AME,1954,,Election,Upper,63,0,0,
+Brazil,AME,1954,,Election,Upper,63,0,0.0,
 Brazil,AME,1958,,Election,Lower,326,3,0.009202453987730062,
-Brazil,AME,1958,,Election,Upper,63,0,0,
+Brazil,AME,1958,,Election,Upper,63,0,0.0,
 Brazil,AME,1962,,Election,Lower,409,2,0.004889975550122249,
-Brazil,AME,1962,,Election,Upper,66,0,0,
+Brazil,AME,1962,,Election,Upper,66,0,0.0,
 Brazil,AME,1966,,Election,Lower,409,5,0.012224938875305624,"The military régime (in power since 1964) suspended Congress in December 1968, before recalling it in October 1969."
-Brazil,AME,1966,,Election,Upper,66,0,0,"The military régime (in power since 1964) suspended Congress in December 1968, before recalling it in October 1969."
+Brazil,AME,1966,,Election,Upper,66,0,0.0,"The military régime (in power since 1964) suspended Congress in December 1968, before recalling it in October 1969."
 Brazil,AME,1970,,Election,Lower,310,1,0.0032258064516129032,
-Brazil,AME,1970,,Election,Upper,66,0,0,
+Brazil,AME,1970,,Election,Upper,66,0,0.0,
 Brazil,AME,1974,,Election,Lower,364,1,0.0027472527472527475,
-Brazil,AME,1974,,Election,Upper,66,0,0,
+Brazil,AME,1974,,Election,Upper,66,0,0.0,
 Brazil,AME,1978,,Election,Lower,420,4,0.009523809523809525,
 Brazil,AME,1978,,Election,Upper,67,1,0.014925373134328358,
 Brazil,AME,1982,,Election,Lower,479,7,0.014613778705636743,
-Brazil,AME,1982,,Election,Upper,69,0,0,
+Brazil,AME,1982,,Election,Upper,69,0,0.0,
 Brazil,AME,1986,,Election,Lower,487,26,0.053388090349075976,
-Brazil,AME,1986,,Election,Upper,71,0,0,
+Brazil,AME,1986,,Election,Upper,71,0,0.0,
 Brazil,AME,1990,,Election,Lower,503,28,0.055666003976143144,
 Brazil,AME,1990,,Election,Upper,81,2,0.024691358024691357,
 Brazil,AME,1994,,Election,Lower,513,36,0.07017543859649122,
@@ -522,7 +522,7 @@ Bulgaria,EUR,2013,,Election,Single,240,55,0.22916666666666666,
 Bulgaria,EUR,2014,,Election,Single,240,48,0.2,
 Bulgaria,EUR,2017,November,Election,Single,240,57,0.2375,
 Bulgaria,EUR,2013,June,Election,Single,240,59,0.24583333333333332,
-Burkina Faso,SUB-SAHARAN,1970,,Election,Single,57,0,0,First legislature of Upper Volta after the country became independent on 5 August 1960.  The National Assembly was dissolved following a military coup d'Etat on 8 February 1974 and replaced in July by the Consultative Council for Renewal composed of 65 members appointed by the President.
+Burkina Faso,SUB-SAHARAN,1970,,Election,Single,57,0,0.0,First legislature of Upper Volta after the country became independent on 5 August 1960.  The National Assembly was dissolved following a military coup d'Etat on 8 February 1974 and replaced in July by the Consultative Council for Renewal composed of 65 members appointed by the President.
 Burkina Faso,SUB-SAHARAN,1978,,Election,Single,57,1,0.017543859649122806,The National Assembly was dissolved following a military coup d'Etat in November 1980.
 Burkina Faso,SUB-SAHARAN,1992,,Election,Single,107,6,0.056074766355140186,
 Burkina Faso,SUB-SAHARAN,2002,,Election,Single,111,11,0.0990990990990991,
@@ -530,9 +530,9 @@ Burkina Faso,SUB-SAHARAN,2003,,Election,Single,111,13,0.11711711711711711,
 Burkina Faso,SUB-SAHARAN,2007,,Election,Single,111,17,0.15315315315315314,
 Burkina Faso,SUB-SAHARAN,2012,,Election,Single,127,20,0.15748031496062992,
 Burkina Faso,SUB-SAHARAN,2015,,Election,Single,127,12,0.09448818897637795,
-Burundi,SUB-SAHARAN,1961,,Election,Single,64,0,0,First legislature of Burundi after the country became independent on 1 July 1962.
-Burundi,SUB-SAHARAN,1965,,Election,Lower,33,0,0,Parliament was dissolved following a military coup d'Etat on 28 November 1966.
-Burundi,SUB-SAHARAN,1965,,Election,Upper,16,0,0,The Senate was composed of 8 elected members and 4 co-opted members as well as 4 substitutes. Parliament was dissolved following a military coup d'Etat on 28 November 1966.
+Burundi,SUB-SAHARAN,1961,,Election,Single,64,0,0.0,First legislature of Burundi after the country became independent on 1 July 1962.
+Burundi,SUB-SAHARAN,1965,,Election,Lower,33,0,0.0,Parliament was dissolved following a military coup d'Etat on 28 November 1966.
+Burundi,SUB-SAHARAN,1965,,Election,Upper,16,0,0.0,The Senate was composed of 8 elected members and 4 co-opted members as well as 4 substitutes. Parliament was dissolved following a military coup d'Etat on 28 November 1966.
 Burundi,SUB-SAHARAN,1982,,Election,Single,65,6,0.09230769230769231,52 Seats elected and 13 appointed. The Assembly was dissolved following a military coup d'Etat on 3 September 1987.
 Burundi,SUB-SAHARAN,1993,,Election,Single,81,10,0.12345679012345678,
 Burundi,SUB-SAHARAN,2005,,Election,Lower,118,36,0.3050847457627119,
@@ -552,16 +552,16 @@ Cabo Verde,SUB-SAHARAN,2006,,Election,Single,72,11,0.1527777777777778,
 Cabo Verde,SUB-SAHARAN,2011,,Election,Single,72,15,0.20833333333333334,"Six members represent Cape Verdeans abroad: two each from the Americas, the rest of Africa and Europe."
 Cabo Verde,SUB-SAHARAN,2016,,Election,Single,72,15,0.20833333333333334,
 Cabo Verde,SUB-SAHARAN,2016,march,Election,Single,72,17,0.2361111111111111,
-Cambodia,ASIA,1955,,Election,Lower,91,0,0,First legislature of Cambodia after the country became independent on 9 November 1953; the Parliament was then called National Congress.
-Cambodia,ASIA,1955,,Election,Upper,28,0,0,"First legislature of Cambodia after the country became independent on 9 November 1953; the Parliament was then called National Congress. 2 members appointed by the King, 2 members elected by the National Assembly, at least 10 members elected by the Regions, at least 10 members elected by the trades, and 4 members elected by the civil servants."
+Cambodia,ASIA,1955,,Election,Lower,91,0,0.0,First legislature of Cambodia after the country became independent on 9 November 1953; the Parliament was then called National Congress.
+Cambodia,ASIA,1955,,Election,Upper,28,0,0.0,"First legislature of Cambodia after the country became independent on 9 November 1953; the Parliament was then called National Congress. 2 members appointed by the King, 2 members elected by the National Assembly, at least 10 members elected by the Regions, at least 10 members elected by the trades, and 4 members elected by the civil servants."
 Cambodia,ASIA,1958,,Election,Lower,61,1,0.01639344262295082,
-Cambodia,ASIA,1958,,Election,Upper,28,0,0,"2 members appointed by the King, 2 members elected by the National Assembly, at least 10 members elected by the Regions, at least 10 members elected by the trades, and 4 members elected by the civil servants."
-Cambodia,ASIA,1962,,Election,Lower,77,0,0,
-Cambodia,ASIA,1962,,Election,Upper,28,0,0,"2 members appointed by the King, 2 members elected by the National Assembly, at least 10 members elected by the Regions, at least 10 members elected by the trades, and 4 members elected by the civil servants."
-Cambodia,ASIA,1966,,Election,Lower,82,0,0,The Parliament was subsequently dissolved following a military coup d'Etat on 18 March 1970.
-Cambodia,ASIA,1966,,Election,Upper,28,0,0,"2 members appointed by the King, 2 members elected by the National Assembly, at least 10 members elected by the Regions, at least 10 members elected by the trades, and 4 members elected by the civil servants. The Parliament was subsequently dissolved following a military coup d'Etat on 18 March 1970."
+Cambodia,ASIA,1958,,Election,Upper,28,0,0.0,"2 members appointed by the King, 2 members elected by the National Assembly, at least 10 members elected by the Regions, at least 10 members elected by the trades, and 4 members elected by the civil servants."
+Cambodia,ASIA,1962,,Election,Lower,77,0,0.0,
+Cambodia,ASIA,1962,,Election,Upper,28,0,0.0,"2 members appointed by the King, 2 members elected by the National Assembly, at least 10 members elected by the Regions, at least 10 members elected by the trades, and 4 members elected by the civil servants."
+Cambodia,ASIA,1966,,Election,Lower,82,0,0.0,The Parliament was subsequently dissolved following a military coup d'Etat on 18 March 1970.
+Cambodia,ASIA,1966,,Election,Upper,28,0,0.0,"2 members appointed by the King, 2 members elected by the National Assembly, at least 10 members elected by the Regions, at least 10 members elected by the trades, and 4 members elected by the civil servants. The Parliament was subsequently dissolved following a military coup d'Etat on 18 March 1970."
 Cambodia,ASIA,1972,,Election,Lower,126,4,0.031746031746031744,Parliament was dissolved following the fall of the régime on 17 April 1975.
-Cambodia,ASIA,1972,,Election,Upper,40,0,0,Parliament was dissolved following the fall of the régime on 17 April 1975.
+Cambodia,ASIA,1972,,Election,Upper,40,0,0.0,Parliament was dissolved following the fall of the régime on 17 April 1975.
 Cambodia,ASIA,1976,,Election,Single,250,46,0.184,The Assembly was dissolved following the fall of the régime in January 1979.
 Cambodia,ASIA,1981,,Election,Single,117,22,0.18803418803418803,
 Cambodia,ASIA,1986,,Election,Single,117,23,0.19658119658119658,
@@ -589,7 +589,7 @@ Cameroon,SUB-SAHARAN,1997,,Election,Single,180,22,0.12222222222222222,
 Cameroon,SUB-SAHARAN,1997,december,Election,Single,180,10,0.05555555555555555,
 Cameroon,SUB-SAHARAN,2002,,Election,Single,180,16,0.08888888888888889,
 Cameroon,SUB-SAHARAN,2007,July-September,Election,Single,163,24,0.147239263803681,"According to the 1996 Constitution, parliament also comprises a Senate, which has not yet been formed."
-Cameroon,SUB-SAHARAN,2007,July-December,Election,Single,180,25,,
+Cameroon,SUB-SAHARAN,2007,July-December,Election,Single,180,25,0.1388888888888889,
 Cameroon,SUB-SAHARAN,2013,,Election,Upper,100,20,0.2,"The first ever indirect elections were held for 70 of the 100 seats in the newly created Senate. The 1996 Constitution provides for a bicameral parliament, comprising the National Assembly and the Senate, but the latter was only formed in 2013."
 Cameroon,SUB-SAHARAN,2018,March,Election,Upper,100,26,0.26,
 Canada,AME,1945,,Election,Lower,245,1,0.004081632653061225,
@@ -690,11 +690,11 @@ Canada,AME,2015,May,Election,Lower,304,77,0.2532894736842105,
 Canada,AME,2015,August,Renewal,Upper,83,31,0.37349397590361444,
 Canada,AME,2016,November,Renewal,Upper,102,43,0.4215686274509804,
 Canada,AME,2017,,Renewal,Upper,100,43,0.43,
-Colombia,AME,1964,,Election,Upper,98,0,0,
+Colombia,AME,1964,,Election,Upper,98,0,0.0,
 Colombia,AME,1966,,Election,Lower,190,7,0.03684210526315789,
 Colombia,AME,1966,,Election,Upper,106,4,0.03773584905660377,
 Colombia,AME,1968,,Election,Lower,204,8,0.0392156862745098,
-Colombia,AME,1968,,Election,Upper,106,0,0,
+Colombia,AME,1968,,Election,Upper,106,0,0.0,
 Colombia,AME,1970,,Election,Lower,210,9,0.04285714285714286,
 Colombia,AME,1970,,Election,Upper,118,3,0.025423728813559324,
 Colombia,AME,1974,,Election,Lower,199,12,0.06030150753768844,
@@ -723,15 +723,15 @@ Colombia,AME,2014,,Election,Lower,166,33,0.19879518072289157,
 Colombia,AME,2014,,Election,Upper,102,23,0.22549019607843138,
 Colombia,AME,2018,MARCH,Election,Upper,108,23,0.21296296296296297,"In July 2018, 23 women were sworn into the Senate, including two women nominated by the FARC (among 5 reserved seats). However, the election of one female senator was invalidated in September and two male senators did not take up their seats. Consequently, there were 22 women out of 105 senators."
 Colombia,AME,2018,MARCH,Election,Lower,171,32,0.1871345029239766,"Statutory number of seats: 172. 31 women were directly elected and 1 woman won a seat as runner-up vice-presidential candidate. Subsequently, one elected woman saw her election invalidated. Consequently, there were 31 women out of 171 deputies."
-Comoros,SUB-SAHARAN,1978,,Election,Single,38,0,0,First legislature of the Comoros after the country became independent in December 1975.
-Comoros,SUB-SAHARAN,1982,,Election,Single,38,0,0,
-Comoros,SUB-SAHARAN,1987,,Election,Single,42,0,0,
+Comoros,SUB-SAHARAN,1978,,Election,Single,38,0,0.0,First legislature of the Comoros after the country became independent in December 1975.
+Comoros,SUB-SAHARAN,1982,,Election,Single,38,0,0.0,
+Comoros,SUB-SAHARAN,1987,,Election,Single,42,0,0.0,
 Comoros,SUB-SAHARAN,1993,,Election,Single,42,1,0.023809523809523808,"Appointed Minister soon after her election, she gave up her seat in Parliament:  No women out of 42 members: 0.0%."
-Comoros,SUB-SAHARAN,1996,,Election,Single,43,0,0,
+Comoros,SUB-SAHARAN,1996,,Election,Single,43,0,0.0,
 Comoros,SUB-SAHARAN,2004,,Election,Single,33,1,0.030303030303030304,Only 18 seats directly elected
-Comoros,SUB-SAHARAN,2009,,Election,Single,33,0,0,
+Comoros,SUB-SAHARAN,2009,,Election,Single,33,0,0.0,
 Comoros,SUB-SAHARAN,2015,,Election,Single,33,1,0.030303030303030304,
-Congo (Republic of),SUB-SAHARAN,1959,,Election,Single,58,0,0,The Assembly elected before independence became the first legislature of Congo after the country became independent on 15 August 1960.
+Congo (Republic of),SUB-SAHARAN,1959,,Election,Single,58,0,0.0,The Assembly elected before independence became the first legislature of Congo after the country became independent on 15 August 1960.
 Congo (Republic of),SUB-SAHARAN,1963,,Election,Single,55,3,0.05454545454545454,The Assembly was dissolved following a military coup d'Etat in August 1968 and replaced by the National Revolutionary Council.
 Congo (Republic of),SUB-SAHARAN,1973,,Election,Single,125,8,0.064,
 Congo (Republic of),SUB-SAHARAN,1979,,Election,Single,153,13,0.08496732026143791,
@@ -752,7 +752,7 @@ Congo (Republic of),SUB-SAHARAN,2012,August,Election,Lower,136,10,0.073529411764
 Congo (Republic of),SUB-SAHARAN,2014,,Election,Upper,72,14,0.19444444444444445,
 Congo (Republic of),SUB-SAHARAN,2017,August,Election,Upper,71,14,0.19718309859154928,
 Congo (Republic of),SUB-SAHARAN,2017,July,Election,Lower,151,17,0.11258278145695365,
-Costa Rica,AME,1949,,Election,Single,45,0,0,Substitute members were elected at the same time as titular members until February 1962.
+Costa Rica,AME,1949,,Election,Single,45,0,0.0,Substitute members were elected at the same time as titular members until February 1962.
 Costa Rica,AME,1953,,Election,Single,45,3,0.06666666666666667,Substitute members were elected at the same time as titular members until February 1962.
 Costa Rica,AME,1958,,Election,Single,45,2,0.044444444444444446,Substitute members were elected at the same time as titular members until February 1962.
 Costa Rica,AME,1962,,Election,Single,57,1,0.017543859649122806,Substitute members were elected at the same time as titular members until February 1962.
@@ -771,7 +771,7 @@ Costa Rica,AME,2006,,Election,Single,57,22,0.38596491228070173,
 Costa Rica,AME,2010,,Election,Single,57,22,0.38596491228070173,
 Costa Rica,AME,2014,,Election,Single,57,19,0.3333333333333333,
 Costa Rica,AME,2018,February,Election,Single,57,26,0.45614035087719296,
-Cote d'Ivoire,SUB-SAHARAN,1960,,Election,Single,70,0,0,First legislature of Côte d'Ivoire after the country became independent on 7 August 1960.
+Cote d'Ivoire,SUB-SAHARAN,1960,,Election,Single,70,0,0.0,First legislature of Côte d'Ivoire after the country became independent on 7 August 1960.
 Cote d'Ivoire,SUB-SAHARAN,1965,,Election,Single,85,3,0.03529411764705882,
 Cote d'Ivoire,SUB-SAHARAN,1970,,Election,Single,100,3,0.03,
 Cote d'Ivoire,SUB-SAHARAN,1975,,Election,Single,120,11,0.09166666666666666,
@@ -796,7 +796,7 @@ Croatia,EUR,2015,November,Election,Single,151,21,0.1390728476821192,
 Croatia,EUR,2016,january,Election,Single,151,23,0.152317880794702,
 Croatia,EUR,2016,september,Election,Single,151,19,0.12582781456953643,
 Cuba,AME,1948,,Election,Lower,72,4,0.05555555555555555,Congress was dissolved following a military coup d'Etat on 10 March 1952.
-Cuba,AME,1948,,Election,Upper,54,0,0,Congress was dissolved following a military coup d'Etat on 10 March 1952.
+Cuba,AME,1948,,Election,Upper,54,0,0.0,Congress was dissolved following a military coup d'Etat on 10 March 1952.
 Cuba,AME,1958,,Election,Lower,128,3,0.0234375,Congress was dissolved in January 1959.
 Cuba,AME,1958,,Election,Upper,54,1,0.018518518518518517,Congress was dissolved in January 1959.
 Cuba,AME,1976,,Election,Single,481,107,0.22245322245322247,
@@ -809,9 +809,9 @@ Cuba,AME,2008,,Election,Single,614,265,0.43159609120521175,
 Cuba,AME,2013,,Election,Single,586,265,0.4522184300341297,"All 612 candidates who ran for the 612 seats in the National Assembly of the People's Power were elected. All candidates were members of the Communist Party. They comprised a record 299 women (48.9%), up from 43.2%. 67 per cent of the newly-elected members entered parliament for the first time."
 Cuba,AME,2013,,Election,Single,612,299,0.48856209150326796,
 Cuba,AME,2018,MARCH,Election,Lower,605,322,0.5322314049586777,"In 2018, the statutory number of members decreased from 612 to 605 due to the decrease of the population in the country."
-Cyprus,EUR,1960,,Election,Single,35,0,0,"First legislature of Cyprus after the country became independent on 16 August 1960. One woman elected in a by-election held in October 1963:  2.9%. The nominal number of seats is 50, but there were 15 vacancies at the time. The vacancies are due to the 15 seats reserved for Turkish Cypriots being left vacant."
-Cyprus,EUR,1970,,Election,Single,35,0,0,"The nominal number of seats is 50, but there were 15 vacancies at the time. The vacancies are due to the 15 seats reserved for Turkish Cypriots being left vacant."
-Cyprus,EUR,1976,,Election,Single,35,0,0,"The nominal number of seats is 50, but there were 15 vacancies at the time. The vacancies are due to the 15 seats reserved for Turkish Cypriots being left vacant."
+Cyprus,EUR,1960,,Election,Single,35,0,0.0,"First legislature of Cyprus after the country became independent on 16 August 1960. One woman elected in a by-election held in October 1963:  2.9%. The nominal number of seats is 50, but there were 15 vacancies at the time. The vacancies are due to the 15 seats reserved for Turkish Cypriots being left vacant."
+Cyprus,EUR,1970,,Election,Single,35,0,0.0,"The nominal number of seats is 50, but there were 15 vacancies at the time. The vacancies are due to the 15 seats reserved for Turkish Cypriots being left vacant."
+Cyprus,EUR,1976,,Election,Single,35,0,0.0,"The nominal number of seats is 50, but there were 15 vacancies at the time. The vacancies are due to the 15 seats reserved for Turkish Cypriots being left vacant."
 Cyprus,EUR,1981,,Election,Single,35,1,0.02857142857142857,"The nominal number of seats is 50, but there were 15 vacancies at the time. The vacancies are due to the 15 seats reserved for Turkish Cypriots being left vacant."
 Cyprus,EUR,1985,,Election,Single,56,1,0.017857142857142856,"The nominal number of seats is 70, but there were 24 vacancies at the time. The vacancies are due to the 24 seats reserved for Turkish Cypriots being left vacant."
 Cyprus,EUR,1991,,Election,Single,56,3,0.05357142857142857,"The nominal number of seats is 70, but there were 24 vacancies at the time. The vacancies are due to the 24 seats reserved for Turkish Cypriots being left vacant. In March 1993, one of these women parliamentarians became Minister of Education and therefore gave up her seat in Parliament:  2 women our of 56 members:  3.6%."
@@ -819,8 +819,8 @@ Cyprus,EUR,1996,,Election,Single,56,3,0.05357142857142857,"The nominal number of
 Cyprus,EUR,2001,,Election,Single,56,6,0.10714285714285714,"The nominal number of seats is 70, but there were 24 vacancies at the time. The vacancies are due to the 24 seats reserved for Turkish Cypriots being left vacant."
 Cyprus,EUR,2006,,Election,Single,56,8,0.14285714285714285,"The nominal number of seats is 70, but there were 24 vacancies at the time. The vacancies are due to the 24 seats reserved for Turkish Cypriots being left vacant."
 Cyprus,EUR,2011,,Election,Single,56,6,0.10714285714285714,56 members are elected by the Greek-Cypriot community while 24 are elected by the Turkish-Cypriot community (seats currently vacant).
-Cyprus,EUR,2016,january,Election,Single,56,7,,
-Cyprus,EUR,2016,may,Election,Single,56,11,,
+Cyprus,EUR,2016,january,Election,Single,56,7,0.125,
+Cyprus,EUR,2016,may,Election,Single,56,11,0.19642857142857142,
 Cyprus,EUR,2016,june,Election,Single,56,10,0.17857142857142858,
 Czech Republic,EUR,1992,,Election,Single Lower?,200,20,0.1,"First legislature of the Czech Republic after the country became independent on 1 January 1993, at which time the Senate had not yet been formed.  Czech women had previously been elected to the Federal Parliament of Czechoslovakia. "
 Czech Republic,EUR,1996,,Election,Lower,200,30,0.15,
@@ -872,9 +872,9 @@ Democratic People's Republic of Korea,ASIA,1998,,Election,Single,687,138,0.20087
 Democratic People's Republic of Korea,ASIA,2003,,Election,Single,687,138,0.20087336244541484,
 Democratic People's Republic of Korea,ASIA,2008,,Election,Single,300,41,0.13666666666666666,
 Democratic People's Republic of Korea,ASIA,2014,,Election,Single,687,112,0.16302765647743814,
-Democratic Republic of the Congo,SUB-SAHARAN,1960,,Election,Lower,137,0,0,First legislature of the Democratic Republic of Congo after the country became independent on 30 June 1960.  Parliament was dissolved following a military coup d'Etat in 1961.
-Democratic Republic of the Congo,SUB-SAHARAN,1960,,Election,Upper,84,0,0,First legislature of the Democratic Republic of Congo after the country became independent on 30 June 1960.  Parliament was dissolved following a military coup d'Etat in 1961.
-Democratic Republic of the Congo,SUB-SAHARAN,1965,,Election,Single,420,0,0,The Parliament was dissolved following a military coup d'Etat in November 1965.
+Democratic Republic of the Congo,SUB-SAHARAN,1960,,Election,Lower,137,0,0.0,First legislature of the Democratic Republic of Congo after the country became independent on 30 June 1960.  Parliament was dissolved following a military coup d'Etat in 1961.
+Democratic Republic of the Congo,SUB-SAHARAN,1960,,Election,Upper,84,0,0.0,First legislature of the Democratic Republic of Congo after the country became independent on 30 June 1960.  Parliament was dissolved following a military coup d'Etat in 1961.
+Democratic Republic of the Congo,SUB-SAHARAN,1965,,Election,Single,420,0,0.0,The Parliament was dissolved following a military coup d'Etat in November 1965.
 Democratic Republic of the Congo,SUB-SAHARAN,1970,,Election,Single,420,12,0.02857142857142857,
 Democratic Republic of the Congo,SUB-SAHARAN,1975,,Election,Single,244,27,0.11065573770491803,
 Democratic Republic of the Congo,SUB-SAHARAN,1977,,Election,Single,272,5,0.01838235294117647,
@@ -917,16 +917,16 @@ Denmark,EUR,2005,,Election,Single,179,66,0.3687150837988827,
 Denmark,EUR,2007,,Election,Single,179,67,0.3743016759776536,4 seats reserved for the Faroese and Greenland  one is held by a woman from Greenland
 Denmark,EUR,2011,,Election,Single,179,70,0.39106145251396646,
 Denmark,EUR,2015,June,Election,Single,179,67,0.3743016759776536,
-Djibouti,SUB-SAHARAN,1977,,Election,Single,65,0,0,First legislature of Djibouti after the country became independent on 27 June 1977.
-Djibouti,SUB-SAHARAN,1982,,Election,Single,65,0,0,
-Djibouti,SUB-SAHARAN,1987,,Election,Single,65,0,0,
-Djibouti,SUB-SAHARAN,1992,,Election,Single,65,0,0,
-Djibouti,SUB-SAHARAN,1997,,Election,Single,65,0,0,
+Djibouti,SUB-SAHARAN,1977,,Election,Single,65,0,0.0,First legislature of Djibouti after the country became independent on 27 June 1977.
+Djibouti,SUB-SAHARAN,1982,,Election,Single,65,0,0.0,
+Djibouti,SUB-SAHARAN,1987,,Election,Single,65,0,0.0,
+Djibouti,SUB-SAHARAN,1992,,Election,Single,65,0,0.0,
+Djibouti,SUB-SAHARAN,1997,,Election,Single,65,0,0.0,
 Djibouti,SUB-SAHARAN,2003,,Election,Single,65,7,0.1076923076923077,
 Djibouti,SUB-SAHARAN,2008,,Election,Single,65,9,0.13846153846153847,
 Djibouti,SUB-SAHARAN,2013,,Election,Single,65,9,0.13846153846153847,"The constitutional amendments adopted in April 2010 provide for a bicameral parliament comprising the existing National Assembly and a new Senate, yet to be established. "
 Djibouti,SUB-SAHARAN,2013,April,Election,Single,55,7,0.12727272727272726,
-Djibouti,SUB-SAHARAN,2018,February,Election,Single,65,17,26.2%,"New quota law (25% women) applied for the first time. Fifteen women were elected in February 2018. On 23 February 2018, when the Cabinet was re-appointed, the total number of women parliamentarians totalled 17. "
+Djibouti,SUB-SAHARAN,2018,February,Election,Single,65,17,0.26153846153846155,"New quota law (25% women) applied for the first time. Fifteen women were elected in February 2018. On 23 February 2018, when the Cabinet was re-appointed, the total number of women parliamentarians totalled 17. "
 Dominica,AME,1980,,Election,Single,30,4,0.13333333333333333,"First legislature of Dominica after the country became independent on 3 November 1978. 21 elected Representatives, 9 Senators appointed by the Head of State plus the Speaker."
 Dominica,AME,1985,,Election,Single,30,3,0.1,"21 elected Representatives, 9 Senators appointed by the Head of State plus the Speaker."
 Dominica,AME,1990,,Election,Single,30,5,0.16666666666666666,"21 elected Representatives, 9 Senators appointed by the Head of State plus the Speaker."
@@ -936,9 +936,9 @@ Dominica,AME,2005,,Election,Single,31,4,0.12903225806451613,"21 elected Represen
 Dominica,AME,2009,,Election,Single,32,4,0.125,"21 elected Representatives, 9 Senators appointed by the Head of State plus the Speaker."
 Dominica,AME,2010,May,Election,Single,26,5,0.19230769230769232,
 Dominica,AME,2014,,Election,Single,32,7,0.21875,
-Dominican Republic,AME,1946,,Election,Upper,19,0,0,
+Dominican Republic,AME,1946,,Election,Upper,19,0,0.0,
 Dominican Republic,AME,1947,,Election,Lower,38,1,0.02631578947368421,
-Dominican Republic,AME,1950,,Election,Upper,20,0,0,
+Dominican Republic,AME,1950,,Election,Upper,20,0,0.0,
 Dominican Republic,AME,1952,,Election,Lower,52,3,0.057692307692307696,
 Dominican Republic,AME,1954,,Election,Upper,23,3,0.13043478260869565,
 Dominican Republic,AME,1957,,Election,Lower,58,1,0.017241379310344827,
@@ -958,7 +958,7 @@ Dominican Republic,AME,1982,,Election,Upper,27,1,0.037037037037037035,
 Dominican Republic,AME,1986,,Election,Lower,120,9,0.075,
 Dominican Republic,AME,1986,,Election,Upper,30,1,0.03333333333333333,
 Dominican Republic,AME,1990,,Election,Lower,120,14,0.11666666666666667,
-Dominican Republic,AME,1990,,Election,Upper,30,0,0,
+Dominican Republic,AME,1990,,Election,Upper,30,0,0.0,
 Dominican Republic,AME,1994,,Election,Lower,120,14,0.11666666666666667,
 Dominican Republic,AME,1994,,Election,Upper,30,1,0.03333333333333333,
 Dominican Republic,AME,1998,,Election,Lower,149,24,0.1610738255033557,
@@ -972,16 +972,16 @@ Dominican Republic,AME,2010,,Election,Lower,183,38,0.20765027322404372,"Under th
 Dominican Republic,AME,2010,,Election,Upper,32,3,0.09375,
 Dominican Republic,AME,2016,,Election,Lower,183,38,0.20765027322404372,
 Dominican Republic,AME,2016,,Election,Upper,32,3,0.09375,
-Ecuador,AME,1948,,Election,Lower,73,0,0,First elections of the Constitutional Period following the 1944-1948 rule by José María Velasco Ibarra
-Ecuador,AME,1948,,Election,Upper,47,0,0,First elections of the Constitutional Period following the 1944-1948 rule by José María Velasco Ibarra
-Ecuador,AME,1952,,Election,Lower,73,0,0,
-Ecuador,AME,1952,,Election,Upper,47,0,0,
+Ecuador,AME,1948,,Election,Lower,73,0,0.0,First elections of the Constitutional Period following the 1944-1948 rule by José María Velasco Ibarra
+Ecuador,AME,1948,,Election,Upper,47,0,0.0,First elections of the Constitutional Period following the 1944-1948 rule by José María Velasco Ibarra
+Ecuador,AME,1952,,Election,Lower,73,0,0.0,
+Ecuador,AME,1952,,Election,Upper,47,0,0.0,
 Ecuador,AME,1960,,Election,Lower,73,2,0.0273972602739726,Congress was dissolved following a military coup d'Etat in July 1963.
-Ecuador,AME,1960,,Election,Upper,47,0,0,Congress was dissolved following a military coup d'Etat in July 1963.
+Ecuador,AME,1960,,Election,Upper,47,0,0.0,Congress was dissolved following a military coup d'Etat in July 1963.
 Ecuador,AME,1966,,Election,Temporary Assembly,77,1,0.012987012987012988,Constituent  Assembly (unicameral).
-Ecuador,AME,1968,,Election,Lower,74,0,0,"In June 1970, the National Congress was dissolved by President Velasco with the support of the armed forces."
+Ecuador,AME,1968,,Election,Lower,74,0,0.0,"In June 1970, the National Congress was dissolved by President Velasco with the support of the armed forces."
 Ecuador,AME,1968,,Election,Upper,51,1,0.0196078431372549,"In June 1970, the National Congress was dissolved by President Velasco with the support of the armed forces."
-Ecuador,AME,1979,,Election,Single,69,0,0,
+Ecuador,AME,1979,,Election,Single,69,0,0.0,
 Ecuador,AME,1984,,Election,Single,72,3,0.041666666666666664,
 Ecuador,AME,1986,,Election,Single,72,1,0.013888888888888888,
 Ecuador,AME,1988,,Election,Single,67,3,0.04477611940298507,
@@ -995,7 +995,7 @@ Ecuador,AME,2009,,Election,Single,124,40,0.3225806451612903,
 Ecuador,AME,2013,,Election,Single,124,40,0.3225806451612903,
 Ecuador,AME,2017,,Election,Single,137,52,0.3795620437956204,
 Ecuador,AME,2013,May,Election,Single,137,53,0.38686131386861317,
-Egypt,MENA,1950,,Election,Single,319,0,0,Parliament was dissolved by royal decree on 24 March 1952.
+Egypt,MENA,1950,,Election,Single,319,0,0.0,Parliament was dissolved by royal decree on 24 March 1952.
 Egypt,MENA,1957,,Election,Single,350,2,0.005714285714285714,
 Egypt,MENA,1960,,Election,Single,600,7,0.011666666666666667,"The 400-member Assembly of Egypt, including 7 women, and 200 members of the Chamber of Deputies of Syria, no women among them.  The Assembly was dissolved following a military coup d'Etat on 29 September 1961 in Damascus, following which Syria seceded from the UAR and established the independent Syrian Arab Republic."
 Egypt,MENA,1964,,Election,Single,360,8,0.022222222222222223,
@@ -1085,11 +1085,11 @@ Eswatini,SUB-SAHARAN,2013,October,Election,Upper,30,10,0.3333333333333333,
 Eswatini,SUB-SAHARAN,2018,September,Election,Lower,69,5,0.07246376811594203,"2 women elected, 3 women appointed (formally swaziland)"
 Eswatini ,SUB-SAHARAN,2018,October,Election,Upper,30,7,0.23333333333333334,Formally Swaziland (see section on Swaziland - name change in 2017)
 Ethiopia,SUB-SAHARAN,1957,,Election,Lower,210,2,0.009523809523809525,First legislature of the Empire since 1932.
-Ethiopia,SUB-SAHARAN,1957,,Election,Upper,35,0,0,First legislature of the Empire since 1932.
+Ethiopia,SUB-SAHARAN,1957,,Election,Upper,35,0,0.0,First legislature of the Empire since 1932.
 Ethiopia,SUB-SAHARAN,1962,,Election,Lower,210,4,0.01904761904761905,
-Ethiopia,SUB-SAHARAN,1962,,Election,Upper,35,0,0,
+Ethiopia,SUB-SAHARAN,1962,,Election,Upper,35,0,0.0,
 Ethiopia,SUB-SAHARAN,1973,,Election,Lower,250,4,0.016,Parliament was dissolved in September 1974 following the Revolution.
-Ethiopia,SUB-SAHARAN,1973,,Election,Upper,125,0,0,Parliament was dissolved in September 1974 following the Revolution.
+Ethiopia,SUB-SAHARAN,1973,,Election,Upper,125,0,0.0,Parliament was dissolved in September 1974 following the Revolution.
 Ethiopia,SUB-SAHARAN,1987,,Election,Single,835,1,0.0011976047904191617,One woman among the 136 members of the Central Bureau of the National Shengo and 6 substitute women members among the 64 substitute members of the Central Bureau; no women among the members of the Politburo of the National Shengo. The National Conference of July 1991 dissolved the National Shengo and on a transitional basis established a Council of the Republic.
 Ethiopia,SUB-SAHARAN,1995,,Election,Lower,537,11,0.020484171322160148,In 1995 the period of transitional government ended.
 Ethiopia,SUB-SAHARAN,1995,,Election,Upper,108,7,0.06481481481481481,
@@ -1108,7 +1108,7 @@ Fiji,PAC,1976,,Election,Upper,22,1,0.045454545454545456,All senate members were 
 Fiji,PAC,1977,,Election,Lower,52,1,0.019230769230769232,
 Fiji,PAC,1982,,Election,Lower,52,1,0.019230769230769232,Parliament was dissolved following a military coup d'Etat of 1987.
 Fiji,PAC,1982,,Election,Upper,22,1,0.045454545454545456,All senate members were appointed; Parliament was dissolved following a military coup d'Etat of 1987.
-Fiji,PAC,1987,,Election,Lower,51,0,0,Parliament was dissolved following a military coup d'Etat of 1987.
+Fiji,PAC,1987,,Election,Lower,51,0,0.0,Parliament was dissolved following a military coup d'Etat of 1987.
 Fiji,PAC,1992,,Election,Lower,70,1,0.014285714285714285,
 Fiji,PAC,1992,,Election,Upper,34,3,0.08823529411764706,All senate members were appointed
 Fiji,PAC,1994,,Election,Lower,70,3,0.04285714285714286,
@@ -1188,8 +1188,8 @@ France,EUR,2014,,Election,Upper,348,87,0.25,
 France,EUR,2017,June,Election,Lower,577,224,0.3882149046793761,
 France,EUR,2017,September,Election,Upper,348,102,0.29310344827586204,
 Gabon,SUB-SAHARAN,1961,,Election,Single,67,1,0.014925373134328358,First legislature of Gabon after the country became independent on 17 August 1960.  The Assembly was then dissolved following a military coup d'Etat in February 1964
-Gabon,SUB-SAHARAN,1964,,Election,Single,47,0,0,The Assembly had been dissolved following a military coup d'Etat in February 1964
-Gabon,SUB-SAHARAN,1967,,Election,Single,67,0,0,
+Gabon,SUB-SAHARAN,1964,,Election,Single,47,0,0.0,The Assembly had been dissolved following a military coup d'Etat in February 1964
+Gabon,SUB-SAHARAN,1967,,Election,Single,67,0,0.0,
 Gabon,SUB-SAHARAN,1973,,Election,Single,70,3,0.04285714285714286,
 Gabon,SUB-SAHARAN,1980,,Election,Single,93,13,0.13978494623655913,
 Gabon,SUB-SAHARAN,1985,,Election,Single,120,16,0.13333333333333333,111 elected and 9 appointed by the Head of State.
@@ -1203,8 +1203,8 @@ Gabon,SUB-SAHARAN,2009,,Election,Upper,116,17,0.14655172413793102,
 Gabon,SUB-SAHARAN,2011,,Election,Lower,113,15,0.13274336283185842,
 Gabon,SUB-SAHARAN,2014,,Election,Upper,100,19,0.19,
 Gabon,SUB-SAHARAN,2018,October,Election,Lower,134,24,0.1791044776119403,
-Gambia (The),SUB-SAHARAN,1966,,Election,Single,41,0,0,First legislature of the Gambia after the country became independent on 18 February 1965; Parliament was then called Legislative Assembly. A number of appointed members and ex-officio members in all legislatures.
-Gambia (The),SUB-SAHARAN,1972,,Election,Single,41,0,0,A number of appointed members and ex-officio members in all legislatures
+Gambia (The),SUB-SAHARAN,1966,,Election,Single,41,0,0.0,First legislature of the Gambia after the country became independent on 18 February 1965; Parliament was then called Legislative Assembly. A number of appointed members and ex-officio members in all legislatures.
+Gambia (The),SUB-SAHARAN,1972,,Election,Single,41,0,0.0,A number of appointed members and ex-officio members in all legislatures
 Gambia (The),SUB-SAHARAN,1982,,Election,Single,49,3,0.061224489795918366,A number of appointed members and ex-officio members in all legislatures
 Gambia (The),SUB-SAHARAN,1987,,Election,Single,51,4,0.0784313725490196,A number of appointed members and ex-officio members in all legislatures
 Gambia (The),SUB-SAHARAN,1992,,Election,Single,51,4,0.0784313725490196,A number of appointed members and ex-officio members in all legislatures; The House was dissolved following a military coup d'Etat on 22 July 1994. All women were appointed.
@@ -1264,9 +1264,9 @@ Ghana,SUB-SAHARAN,2000,,Election,Single,200,18,0.09,
 Ghana,SUB-SAHARAN,2004,December,Election,Single,230,25,0.10869565217391304,
 Ghana,SUB-SAHARAN,2008,,Election,Single,228,18,0.07894736842105263,
 Ghana,SUB-SAHARAN,2016,,Election,Single,275,30,0.10909090909090909,
-Greece,EUR,1946,,Election,Single,354,0,0,
-Greece,EUR,1950,,Election,Single,250,0,0,
-Greece,EUR,1951,,Election,Single,258,0,0,
+Greece,EUR,1946,,Election,Single,354,0,0.0,
+Greece,EUR,1950,,Election,Single,250,0,0.0,
+Greece,EUR,1951,,Election,Single,258,0,0.0,
 Greece,EUR,1952,,Election,Single,300,1,0.0033333333333333335,
 Greece,EUR,1956,,Election,Single,300,2,0.006666666666666667,
 Greece,EUR,1958,,Election,Single,300,4,0.013333333333333334,
@@ -1304,12 +1304,12 @@ Grenada,AME,2003,,Election,Lower,15,4,0.26666666666666666,
 Grenada,AME,2003,,Election,Upper,13,4,0.3076923076923077,
 Grenada,AME,2008,,Election,Lower,15,2,0.13333333333333333,
 Grenada,AME,2008,,Election,Upper,13,4,0.3076923076923077,All Upper House members are appointed by the Governor General. 
-Grenada,AME,2018,,Election,Lower,15,7,46.7%,
-Grenada,AME,2018,,Election,Upper,13,4,30.8%,
+Grenada,AME,2018,,Election,Lower,15,7,0.4666666666666667,
+Grenada,AME,2018,,Election,Upper,13,4,0.3076923076923077,
 Guatemala,AME,1954,,Election,Single,66,1,0.015151515151515152,Congress was dissolved following a military coup d'Etat in 1954.
-Guatemala,AME,1955,,Election,Single,66,0,0,"1 March 1956, 1 woman elected by drawing of lots"
-Guatemala,AME,1958,,Election,Single,66,0,0,Congress was dissolved following a military coup d'Etat in March 1963.
-Guatemala,AME,1964,,Election,Temporary Assembly,94,0,0,Unicameral Constituent Assembly.
+Guatemala,AME,1955,,Election,Single,66,0,0.0,"1 March 1956, 1 woman elected by drawing of lots"
+Guatemala,AME,1958,,Election,Single,66,0,0.0,Congress was dissolved following a military coup d'Etat in March 1963.
+Guatemala,AME,1964,,Election,Temporary Assembly,94,0,0.0,Unicameral Constituent Assembly.
 Guatemala,AME,1966,,Election,Single,55,1,0.01818181818181818,
 Guatemala,AME,1970,,Election,Single,49,1,0.02040816326530612,
 Guatemala,AME,1974,,Election,Single,50,2,0.04,
@@ -1347,16 +1347,16 @@ Guyana,AME,2001,,Election,Single,65,13,0.2,"PARLINE SAYS 65 TOTAL SEATS, PROBABL
 Guyana,AME,2006,,Election,Single,69,20,0.2898550724637681,
 Guyana,AME,2011,November,Election,Single,67,21,0.31343283582089554,"Other: includes one non-elected minister and the Speaker. Note: A maximum of four non-elected ministers and two non-elected Parliamentary Secretaries may sit in the National Assembly. If the Speaker is not an elected member, he or she becomes a member of the National Assembly by virtue of holding the office of Speaker. The National Assembly may thus have up to 72 members."
 Guyana,AME,2015,May,Election,Single,69,21,0.30434782608695654,
-Haiti                   ,AME,1946,,Election,Lower,37,0,0,
-Haiti                   ,AME,1946,,Election,Upper,21,0,0,
-Haiti                   ,AME,1950,,Election,Lower,37,0,0,The Parliament was subsequently dissolved on 10 May 1950 following a military coup d'Etat
-Haiti                   ,AME,1950,,Election,Lower,37,0,0,The Parliament was subsequently dissolved on 10 May 1950 following a military coup d'Etat
-Haiti                   ,AME,1950,,Election,Lower,37,0,0,
-Haiti                   ,AME,1950,,Election,Upper,21,0,0,
-Haiti                   ,AME,1955,,Election,Lower,37,0,0,
-Haiti                   ,AME,1955,,Election,Upper,21,0,0,
-Haiti                   ,AME,1957,,Election,Lower,37,0,0,
-Haiti                   ,AME,1957,,Election,Upper,21,0,0,
+Haiti                   ,AME,1946,,Election,Lower,37,0,0.0,
+Haiti                   ,AME,1946,,Election,Upper,21,0,0.0,
+Haiti                   ,AME,1950,,Election,Lower,37,0,0.0,The Parliament was subsequently dissolved on 10 May 1950 following a military coup d'Etat
+Haiti                   ,AME,1950,,Election,Lower,37,0,0.0,The Parliament was subsequently dissolved on 10 May 1950 following a military coup d'Etat
+Haiti                   ,AME,1950,,Election,Lower,37,0,0.0,
+Haiti                   ,AME,1950,,Election,Upper,21,0,0.0,
+Haiti                   ,AME,1955,,Election,Lower,37,0,0.0,
+Haiti                   ,AME,1955,,Election,Upper,21,0,0.0,
+Haiti                   ,AME,1957,,Election,Lower,37,0,0.0,
+Haiti                   ,AME,1957,,Election,Upper,21,0,0.0,
 Haiti                   ,AME,1961,,Election,Single,58,3,0.05172413793103448,
 Haiti                   ,AME,1967,,Election,Single,58,5,0.08620689655172414,
 Haiti                   ,AME,1973,,Election,Single,58,2,0.034482758620689655,
@@ -1365,10 +1365,10 @@ Haiti                   ,AME,1984,,Election,Single,59,5,0.0847457627118644,
 Haiti                   ,AME,1988,,Election,Lower,77,1,0.012987012987012988,The Parliament was dissolved following a military coup d'Etat on 20 June 1988. One seat abolished.
 Haiti                   ,AME,1988,,Election,Upper,27,1,0.037037037037037035,The Parliament was dissolved following a military coup d'Etat on 20 June 1988.
 Haiti                   ,AME,1990,,Election,Lower,83,3,0.03614457831325301,Elections took place in two rounds
-Haiti                   ,AME,1990,,Election,Upper,27,0,0,Elections took place in two rounds
+Haiti                   ,AME,1990,,Election,Upper,27,0,0.0,Elections took place in two rounds
 Haiti                   ,AME,1995,,Election,Lower,80,3,0.0375,
-Haiti                   ,AME,1995,,Election,Upper,27,0,0,
-Haiti                   ,AME,1997,,Election,Upper,27,0,0,"Results never published, there is a dispute"
+Haiti                   ,AME,1995,,Election,Upper,27,0,0.0,
+Haiti                   ,AME,1997,,Election,Upper,27,0,0.0,"Results never published, there is a dispute"
 Haiti                   ,AME,2000,,Election,Lower,83,3,0.03614457831325301,46 seats were renewed.
 Haiti                   ,AME,2000,,Election,Upper,27,7,0.25925925925925924,19 seats were renewed.
 Haiti                   ,AME,2006,May,Election,Upper,29,4,0.13793103448275862,
@@ -1378,11 +1378,11 @@ Haiti                   ,AME,2009,,Election,Upper,29,2,0.06896551724137931,
 Haiti                   ,AME,2010,,Election,Lower,95,4,0.042105263157894736,
 Haiti                   ,AME,2010,,Election,Upper,30,1,0.03333333333333333,
 Haiti                   ,AME,2015,,Election,Lower,118,3,0.025423728813559324,
-Haiti                   ,AME,2015,,Election,Upper,22,0,0,"Note: Due to successive delays to previous elections, the 2015 elections were held for two thirds (instead of one third) of the 30-member Senate. Each elector exceptionally voted for two senators. In constituencies where no candidates were elected in the first round, the four candidates with the highest number of votes advanced to the second round. In constituencies where one candidate was elected in the first round, the two other candidates with the next-highest number of votes advanced to the second round. Note on the vacant seats: - Fourteen of the 20 senate seats at stake in 2015 were confirmed in two rounds of elections held on 9 August and 25 October 2015. - The newly elected senators joined ten sitting senators on 11 January 2016 and elected Mr. Jocelerme Privert as the new President of the Senate. - Run-off elections for the six remaining seats were due to be held in parallel with the run-off presidential polls on 27 December 2015. However, they have been postponed on several occasions. The new President of the Republic had not been elected before outgoing President Michel Martelly left office on 7 February 2016. The run-off presidential and parliamentary elections have been scheduled for 24 April. - On 14 February, the National Assembly (a joint session of both chambers of parliament) elected Senate President Privert as interim President. He subsequently resigned as a senator in order to assume the new post. - As at 15 February 2016, there were seven vacant seats: six undecided seats from the 2015 elections and one seat vacated by the former President of the Senate."
-Haiti                   ,AME,2016,,Election,Upper,23,0,0,
+Haiti                   ,AME,2015,,Election,Upper,22,0,0.0,"Note: Due to successive delays to previous elections, the 2015 elections were held for two thirds (instead of one third) of the 30-member Senate. Each elector exceptionally voted for two senators. In constituencies where no candidates were elected in the first round, the four candidates with the highest number of votes advanced to the second round. In constituencies where one candidate was elected in the first round, the two other candidates with the next-highest number of votes advanced to the second round. Note on the vacant seats: - Fourteen of the 20 senate seats at stake in 2015 were confirmed in two rounds of elections held on 9 August and 25 October 2015. - The newly elected senators joined ten sitting senators on 11 January 2016 and elected Mr. Jocelerme Privert as the new President of the Senate. - Run-off elections for the six remaining seats were due to be held in parallel with the run-off presidential polls on 27 December 2015. However, they have been postponed on several occasions. The new President of the Republic had not been elected before outgoing President Michel Martelly left office on 7 February 2016. The run-off presidential and parliamentary elections have been scheduled for 24 April. - On 14 February, the National Assembly (a joint session of both chambers of parliament) elected Senate President Privert as interim President. He subsequently resigned as a senator in order to assume the new post. - As at 15 February 2016, there were seven vacant seats: six undecided seats from the 2015 elections and one seat vacated by the former President of the Senate."
+Haiti                   ,AME,2016,,Election,Upper,23,0,0.0,
 Haiti                   ,AME,2016,November,Election,Upper,20,1,0.05,
-Honduras,AME,1949,,Election,Single,48,0,0,
-Honduras,AME,1954,,Election,Single,59,0,0,The National Congress was dissolved following a coup d'Etat in 1956.
+Honduras,AME,1949,,Election,Single,48,0,0.0,
+Honduras,AME,1954,,Election,Single,59,0,0.0,The National Congress was dissolved following a coup d'Etat in 1956.
 Honduras,AME,1957,,Election,Single,58,3,0.05172413793103448,The National Congress was dissolved following a military coup d'Etat in 1963
 Honduras,AME,1965,,Election,Temporary Assembly,64,2,0.03125,Unicameral Constituent Assembly.
 Honduras,AME,1971,,Election,Single,62,6,0.0967741935483871,"The National Congress was dissolved following a military coup d'Etat in December 1972, followed by two further military coups d'Etat."
@@ -1416,10 +1416,10 @@ Hungary,EUR,2002,April,Election,Single,387,35,0.09043927648578812,
 Hungary,EUR,2006,,Election,Single,386,40,0.10362694300518134,
 Hungary,EUR,2010,,Election,Single,386,35,0.09067357512953368,
 Hungary,EUR,2014,June,Election,Single,199,19,0.09547738693467336,
-Hungary,EUR,2018,April,Election,Single,199,25,12.6%,"New Parline indicates 23 women in April, 20 in May and 25 in June 2018."
+Hungary,EUR,2018,April,Election,Single,199,25,0.12562814070351758,"New Parline indicates 23 women in April, 20 in May and 25 in June 2018."
 Iceland,EUR,1946,,Election,Single,52,1,0.019230769230769232,"Until it became a unicameral Parliament in 1991, the Althingi was elected as a single legislative body but operated as a tricameral Parliament: the Upper House (comprised of 21 members) and the Lower House (comprised of 42 members) dealt with legislative matters, while the joint Althingi (comprised of all 63 members) dealt with all other issues."
 Iceland,EUR,1949,,Election,Single,52,2,0.038461538461538464,
-Iceland,EUR,1953,,Election,Single,52,0,0,
+Iceland,EUR,1953,,Election,Single,52,0,0.0,
 Iceland,EUR,1956,,Election,Single,52,1,0.019230769230769232,
 Iceland,EUR,1959,,Election,Single,52,2,0.038461538461538464,
 Iceland,EUR,1959,,Election,Single,60,2,0.03333333333333333,
@@ -1492,7 +1492,7 @@ India,ASIA,2014,November,Election,Upper,243,29,0.11934156378600823,
 India,ASIA,2015,March,Election,Lower,243,29,0.11934156378600823,
 India,ASIA,2016,,Election,Upper,243,31,0.12757201646090535,
 India,ASIA,2016,june,Election,Upper,244,27,0.11065573770491803,
-India,ASIA,2018,january,Election,Upper,237,27,11.4%,
+India,ASIA,2018,january,Election,Upper,237,27,0.11392405063291139,
 Indonesia,ASIA,1950,,Election,Single,151,4,0.026490066225165563,First legislature of Indonesia after the country became independent on 17 August 1945. All members were appointed by political parties and appointed by the President of the Republic; 
 Indonesia,ASIA,1950,,Election,Single,236,8,0.03389830508474576,All appointed
 Indonesia,ASIA,1955,,Election,Single,272,17,0.0625,All members were appointed by political parties and appointed by the President of the Republic; A Constituent Assembly composed of 520 members was also elected in December 1955; number of women not known.
@@ -1511,10 +1511,10 @@ Indonesia,ASIA,2004,December,Election,Single,550,62,0.11272727272727273,All memb
 Indonesia,ASIA,2009,April -May,Election,Single,560,93,0.16607142857142856,
 Indonesia,ASIA,2009,December,Election,Single,560,100,0.17857142857142858,
 Indonesia,ASIA,2014,,Election,Single,560,94,0.16785714285714284,
-Iran (Islamic Republic Of),ASIA,1947,,Election,Single,136,0,0,First elections after the last foreign troops left the country
-Iran (Islamic Republic Of),ASIA,1950,,Election,Lower,115,0,0,Parliament was dissolved following a military coup d'Etat in August 1953.
-Iran (Islamic Republic Of),ASIA,1954,,Election,Lower,135,0,0,
-Iran (Islamic Republic Of),ASIA,1954,,Election,Upper,60,0,0,
+Iran (Islamic Republic Of),ASIA,1947,,Election,Single,136,0,0.0,First elections after the last foreign troops left the country
+Iran (Islamic Republic Of),ASIA,1950,,Election,Lower,115,0,0.0,Parliament was dissolved following a military coup d'Etat in August 1953.
+Iran (Islamic Republic Of),ASIA,1954,,Election,Lower,135,0,0.0,
+Iran (Islamic Republic Of),ASIA,1954,,Election,Upper,60,0,0.0,
 Iran (Islamic Republic Of),ASIA,1963,,Election,Lower,198,6,0.030303030303030304,
 Iran (Islamic Republic Of),ASIA,1963,,Election,Upper,60,2,0.03333333333333333,30 appointed members and 30 elected members.
 Iran (Islamic Republic Of),ASIA,1967,,Election,Lower,219,7,0.0319634703196347,A Constituent Assembly set up of 279 members was elected on 4 August 1967.
@@ -1534,11 +1534,11 @@ Iran (Islamic Republic Of),ASIA,2008,,Election,Single,290,8,0.027586206896551724
 Iran (Islamic Republic Of),ASIA,2012,May,Election,Single,290,9,0.03103448275862069,
 Iran (Islamic Republic of),ASIA,2016,,Election,Single,290,9,0.03103448275862069,
 Iran (Islamic Republic of),ASIA,2016,april,Election,Single,289,17,0.058823529411764705,
-Iraq,MENA,1948,,Election,Lower,138,0,0,The Assembly was then dissolved by royal decree on 17 October 1952.
-Iraq,MENA,1953,,Election,Lower,135,0,0,
-Iraq,MENA,1954,,Election,Lower,135,0,0,The Assembly was then dissolved by royal decree on 4 August 1954.
-Iraq,MENA,1954,,Election,Lower,135,0,0,
-Iraq,MENA,1958,,Election,Lower,145,0,0,The Assembly was then dissolved following the Revolution of 17 July 1958.
+Iraq,MENA,1948,,Election,Lower,138,0,0.0,The Assembly was then dissolved by royal decree on 17 October 1952.
+Iraq,MENA,1953,,Election,Lower,135,0,0.0,
+Iraq,MENA,1954,,Election,Lower,135,0,0.0,The Assembly was then dissolved by royal decree on 4 August 1954.
+Iraq,MENA,1954,,Election,Lower,135,0,0.0,
+Iraq,MENA,1958,,Election,Lower,145,0,0.0,The Assembly was then dissolved following the Revolution of 17 July 1958.
 Iraq,MENA,1980,,Election,Single,250,16,0.064,
 Iraq,MENA,1984,,Election,Single,250,33,0.132,
 Iraq,MENA,1989,,Election,Single,250,27,0.108,"Mandate renewed for two years in January 1993 as of 1 April 1993, then again renewed for one year (until January 1996)."
@@ -1658,8 +1658,8 @@ Italy,EUR,2013,May,Election,Lower,630,198,0.3142857142857143,
 Italy,EUR,2013,January,Election,Upper,321,61,0.19003115264797507,
 Italy,EUR,2013,March,Election,Upper,319,86,0.26959247648902823,
 Italy,EUR,2013,May,Election,Upper,319,92,0.2884012539184953,"315 members are directly elected, 4 are appointed by the president, 3 are former presidents, who automatically have a mandate."
-Italy,EUR,2018,March,Election,Upper,320,113,35.3%,111 women out of 314 directly elected senators. 2 women out 5 senators appointed by the President. The total number of women later decreased to 110. Woman Speaker.
-Italy,EUR,2018,March,Election,Lower,630,225,35.7%,Gender quota applied for the first time.
+Italy,EUR,2018,March,Election,Upper,320,113,0.353125,111 women out of 314 directly elected senators. 2 women out 5 senators appointed by the President. The total number of women later decreased to 110. Woman Speaker.
+Italy,EUR,2018,March,Election,Lower,630,225,0.35714285714285715,Gender quota applied for the first time.
 Jamaica,AME,1967,,Election,Lower,53,2,0.03773584905660377,First legislature of Jamaica after the country became independent on 6 August 1962.
 Jamaica,AME,1967,,Election,Upper,21,2,0.09523809523809523,First legislature of Jamaica after the country became independent on 6 August 1962.
 Jamaica,AME,1972,,Election,Lower,53,2,0.03773584905660377,
@@ -1740,29 +1740,29 @@ Japan,ASIA,2014,,Election,Lower,475,45,0.09473684210526316,
 Japan,ASIA,2016,,Election,Upper,242,38,0.15702479338842976,
 Japan,ASIA,2013,August,Election,Upper,242,39,0.16115702479338842,
 Japan,ASIA,2016,july,Election,Upper,242,50,0.2066115702479339,
-Jordan,MENA,1946,,Election,Lower,20,0,0,
-Jordan,MENA,1946,,Election,Upper,10,0,0,First legislature of Jordan after the country became independent on 22 March 1946.
-Jordan,MENA,1950,,Election,Lower,40,0,0,
-Jordan,MENA,1950,,Election,Upper,20,0,0,
-Jordan,MENA,1951,,Election,Lower,40,0,0,
-Jordan,MENA,1951,,Election,Upper,20,0,0,
-Jordan,MENA,1955,,Election,Lower,40,0,0,
-Jordan,MENA,1955,,Election,Upper,20,0,0,
-Jordan,MENA,1961,,Election,Lower,60,0,0,Parliament was dissolved by royal decree on 26 September 1962.
-Jordan,MENA,1961,,Election,Upper,20,0,0,Parliament was dissolved by royal decree on 26 September 1962.
-Jordan,MENA,1962,,Election,Lower,60,0,0,Parliament was dissolved by royal decree on 21 May 1963.
-Jordan,MENA,1962,,Election,Upper,20,0,0,Parliament was dissolved by royal decree on 21 May 1963.
-Jordan,MENA,1963,,Election,Lower,60,0,0,
-Jordan,MENA,1963,,Election,Upper,20,0,0,
-Jordan,MENA,1967,,Election,Lower,60,0,0,"Dissolved on 23 November 1974, the Chamber elected on 15 February 1967 was convened for a short period in February 1978, then dissolved again and reconvened on 8 January 1984; by-elections were subsequently held for seats which had fallen vacant:no women among the newly elected members."
-Jordan,MENA,1967,,Election,Upper,30,0,0,"Dissolved on 23 November 1974, the Chamber elected on 15 February 1967 was convened for a short period in February 1978, then dissolved again and reconvened on 8 January 1984; by-elections were subsequently held for seats which had fallen vacant:no women among the newly elected members."
-Jordan,MENA,1984,,Election,Upper,30,0,0,
-Jordan,MENA,1989,,Election,Lower,80,0,0,
+Jordan,MENA,1946,,Election,Lower,20,0,0.0,
+Jordan,MENA,1946,,Election,Upper,10,0,0.0,First legislature of Jordan after the country became independent on 22 March 1946.
+Jordan,MENA,1950,,Election,Lower,40,0,0.0,
+Jordan,MENA,1950,,Election,Upper,20,0,0.0,
+Jordan,MENA,1951,,Election,Lower,40,0,0.0,
+Jordan,MENA,1951,,Election,Upper,20,0,0.0,
+Jordan,MENA,1955,,Election,Lower,40,0,0.0,
+Jordan,MENA,1955,,Election,Upper,20,0,0.0,
+Jordan,MENA,1961,,Election,Lower,60,0,0.0,Parliament was dissolved by royal decree on 26 September 1962.
+Jordan,MENA,1961,,Election,Upper,20,0,0.0,Parliament was dissolved by royal decree on 26 September 1962.
+Jordan,MENA,1962,,Election,Lower,60,0,0.0,Parliament was dissolved by royal decree on 21 May 1963.
+Jordan,MENA,1962,,Election,Upper,20,0,0.0,Parliament was dissolved by royal decree on 21 May 1963.
+Jordan,MENA,1963,,Election,Lower,60,0,0.0,
+Jordan,MENA,1963,,Election,Upper,20,0,0.0,
+Jordan,MENA,1967,,Election,Lower,60,0,0.0,"Dissolved on 23 November 1974, the Chamber elected on 15 February 1967 was convened for a short period in February 1978, then dissolved again and reconvened on 8 January 1984; by-elections were subsequently held for seats which had fallen vacant:no women among the newly elected members."
+Jordan,MENA,1967,,Election,Upper,30,0,0.0,"Dissolved on 23 November 1974, the Chamber elected on 15 February 1967 was convened for a short period in February 1978, then dissolved again and reconvened on 8 January 1984; by-elections were subsequently held for seats which had fallen vacant:no women among the newly elected members."
+Jordan,MENA,1984,,Election,Upper,30,0,0.0,
+Jordan,MENA,1989,,Election,Lower,80,0,0.0,
 Jordan,MENA,1989,,Election,Upper,40,1,0.025,
 Jordan,MENA,1993,,Election,Lower,80,1,0.0125,
 Jordan,MENA,1993,,Election,Upper,40,2,0.05,
 Jordan,MENA,1997,,Election,Lower,80,1,0.0125,
-Jordan,MENA,1997,November,Election,Lower,80,0,0,
+Jordan,MENA,1997,November,Election,Lower,80,0,0.0,
 Jordan,MENA,1997,,Election,Upper,40,2,0.05,
 Jordan,MENA,2003,,Election,Lower,110,6,0.05454545454545454,Six seats were reserved for women
 Jordan,MENA,2003,,Election,Upper,55,7,0.12727272727272726,
@@ -1797,7 +1797,7 @@ Kazakhstan,EUR,2014,,Election,Upper,47,3,0.06382978723404255,
 Kazakhstan,EUR,2016,,Election,Lower,107,28,0.2616822429906542,
 Kazakhstan,EUR,2016,march,Election,Lower,107,29,0.27102803738317754,
 Kazakhstan,ASIA,2017,June,Election,Upper,47,5,0.10638297872340426,
-Kenya,SUB-SAHARAN,1963,,Election,Single,170,0,0,The Assembly elected in May 1963 became the first legislature of Kenya after the country became independent on 12 December 1963; by-elections were held in March 1964 and in June 1966; but did not lead to the election of a woman to Parliament. The total number includes the Speaker and the Attorney-General as ex officio members elected and appointed respectively by the Parliament and the Head of State. 
+Kenya,SUB-SAHARAN,1963,,Election,Single,170,0,0.0,The Assembly elected in May 1963 became the first legislature of Kenya after the country became independent on 12 December 1963; by-elections were held in March 1964 and in June 1966; but did not lead to the election of a woman to Parliament. The total number includes the Speaker and the Attorney-General as ex officio members elected and appointed respectively by the Parliament and the Head of State. 
 Kenya,SUB-SAHARAN,1969,,Election,Single,172,2,0.011627906976744186,The total number includes the Speaker and the Attorney-General as ex officio members elected and appointed respectively by the Parliament and the Head of State. 
 Kenya,SUB-SAHARAN,1974,,Election,Single,172,6,0.03488372093023256,The total number includes the Speaker and the Attorney-General as ex officio members elected and appointed respectively by the Parliament and the Head of State. 
 Kenya,SUB-SAHARAN,1979,,Election,Single,172,5,0.029069767441860465,The total number includes the Speaker and the Attorney-General as ex officio members elected and appointed respectively by the Parliament and the Head of State. 
@@ -1812,32 +1812,32 @@ Kenya,SUB-SAHARAN,2013,,Election,Upper,68,18,0.2647058823529412,"Elections to th
 "
 Kenya,SUB-SAHARAN,2017,July,Election,Lower,349,76,0.2177650429799427,
 Kenya,SUB-SAHARAN,2017,July,Election,Upper,68,21,0.3088235294117647,
-Kiribati,PAC,1978,,Election,Single,36,0,0,The Assembly elected on 2 February 1978 became the first legislature of Kiribati after the country became independent on 12 July 1979.
-Kiribati,PAC,1982,,Election,Single,37,0,0,
-Kiribati,PAC,1983,,Election,Single,37,0,0,
-Kiribati,PAC,1987,,Election,Single,41,0,0,A woman was elected on 25 July 1990 in a by-election:  2.4%.
-Kiribati,PAC,1991,,Election,Single,41,0,0,A woman was elected on 13 February 1992 in a by-election:  2.4%.
-Kiribati,PAC,1994,,Election,Single,41,0,0,
+Kiribati,PAC,1978,,Election,Single,36,0,0.0,The Assembly elected on 2 February 1978 became the first legislature of Kiribati after the country became independent on 12 July 1979.
+Kiribati,PAC,1982,,Election,Single,37,0,0.0,
+Kiribati,PAC,1983,,Election,Single,37,0,0.0,
+Kiribati,PAC,1987,,Election,Single,41,0,0.0,A woman was elected on 25 July 1990 in a by-election:  2.4%.
+Kiribati,PAC,1991,,Election,Single,41,0,0.0,A woman was elected on 13 February 1992 in a by-election:  2.4%.
+Kiribati,PAC,1994,,Election,Single,41,0,0.0,
 Kiribati,PAC,1998,,Election,Single,42,2,0.047619047619047616,
 Kiribati,PAC,2002,,Election,Single,42,2,0.047619047619047616,
 Kiribati,PAC,2003,,Election,Single,42,2,0.047619047619047616,
 Kiribati,PAC,2007,,Election,Single,46,2,0.043478260869565216,"44 members were directly elected, one member appointed, one was the attorney general who automatically has a mandate(if the latter is an MP, only there are only 45 members)."
 Kiribati,PAC,2011,October,Election,Single,46,4,0.08695652173913043,
 Kiribati,PAC,2015,,Election,Single,46,3,0.06521739130434782,
-Kuwait,MENA,1962,,Election,Single,50,0,0,First legislature of Kuwait after the country became independent on 19 June 1961.  A 20-member Constituent Assembly had however been elected in December 1961.
-Kuwait,MENA,1967,,Election,Single,50,0,0,
-Kuwait,MENA,1971,,Election,Single,50,0,0,
-Kuwait,MENA,1975,,Election,Single,50,0,0,The Assembly was suspended by a decree of the Emir on 29 August 1976.
-Kuwait,MENA,1981,,Election,Single,50,0,0,
-Kuwait,MENA,1985,,Election,Single,50,0,0,The Assembly was suspended by a decree of the Emir in July 1986.
-Kuwait,MENA,1990,,Election,Single,50,0,0,
-Kuwait,MENA,1992,,Election,Single,50,0,0,
+Kuwait,MENA,1962,,Election,Single,50,0,0.0,First legislature of Kuwait after the country became independent on 19 June 1961.  A 20-member Constituent Assembly had however been elected in December 1961.
+Kuwait,MENA,1967,,Election,Single,50,0,0.0,
+Kuwait,MENA,1971,,Election,Single,50,0,0.0,
+Kuwait,MENA,1975,,Election,Single,50,0,0.0,The Assembly was suspended by a decree of the Emir on 29 August 1976.
+Kuwait,MENA,1981,,Election,Single,50,0,0.0,
+Kuwait,MENA,1985,,Election,Single,50,0,0.0,The Assembly was suspended by a decree of the Emir in July 1986.
+Kuwait,MENA,1990,,Election,Single,50,0,0.0,
+Kuwait,MENA,1992,,Election,Single,50,0,0.0,
 Kuwait,MENA,1999,,Election,Single,42,2,0.047619047619047616,
-Kuwait,MENA,2003,,Election,Single,65,0,0,
+Kuwait,MENA,2003,,Election,Single,65,0,0.0,
 Kuwait,MENA,2006,,Election,Single,65,1,0.015384615384615385,"No woman candidate was elected in the 2006 elections. One woman was appointed to the 16-member cabinet sworn in in July 2006. A new cabinet sworn in in March 2007 included two women. As cabinet ministers also sit in parliament, there are two women out of a total of 65 members. One female minister resigned in August 2007, bringing the number of women to one."
 Kuwait,MENA,2008,,Election,Single,65,2,0.03076923076923077,No woman candidate was elected in the 2008 elections. Two women were appointed to the 16-member cabinet in June 2008 and became MPs (50 members are elected and another 15 cabinet members become automatically MPs)
 Kuwait,MENA,2009,,Election,Single,65,5,0.07692307692307693,
-Kuwait,MENA,2012,Febrruary,Election,Single,65,0,0,"A Constitutional Court decision in June 2012 triggered the second parliamentary elections in 2012. The Court invalidated two decrees issued by the Emir in December 2011, which had dissolved the legislature and called new elections for February 2012. Implementation of the Constitutional Court ruling of 19 June 2012."
+Kuwait,MENA,2012,Febrruary,Election,Single,65,0,0.0,"A Constitutional Court decision in June 2012 triggered the second parliamentary elections in 2012. The Court invalidated two decrees issued by the Emir in December 2011, which had dissolved the legislature and called new elections for February 2012. Implementation of the Constitutional Court ruling of 19 June 2012."
 Kuwait,MENA,2012,June,Election,Single,63,4,0.06349206349206349,
 Kuwait,MENA,2012,,Election,Single,63,4,0.06349206349206349,
 Kuwait,MENA,2013,,Election,Single,5,4,0.8,
@@ -1847,14 +1847,14 @@ Kyrgyzstan,EUR,1990,,Election,Single,350,22,0.06285714285714286,"The Supreme Sov
 Kyrgyzstan,EUR,1995,,Election,Lower,105,5,0.047619047619047616,
 Kyrgyzstan,EUR,1995,,Election,Upper,60,6,0.1,
 Kyrgyzstan,EUR,2000,,Election,Lower,43,1,0.023255813953488372,
-Kyrgyzstan,EUR,2005,,Election,Single,75,0,0,"The nominal number of seats is 75, but there were 2 vacancies at the time. As of January 2006, 12 seats remain vacant. Two women nearly won seats but the results were annulled by the EMB."
+Kyrgyzstan,EUR,2005,,Election,Single,75,0,0.0,"The nominal number of seats is 75, but there were 2 vacancies at the time. As of January 2006, 12 seats remain vacant. Two women nearly won seats but the results were annulled by the EMB."
 Kyrgyzstan,EUR,2007,,Election,Single,90,23,0.25555555555555554,
 Kyrgyzstan,EUR,2010,,Election,Single,120,28,0.23333333333333334,
 Kyrgyzstan,EUR,2015,october,Election,Single,120,23,0.19166666666666668,
-Lao People's Democratic Republic,ASIA,1955,,Election,Single,39,0,0,"First legislature of the Kingdom of Laos after the country became independent in October 1953. Elections were held for 20 new seats in Parliament in May 1958 (in addition to the 39 elected in 1955), 1 woman got elected: 59/1w."
-Lao People's Democratic Republic,ASIA,1960,,Election,Single,59,0,0,
-Lao People's Democratic Republic,ASIA,1965,,Election,Single,59,0,0,The Assembly was dissolved by royal decree in October 1966.
-Lao People's Democratic Republic,ASIA,1967,,Election,Single,59,0,0,
+Lao People's Democratic Republic,ASIA,1955,,Election,Single,39,0,0.0,"First legislature of the Kingdom of Laos after the country became independent in October 1953. Elections were held for 20 new seats in Parliament in May 1958 (in addition to the 39 elected in 1955), 1 woman got elected: 59/1w."
+Lao People's Democratic Republic,ASIA,1960,,Election,Single,59,0,0.0,
+Lao People's Democratic Republic,ASIA,1965,,Election,Single,59,0,0.0,The Assembly was dissolved by royal decree in October 1966.
+Lao People's Democratic Republic,ASIA,1967,,Election,Single,59,0,0.0,
 Lao People's Democratic Republic,ASIA,1972,,Election,Single,59,2,0.03389830508474576,"The Assembly was dissolved in December 1975 by the People's National Representative Congress, which abolished the monarchy and elected a 45-member People's Supreme Assembly."
 Lao People's Democratic Republic,ASIA,1975,,Election,Single,45,4,0.08888888888888889,"The Assembly was dissolved in December 1975 by the People's National Representative Congress, which abolished the monarchy and elected a 45-member People's Supreme Assembly."
 Lao People's Democratic Republic,ASIA,1989,,Election,Single,79,5,0.06329113924050633,
@@ -1873,23 +1873,23 @@ Latvia,EUR,2010,,Election,Single,100,19,0.19,
 Latvia,EUR,2011,september,Election,Single,100,23,0.23," In accordance with Article 13 of the Constitution, the Saeima elected following early elections will serve a shorter term than the statutory four years. Its mandate shall expire upon the convening of the new Saeima on the first Tuesday in November three years after such elections. The term of the legislature elected in September 2011 will thus expire on 4 November 2014. "
 Latvia,EUR,2014,,Election,Single,100,19,0.19,
 Latvia,EUR,2018,October,Election,Single,100,31,0.31,Woman Speaker re-elected. Number of women later decreased to 30 (Feb 2019).
-Lebanon,MENA,1947,,Election,Single,77,0,0,First legislature of Lebanon after the country became independent on 22 November 1943.
-Lebanon,MENA,1953,,Election,Single,44,0,0,
-Lebanon,MENA,1957,,Election,Single,66,0,0,
-Lebanon,MENA,1960,,Election,Single,99,0,0,
-Lebanon,MENA,1965,,Election,Single,99,0,0,
-Lebanon,MENA,1968,,Election,Single,99,0,0,
-Lebanon,MENA,1972,,Election,Single,99,0,0,"The mandate of the National Assembly elected in 1972 was extended for the eighth time. In June 1991, in accordance with the National Reconciliation Agreement or the Taif Agreement of 1989, the Government appointed 40 more members in order to allow the representation of Christian and Muslim communities, thus bringing the total of the members of the Assembly to 108:  one woman was appointed to the Assembly, i.e  0.9%."
+Lebanon,MENA,1947,,Election,Single,77,0,0.0,First legislature of Lebanon after the country became independent on 22 November 1943.
+Lebanon,MENA,1953,,Election,Single,44,0,0.0,
+Lebanon,MENA,1957,,Election,Single,66,0,0.0,
+Lebanon,MENA,1960,,Election,Single,99,0,0.0,
+Lebanon,MENA,1965,,Election,Single,99,0,0.0,
+Lebanon,MENA,1968,,Election,Single,99,0,0.0,
+Lebanon,MENA,1972,,Election,Single,99,0,0.0,"The mandate of the National Assembly elected in 1972 was extended for the eighth time. In June 1991, in accordance with the National Reconciliation Agreement or the Taif Agreement of 1989, the Government appointed 40 more members in order to allow the representation of Christian and Muslim communities, thus bringing the total of the members of the Assembly to 108:  one woman was appointed to the Assembly, i.e  0.9%."
 Lebanon,MENA,1992,,Election,Single,128,3,0.0234375,
 Lebanon,MENA,1996,,Election,Single,128,3,0.0234375,
 Lebanon,MENA,2000,,Election,Single,128,3,0.0234375,
 Lebanon,MENA,2005,,Election,Single,128,6,0.046875,
 Lebanon,MENA,2009,,Election,Single,128,4,0.03125,
-Lebanon,MENA,2018,November,Election,Single,128,6,4.7%,
-Lesotho,SUB-SAHARAN,1965,,Election,Lower,60,0,0,The first legislature of Lesotho after the country became independent on 4 October 1966.  The results of the elections were annulled and Parliament suspended by the Prime Minister.
+Lebanon,MENA,2018,November,Election,Single,128,6,0.046875,
+Lesotho,SUB-SAHARAN,1965,,Election,Lower,60,0,0.0,The first legislature of Lesotho after the country became independent on 4 October 1966.  The results of the elections were annulled and Parliament suspended by the Prime Minister.
 Lesotho,SUB-SAHARAN,1965,,Election,Upper,33,3,0.09090909090909091,The first legislature of Lesotho after the country became independent on 4 October 1966.  The results of the elections were annulled and Parliament suspended by the Prime Minister.
 Lesotho,SUB-SAHARAN,1973,,Election,Temporary Assembly,93,6,0.06451612903225806,"Interim Parliament, all members appointed"
-Lesotho,SUB-SAHARAN,1985,,Election,Lower,80,0,0,"Following the boycott of the elections by the opposition parties, the members of the BNP (party in power) were confirmed according to the Electoral Law. The Assembly was dissolved following a military coup d'Etat on 20 January 1986."
+Lesotho,SUB-SAHARAN,1985,,Election,Lower,80,0,0.0,"Following the boycott of the elections by the opposition parties, the members of the BNP (party in power) were confirmed according to the Electoral Law. The Assembly was dissolved following a military coup d'Etat on 20 January 1986."
 Lesotho,SUB-SAHARAN,1990,,Election,Single,109,8,0.07339449541284404,
 Lesotho,SUB-SAHARAN,1993,,Election,Lower,65,3,0.046153846153846156,Parliament was dissolved on 17 August 1994 and reinstated on 14 September 1994
 Lesotho,SUB-SAHARAN,1993,,Election,Upper,33,8,0.24242424242424243,Parliament was dissolved on 17 August 1994 and reinstated on 14 September 1994
@@ -1921,11 +1921,11 @@ Libya,MENA,2012,July,Election,Single,200,33,0.165,"Date of previous elections: 1
 *The dates of indirect elections to the General People's Congress - the unicameral parliament of the now defunct Libyan Arab Jamahiriya. The previous direct elections had been held on 10 October 1964 to the House of Representatives of the Kingdom of Libya. 
 "
 Libya,MENA,2014,,Election,Single,188,30,0.1595744680851064,
-Libyan Arab Jamahiriya,MENA,1952,,Election,Lower,55,0,0,First legislature of Libya after the country became independent on 24 December 1951.
-Libyan Arab Jamahiriya,MENA,1952,,Election,Upper,24,0,0,
-Libyan Arab Jamahiriya,MENA,1964,,Election,Lower,55,0,0,Elections were nullified in view of public protest against the ban on candidates from the opposition.
-Libyan Arab Jamahiriya,MENA,1964,,Election,Upper,24,0,0,Elections were nullified in view of public protest against the ban on candidates from the opposition.
-Libyan Arab Jamahiriya,MENA,1965,,Election,Upper,24,0,0,The Parliament of the Kingdom of Libya was dissolved following the Revolution in September 1969.
+Libyan Arab Jamahiriya,MENA,1952,,Election,Lower,55,0,0.0,First legislature of Libya after the country became independent on 24 December 1951.
+Libyan Arab Jamahiriya,MENA,1952,,Election,Upper,24,0,0.0,
+Libyan Arab Jamahiriya,MENA,1964,,Election,Lower,55,0,0.0,Elections were nullified in view of public protest against the ban on candidates from the opposition.
+Libyan Arab Jamahiriya,MENA,1964,,Election,Upper,24,0,0.0,Elections were nullified in view of public protest against the ban on candidates from the opposition.
+Libyan Arab Jamahiriya,MENA,1965,,Election,Upper,24,0,0.0,The Parliament of the Kingdom of Libya was dissolved following the Revolution in September 1969.
 Libyan Arab Jamahiriya,MENA,2006,,Election,Single,468,36,0.07692307692307693,
 Liechtenstein,EUR,1986,,Election,Single,15,1,0.06666666666666667,First elections in which women could run as candidates.  The Parliament of Liechtenstein has operated without interruption since 24 November 1862.
 Liechtenstein,EUR,1989,,Election,Single,25,1,0.04,
@@ -1946,12 +1946,12 @@ Lithuania,EUR,2008,,Election,Single,141,25,0.1773049645390071,
 Lithuania,EUR,2012,october,Election,Single,139,34,0.2446043165467626,
 Lithuania,EUR,2016,,Election,Single,141,33,0.23404255319148937,
 Lithuania,EUR,2016,october,Election,Single,141,30,0.2127659574468085,
-Luxembourg,EUR,1945,,Election,Single,51,0,0,
-Luxembourg,EUR,1948,,Election,Single,51,0,0,
-Luxembourg,EUR,1951,,Election,Single,52,0,0,
-Luxembourg,EUR,1954,,Election,Single,52,0,0,
-Luxembourg,EUR,1959,,Election,Single,52,0,0,
-Luxembourg,EUR,1964,,Election,Single,56,0,0,One woman was elected during a by-election on 25 October 1965:  1.8%.
+Luxembourg,EUR,1945,,Election,Single,51,0,0.0,
+Luxembourg,EUR,1948,,Election,Single,51,0,0.0,
+Luxembourg,EUR,1951,,Election,Single,52,0,0.0,
+Luxembourg,EUR,1954,,Election,Single,52,0,0.0,
+Luxembourg,EUR,1959,,Election,Single,52,0,0.0,
+Luxembourg,EUR,1964,,Election,Single,56,0,0.0,One woman was elected during a by-election on 25 October 1965:  1.8%.
 Luxembourg,EUR,1968,,Election,Single,56,2,0.03571428571428571,
 Luxembourg,EUR,1974,,Election,Single,59,3,0.05084745762711865,
 Luxembourg,EUR,1979,,Election,Single,59,8,0.13559322033898305,
@@ -1963,8 +1963,8 @@ Luxembourg,EUR,2004,,Election,Single,60,12,0.2,
 Luxembourg,EUR,2009,,Election,Single,60,15,0.25,
 Luxembourg,EUR,2013,december,Election,Single,60,17,0.2833333333333333,
 Luxembourg,EUR,2018,October,Election,Single,60,12,0.2,After the formation of government (Dec 2018): 15 women out of 60 members.
-Madagascar,SUB-SAHARAN,1960,,Election,Lower,107,0,0,First legislature of Madagascar after the country became independent on 26 June 1960.
-Madagascar,SUB-SAHARAN,1960,,Election,Upper,54,0,0,First legislature of Madagascar after the country became independent on 26 June 1960.
+Madagascar,SUB-SAHARAN,1960,,Election,Lower,107,0,0.0,First legislature of Madagascar after the country became independent on 26 June 1960.
+Madagascar,SUB-SAHARAN,1960,,Election,Upper,54,0,0.0,First legislature of Madagascar after the country became independent on 26 June 1960.
 Madagascar,SUB-SAHARAN,1965,,Election,Lower,107,1,0.009345794392523364,
 Madagascar,SUB-SAHARAN,1965,,Election,Upper,51,1,0.0196078431372549,
 Madagascar,SUB-SAHARAN,1970,,Election,Lower,104,6,0.057692307692307696,
@@ -2006,7 +2006,7 @@ Malaysia,ASIA,1999,,Election,Lower,193,14,0.07253886010362694,
 Malaysia,ASIA,2004,,Election,Lower,219,20,0.091324200913242,
 Malaysia,ASIA,2008,,Election,Lower,222,24,0.10810810810810811,
 Malaysia,ASIA,2013,,Election,Lower,222,23,0.1036036036036036,
-Malaysia,ASIA,2018,May,Election,Lower,223,31,13.9%,"Total number of seats includes the male Speaker (not one of the 222 directly elected members). In December 2018, the total number of women was brought to 32 out of 222 members."
+Malaysia,ASIA,2018,May,Election,Lower,223,31,0.13901345291479822,"Total number of seats includes the male Speaker (not one of the 222 directly elected members). In December 2018, the total number of women was brought to 32 out of 222 members."
 Maldives                ,ASIA,1979,,Election,Single,48,2,0.041666666666666664,First legislature of the Maldives after the country became independent on 26 July 1965. 40 members elected and 8 appointed by the Head of State.
 Maldives                ,ASIA,1984,,Election,Single,48,1,0.020833333333333332,
 Maldives                ,ASIA,1989,,Election,Single,48,3,0.0625,
@@ -2042,13 +2042,13 @@ Marshall Islands,PAC,2003,,Election,Single,33,1,0.030303030303030304,
 Marshall Islands,PAC,2007,,Election,Single,33,1,0.030303030303030304,
 Marshall Islands,PAC,2011,november,Election,Single,33,1,0.030303030303030304,
 Marshall Islands,PAC,2015,November,Election,Single,33,3,0.09090909090909091,
-Mauritania,SUB-SAHARAN,1965,,Election,Single,40,0,0,First legislature of Mauritania after the country became independent on 28 November 1960.
-Mauritania,SUB-SAHARAN,1971,,Election,Single,50,0,0,
+Mauritania,SUB-SAHARAN,1965,,Election,Single,40,0,0.0,First legislature of Mauritania after the country became independent on 28 November 1960.
+Mauritania,SUB-SAHARAN,1971,,Election,Single,50,0,0.0,
 Mauritania,SUB-SAHARAN,1975,,Election,Single,70,2,0.02857142857142857,"In July 1976, 7 supplementary seats for the representatives of the Province of Rio de Oro; these 7 seats were filled in the by-elections of 8 August 1976; no woman was elected and women thus constituted 2.6% of the 77 members of the Assembly. The Assembly was then dissolved following a military coup d'Etat on 10 July 1978."
-Mauritania,SUB-SAHARAN,1992,,Election,Lower,79,0,0,
-Mauritania,SUB-SAHARAN,1992,,Election,Upper,56,0,0,
+Mauritania,SUB-SAHARAN,1992,,Election,Lower,79,0,0.0,
+Mauritania,SUB-SAHARAN,1992,,Election,Upper,56,0,0.0,
 Mauritania,SUB-SAHARAN,1996,,Election,Lower,79,3,0.0379746835443038,
-Mauritania,SUB-SAHARAN,1996,,Election,Upper,56,0,0,
+Mauritania,SUB-SAHARAN,1996,,Election,Upper,56,0,0.0,
 Mauritania,SUB-SAHARAN,2001,,Election,Lower,81,3,0.037037037037037035,
 Mauritania,SUB-SAHARAN,2002,,Election,Upper,56,3,0.05357142857142857,
 Mauritania,SUB-SAHARAN,2006,,Election,Lower,95,17,0.17894736842105263,
@@ -2058,7 +2058,7 @@ Mauritania,SUB-SAHARAN,2007,January-december,Election,Upper,56,9,0.1607142857142
 Mauritania,SUB-SAHARAN,2009,,Election,Upper,56,8,0.14285714285714285,
 Mauritania,SUB-SAHARAN,2013,,Election,Lower,95,21,0.22105263157894736,
 Mauritania,SUB-SAHARAN,2018,September,Election,Single,153,31,0.20261437908496732,
-Mauritius,SUB-SAHARAN,1967,,Election,Single,70,0,0,First legislature of Mauritius after the country became independent on 12 March 1968. 62 members elected and 8 appointed. 
+Mauritius,SUB-SAHARAN,1967,,Election,Single,70,0,0.0,First legislature of Mauritius after the country became independent on 12 March 1968. 62 members elected and 8 appointed. 
 Mauritius,SUB-SAHARAN,1976,,Election,Single,70,3,0.04285714285714286,62 members elected and 8 appointed.
 Mauritius,SUB-SAHARAN,1982,,Election,Single,70,3,0.04285714285714286,62 members elected and 8 appointed.
 Mauritius,SUB-SAHARAN,1983,,Election,Single,70,4,0.05714285714285714,62 members elected and 8 appointed.
@@ -2103,18 +2103,18 @@ Mexico,AME,2009,,Election,Lower,500,141,0.282,
 Mexico,AME,2012,August,Election,Lower,500,184,0.368,
 Mexico,AME,2012,August,Election,Upper,128,42,0.328125,
 Mexico,AME,2015,June,Election,Lower,498,211,0.42369477911646586,
-Mexico,AME,2018,July,Election,Upper,128,63,49.2%,
-Mexico,AME,2018,July,Election,Lower,500,241,48.2%,
-Micronesia (Federated States of),PAC,1993,,Election,Single,14,0,0,"First legislature of Micronesia (Federated States of), after the country became independent in September 1991."
-Micronesia (Federated States of),PAC,1995,,Election,Single,14,0,0,
-Micronesia (Federated States of),PAC,1999,,Election,Single,14,0,0,
-Micronesia (Federated States of),PAC,2005,,Election,Single,14,0,0,Elections were held for the 10 single-member constituencies elected for a two year term. There were four additional seats with a four year mandate that were renewed in 2007. 
-Micronesia (Federated States of),PAC,2007,,Election,Single,14,0,0,
-Micronesia (Federated States of),PAC,2009,,Election,Single,10,0,0,
-Micronesia (Federated States of),PAC,2011,march,Election,Single,14,0,0,
-Micronesia (Federated States of),PAC,2013,,Election,Single,14,0,0,
-Micronesia (Federated States of),PAC,2015,March,Election,Single,14,0,0,
-Micronesia (Federated States of),PAC,2017,,Election,Single,14,0,0,
+Mexico,AME,2018,July,Election,Upper,128,63,0.4921875,
+Mexico,AME,2018,July,Election,Lower,500,241,0.482,
+Micronesia (Federated States of),PAC,1993,,Election,Single,14,0,0.0,"First legislature of Micronesia (Federated States of), after the country became independent in September 1991."
+Micronesia (Federated States of),PAC,1995,,Election,Single,14,0,0.0,
+Micronesia (Federated States of),PAC,1999,,Election,Single,14,0,0.0,
+Micronesia (Federated States of),PAC,2005,,Election,Single,14,0,0.0,Elections were held for the 10 single-member constituencies elected for a two year term. There were four additional seats with a four year mandate that were renewed in 2007. 
+Micronesia (Federated States of),PAC,2007,,Election,Single,14,0,0.0,
+Micronesia (Federated States of),PAC,2009,,Election,Single,10,0,0.0,
+Micronesia (Federated States of),PAC,2011,march,Election,Single,14,0,0.0,
+Micronesia (Federated States of),PAC,2013,,Election,Single,14,0,0.0,
+Micronesia (Federated States of),PAC,2015,March,Election,Single,14,0,0.0,
+Micronesia (Federated States of),PAC,2017,,Election,Single,14,0,0.0,
 Monaco,EUR,1963,,Election,Single,18,1,0.05555555555555555,First legislature of the Principality of Monaco.
 Monaco,EUR,1968,,Election,Single,18,1,0.05555555555555555,
 Monaco,EUR,1974,,Election,Single,18,1,0.05555555555555555,
@@ -2126,7 +2126,7 @@ Monaco,EUR,1998,,Election,Single,18,4,0.2222222222222222,
 Monaco,EUR,2003,,Election,Single,24,5,0.20833333333333334,
 Monaco,EUR,2008,,Election,Single,24,6,0.25,
 Monaco,EUR,2013,,Election,Single,24,5,0.20833333333333334,
-Monaco,EUR,2018,february,Election,Single,24,8,33.3%,
+Monaco,EUR,2018,february,Election,Single,24,8,0.3333333333333333,
 Mongolia,ASIA,1951,,Election,Single,295,59,0.2,First legislature of Mongolia after the country became independent in July 1921.
 Mongolia,ASIA,1954,,Election,Single,295,66,0.22372881355932203,
 Mongolia,ASIA,1957,,Election,Single,233,22,0.0944206008583691,
@@ -2152,14 +2152,14 @@ Mongolia,ASIA,2016,,Election,Single,76,11,0.14473684210526316,
 Mongolia,ASIA,2016,june,Election,Single,76,13,0.17105263157894737,
 Montenegro,EUR,2006,,Election,Single,81,7,0.08641975308641975,Women from Montenegro had previously been elected to the Parliament of the S.F.R. of Yugoslavia (Federal People's Republic Of)
 Montenegro,EUR,2009,October -october,Election,Single,81,5,0.06172839506172839,
-Montenegro,EUR,2009,december,Election,Single,81,9,,
+Montenegro,EUR,2009,december,Election,Single,81,9,0.1111111111111111,
 Montenegro,EUR,2012,October,Election,Single,81,12,0.14814814814814814,
 Montenegro,EUR,2016,june,Election,Single,81,15,0.18518518518518517,
 Montenegro,EUR,2016,october,Election,Single,81,19,0.2345679012345679,
-Morocco,MENA,1963,,Election,Single,202,0,0,"First legislature of the Kingdom of Morocco after the country became independent on 2 March 1956; a Chamber of Counsellors, made up of 80 members, was also formed. No women obtained seats in this chamber."
-Morocco,MENA,1970,,Election,Single,240,0,0,
-Morocco,MENA,1977,,Election,Single,267,0,0,
-Morocco,MENA,1984,,Election,Single,306,0,0,"By a referendum in 1989, the House's 6-year term was extended by 2 years."
+Morocco,MENA,1963,,Election,Single,202,0,0.0,"First legislature of the Kingdom of Morocco after the country became independent on 2 March 1956; a Chamber of Counsellors, made up of 80 members, was also formed. No women obtained seats in this chamber."
+Morocco,MENA,1970,,Election,Single,240,0,0.0,
+Morocco,MENA,1977,,Election,Single,267,0,0.0,
+Morocco,MENA,1984,,Election,Single,306,0,0.0,"By a referendum in 1989, the House's 6-year term was extended by 2 years."
 Morocco,MENA,1993,,Election,Single,333,2,0.006006006006006006,
 Morocco,MENA,1997,,Election,Lower,325,2,0.006153846153846154,
 Morocco,MENA,1997,,Election,Upper,270,2,0.007407407407407408,Partial renewal; elections were held for one third of the seats (90 seats were up for election)
@@ -2201,25 +2201,25 @@ Namibia,SUB-SAHARAN,2009,,Election,Lower,78,19,0.24358974358974358,
 Namibia,SUB-SAHARAN,2010,,Election,Upper,26,7,0.2692307692307692,
 Namibia,SUB-SAHARAN,2014,,Election,Lower,104,43,0.41346153846153844,
 Namibia,SUB-SAHARAN,2015,,Election,Upper,42,10,0.23809523809523808,
-Nauru,PAC,1968,,Election,Single,18,0,0,First legislature of Nauru after the country became independent on 31 January 1968.
-Nauru,PAC,1971,,Election,Single,18,0,0,
-Nauru,PAC,1973,,Election,Single,18,0,0,
-Nauru,PAC,1976,,Election,Single,18,0,0,
-Nauru,PAC,1977,,Election,Single,18,0,0,
-Nauru,PAC,1980,,Election,Single,18,0,0,
-Nauru,PAC,1983,,Election,Single,18,0,0,
+Nauru,PAC,1968,,Election,Single,18,0,0.0,First legislature of Nauru after the country became independent on 31 January 1968.
+Nauru,PAC,1971,,Election,Single,18,0,0.0,
+Nauru,PAC,1973,,Election,Single,18,0,0.0,
+Nauru,PAC,1976,,Election,Single,18,0,0.0,
+Nauru,PAC,1977,,Election,Single,18,0,0.0,
+Nauru,PAC,1980,,Election,Single,18,0,0.0,
+Nauru,PAC,1983,,Election,Single,18,0,0.0,
 Nauru,PAC,1986,,Election,Single,18,1,0.05555555555555555,
 Nauru,PAC,1987,,Election,Single,18,1,0.05555555555555555,
 Nauru,PAC,1989,,Election,Single,18,1,0.05555555555555555,
 Nauru,PAC,1995,,Election,Single,18,1,0.05555555555555555,
-Nauru,PAC,1997,,Election,Single,18,0,0,
-Nauru,PAC,2000,,Election,Single,18,0,0,
-Nauru,PAC,2003,,Election,Single,18,0,0,
-Nauru,PAC,2004,,Election,Single,18,0,0,
-Nauru,PAC,2007,,Election,Single,18,0,0,
-Nauru,PAC,2008,,Election,Single,18,0,0,
-Nauru,PAC,2010,,Election,Single,18,0,0,Elections were held for all the seats in the Parliament following its early dissolution on 11 June 2010. The elections had previously taken place on 24 April 2010.
-Nauru,PAC,2010,,Election,Single,18,0,0,
+Nauru,PAC,1997,,Election,Single,18,0,0.0,
+Nauru,PAC,2000,,Election,Single,18,0,0.0,
+Nauru,PAC,2003,,Election,Single,18,0,0.0,
+Nauru,PAC,2004,,Election,Single,18,0,0.0,
+Nauru,PAC,2007,,Election,Single,18,0,0.0,
+Nauru,PAC,2008,,Election,Single,18,0,0.0,
+Nauru,PAC,2010,,Election,Single,18,0,0.0,Elections were held for all the seats in the Parliament following its early dissolution on 11 June 2010. The elections had previously taken place on 24 April 2010.
+Nauru,PAC,2010,,Election,Single,18,0,0.0,
 Nauru,PAC,2013,,Election,Single,19,1,0.05263157894736842,"The elections to the 19-member Parliament (up from 18) returned 12 outgoing members. There were a record 68 candidates. One of the five women candidates was successful and became the second-ever Nauruan woman to enter Parliament. The newly-elected legislature was convened on 11 June and elected former Speaker and President of the Republic, Mr. Ludwig Scotty, as the new, and Mr. Baron Waqa as the country's new President. The latter had served as Minister of the Interior and Education under Mr. Scotty's presidency."
 Nauru,PAC,2016,,Election,Single,19,1,0.05263157894736842,
 Nepal,ASIA,1952,,Election,Council,35,3,0.08571428571428572,This is a unicameral Consultative Assembly that functions as the legislature of Nepal in cooperation with the King.
@@ -2265,7 +2265,7 @@ Nepal,ASIA,2008,April- May,Election,Single,568,191,0.3362676056338028,"Only sour
 Nepal,ASIA,2008,April- July,Election,Single,601,197,0.3277870216306156,
 Nepal,ASIA,2008,April- September,Election,Single,594,197,0.33164983164983164,
 Nepal,ASIA,2013,,Election,Single,594,197,0.33164983164983164,
-Nepal,ASIA,2018,February,Election,Upper,59,22,37.3%,Considered as new chamber.
+Nepal,ASIA,2018,February,Election,Upper,59,22,0.3728813559322034,Considered as new chamber.
 Netherlands,EUR,1946,,Election,Lower,100,4,0.04,
 Netherlands,EUR,1946,,Election,Upper,50,2,0.04,
 Netherlands,EUR,1948,,Election,Lower,100,5,0.05,
@@ -2340,15 +2340,15 @@ New Zealand,PAC,2008,,Election,Single,122,41,0.3360655737704918,
 New Zealand,PAC,2011,november,Election,Single,121,39,0.32231404958677684,
 New Zealand,PAC,2014,,Election,Single,121,36,0.2975206611570248,
 New Zealand,PAC,2017,September,Election,Single,120,46,0.38333333333333336,
-Nicaragua,AME,1948,,Election,Lower,49,0,0,
-Nicaragua,AME,1948,,Election,Upper,15,0,0,
-Nicaragua,AME,1950,,Election,Lower,42,0,0,
-Nicaragua,AME,1950,,Election,Upper,16,0,0,
-Nicaragua,AME,1967,,Election,Lower,54,0,0,
-Nicaragua,AME,1967,,Election,Upper,16,0,0,
+Nicaragua,AME,1948,,Election,Lower,49,0,0.0,
+Nicaragua,AME,1948,,Election,Upper,15,0,0.0,
+Nicaragua,AME,1950,,Election,Lower,42,0,0.0,
+Nicaragua,AME,1950,,Election,Upper,16,0,0.0,
+Nicaragua,AME,1967,,Election,Lower,54,0,0.0,
+Nicaragua,AME,1967,,Election,Upper,16,0,0.0,
 Nicaragua,AME,1972,,Election,Temporary Assembly,100,9,0.09,This was Nicaragua's unicameral Constituent Assembly.
 Nicaragua,AME,1974,,Election,Lower,70,8,0.11428571428571428,Parliament was dissolved following a Revolution on 20 July 1979.
-Nicaragua,AME,1974,,Election,Upper,30,0,0,Parliament was dissolved following a Revolution on 20 July 1979.
+Nicaragua,AME,1974,,Election,Upper,30,0,0.0,Parliament was dissolved following a Revolution on 20 July 1979.
 Nicaragua,AME,1979,,Election,Single,51,11,0.21568627450980393,Parliament was dissolved following a Revolution on 20 July 1979. A new assembly was elected the same month. Variable dates.
 Nicaragua,AME,1984,,Election,Temporary Assembly,88,13,0.14772727272727273,Unicameral Constituent Assembly.
 Nicaragua,AME,1990,,Election,Single,92,15,0.16304347826086957,
@@ -2358,9 +2358,9 @@ Nicaragua,AME,2006,,Election,Single,92,14,0.15217391304347827,
 Nicaragua,AME,2011,november,Election,Single,92,37,0.40217391304347827,
 Nicaragua,AME,2016,,Election,Single,92,38,0.41304347826086957,
 Nicaragua,AME,2016,november,Election,Single,92,42,0.45652173913043476,
-Niger,SUB-SAHARAN,1958,,Election,Single,60,0,0,"The Assembly elected in 1958 became the first legislature of Niger after the country became independent on 3 August 1960, and members' terms of office were extended by five years."
-Niger,SUB-SAHARAN,1965,,Election,Single,50,0,0,
-Niger,SUB-SAHARAN,1970,,Election,Single,50,0,0,The Assembly was dissolved following a military coup d'Etat on 15 April 1974.
+Niger,SUB-SAHARAN,1958,,Election,Single,60,0,0.0,"The Assembly elected in 1958 became the first legislature of Niger after the country became independent on 3 August 1960, and members' terms of office were extended by five years."
+Niger,SUB-SAHARAN,1965,,Election,Single,50,0,0.0,
+Niger,SUB-SAHARAN,1970,,Election,Single,50,0,0.0,The Assembly was dissolved following a military coup d'Etat on 15 April 1974.
 Niger,SUB-SAHARAN,1989,,Election,Single,93,5,0.053763440860215055,The Assembly was dissolved by the National Conference and a High Council of the Republic (transitional Parliament) was set up in August 1991
 Niger,SUB-SAHARAN,1991,,Election,Temporary Assembly,15,3,0.2,Unicameral Transitional parliament; Set up by the National Conference
 Niger,SUB-SAHARAN,1993,,Election,Single,83,5,0.060240963855421686,
@@ -2408,7 +2408,7 @@ Norway,EUR,2013,,Election,Single,169,67,0.39644970414201186,
 Norway,EUR,2017,january,Election,Single,169,70,0.41420118343195267,
 Oman,MENA,2003,,Election,Lower,83,2,0.024096385542168676,
 Oman,MENA,2003,,Election,Upper,58,9,0.15517241379310345,All members of the upper house are appointed
-Oman,MENA,2007,October,Election,Lower,84,0,0,
+Oman,MENA,2007,October,Election,Lower,84,0,0.0,
 Oman,MENA,2007,November,Election,Upper,70,14,0.2,All members of the upper house are appointed
 Oman,MENA,2011,,Election,Lower,84,1,0.011904761904761904,
 Oman,MENA,2011,,Election,Upper,83,15,0.18072289156626506,
@@ -2420,7 +2420,7 @@ Pakistan,ASIA,1975,,Election,Upper,45,1,0.022222222222222223,
 Pakistan,ASIA,1977,,Election,Lower,216,10,0.046296296296296294,
 Pakistan,ASIA,1977,,Election,Upper,63,3,0.047619047619047616,
 Pakistan,ASIA,1985,,Election,Lower,237,21,0.08860759493670886,20 indir resv??? 21; 20 indirectly elected seats reserved for women. And 9 seats reserved for members of non-muslim minorities.
-Pakistan,ASIA,1985,,Election,Upper,87,0,0,
+Pakistan,ASIA,1985,,Election,Upper,87,0,0.0,
 Pakistan,ASIA,1988,,Election,Lower,237,24,0.10126582278481013,20 indir resv??? 21; 20 indirectly elected seats reserved for women. And 9 seats reserved for members of non-muslim minorities.
 Pakistan,ASIA,1990,,Election,Lower,217,2,0.009216589861751152,
 Pakistan,ASIA,1991,,Election,Upper,87,1,0.011494252873563218,
@@ -2437,22 +2437,22 @@ Pakistan,ASIA,2008,,Election,Lower,338,76,0.22485207100591717,
 Pakistan,ASIA,2009,,Election,Upper,100,18,0.18,A half of the seats renewed on 4 March 2009
 Pakistan,ASIA,2012,March,Election,Upper,104,17,0.16346153846153846,Half of the seats renewed
 Pakistan,ASIA,2013,,Election,Lower,323,67,0.20743034055727555,
-Pakistan,ASIA,2015,March,Election,Upper,100,18,0,
-Pakistan,ASIA,2018,march,Election,Upper,104,20,19.2%,
+Pakistan,ASIA,2015,March,Election,Upper,100,18,0.18,
+Pakistan,ASIA,2018,march,Election,Upper,104,20,0.19230769230769232,
 Pakistan,ASIA,2018,July,Election,Lower,341,69,0.20234604105571846,Provisional results were 68 women out of 330 (with 12 vacant seats). Includes 60 reserved seats for women.
-Palau,PAC,1992,,Election,Lower,16,0,0,The Parliament elected on 4 November 1992 became the first legislature of the Republic of Palau after the country became independent on 1 October 1994.
-Palau,PAC,1992,,Election,Upper,14,0,0,The Parliament elected on 4 November 1992 became the first legislature of the Republic of Palau after the country became independent on 1 October 1994.
-Palau,PAC,1996,,Election,Lower,16,0,0,
+Palau,PAC,1992,,Election,Lower,16,0,0.0,The Parliament elected on 4 November 1992 became the first legislature of the Republic of Palau after the country became independent on 1 October 1994.
+Palau,PAC,1992,,Election,Upper,14,0,0.0,The Parliament elected on 4 November 1992 became the first legislature of the Republic of Palau after the country became independent on 1 October 1994.
+Palau,PAC,1996,,Election,Lower,16,0,0.0,
 Palau,PAC,1996,,Election,Upper,14,1,0.07142857142857142,
-Palau,PAC,2000,,Election,Lower,16,0,0,
-Palau,PAC,2000,,Election,Upper,9,0,0,
-Palau,PAC,2004,,Election,Lower,16,0,0,
-Palau,PAC,2004,,Election,Upper,9,0,0,
+Palau,PAC,2000,,Election,Lower,16,0,0.0,
+Palau,PAC,2000,,Election,Upper,9,0,0.0,
+Palau,PAC,2004,,Election,Lower,16,0,0.0,
+Palau,PAC,2004,,Election,Upper,9,0,0.0,
 Palau,PAC,2008,,Election,Lower,13,2,0.15384615384615385,
 Palau,PAC,2008,,Election,Upper,13,2,0.15384615384615385,"The Reapportionment Commission is constituted every eight years to publish a reapportionment or redistricting plan for the Senate, which becomes law upon publication. The statutory number of members of the Senate has increased from nine to 13, starting from the 2008 elections, based on the Commission's recommendations of June 2007."
-Palau,PAC,2012,November,Election,Lower,16,0,0,"The elections returned seven incumbents to the 16-member House of Delegates and nine to the 13-member Senate. As in 2008, no women were elected to the House, while the number of women in the Senate increased from two to three. With no political parties in Palau, there was no nation-wide election campaigning."
+Palau,PAC,2012,November,Election,Lower,16,0,0.0,"The elections returned seven incumbents to the 16-member House of Delegates and nine to the 13-member Senate. As in 2008, no women were elected to the House, while the number of women in the Senate increased from two to three. With no political parties in Palau, there was no nation-wide election campaigning."
 Palau,PAC,2012,November,Election,Upper,13,3,0.23076923076923078,
-Palau,PAC,2016,,Election,Lower,16,0,0,
+Palau,PAC,2016,,Election,Lower,16,0,0.0,
 Palau,PAC,2016,November,Election,Lower,16,2,0.125,
 Palau,PAC,2016,,Election,Upper,13,3,0.23076923076923078,
 Palau,PAC,2016,November,Election,Upper,13,2,0.15384615384615385,
@@ -2463,7 +2463,7 @@ Panama,AME,1956,,Election,Single,53,2,0.03773584905660377,
 Panama,AME,1960,,Election,Single,53,2,0.03773584905660377,
 Panama,AME,1964,,Election,Single,42,1,0.023809523809523808,
 Panama,AME,1968,,Election,Single,38,1,0.02631578947368421,
-Panama,AME,1972,,Election,Single,16,0,0,"From 1946 to 1968, members were called Deputies; from 1972 to 1978, the legislature functions were exercised by 7 Commissioners and 9 State Ministers; as from 1978, members were called Legislators."
+Panama,AME,1972,,Election,Single,16,0,0.0,"From 1946 to 1968, members were called Deputies; from 1972 to 1978, the legislature functions were exercised by 7 Commissioners and 9 State Ministers; as from 1978, members were called Legislators."
 Panama,AME,1978,,Election,Single,37,3,0.08108108108108109,"From 1972 to 1978, the legislature functions were exercised by 7 Commissioners and 9 State Ministers"
 Panama,AME,1980,,Election,Single,56,3,0.05357142857142857,
 Panama,AME,1982,,Election,Single,56,1,0.017857142857142856,
@@ -2476,19 +2476,19 @@ Panama,AME,2009,,Election,Single,71,6,0.08450704225352113,
 Panama,AME,2014,,Election,Single,57,11,0.19298245614035087,
 Papua New Guinea,PAC,1977,,Election,Single,109,2,0.01834862385321101,First legislature of Papua New Guinea after the country became independent on 16 September 1975.
 Papua New Guinea,PAC,1982,,Election,Single,109,1,0.009174311926605505,
-Papua New Guinea,PAC,1987,,Election,Single,109,0,0,
-Papua New Guinea,PAC,1992,,Election,Single,109,0,0,
-Papua New Guinea,PAC,1997,January,Election,Single,109,0,0,
+Papua New Guinea,PAC,1987,,Election,Single,109,0,0.0,
+Papua New Guinea,PAC,1992,,Election,Single,109,0,0.0,
+Papua New Guinea,PAC,1997,January,Election,Single,109,0,0.0,
 Papua New Guinea,PAC,1997,,Election,Single,109,2,0.01834862385321101,
 Papua New Guinea,PAC,2002,,Election,Single,109,1,0.009174311926605505,
 Papua New Guinea,PAC,2007,,Election,Single,109,1,0.009174311926605505,
 Papua New Guinea,PAC,2012,July,Election,Single,111,3,0.02702702702702703,
-Papua New Guinea,PAC,2017,June,Election,Single,106,0,0,
-Paraguay,AME,1948,,Election,Single,40,0,0,
-Paraguay,AME,1950,,Election,Single,40,0,0,
-Paraguay,AME,1953,,Election,Single,40,0,0,The Chamber was dissolved following a military coup d'Etat on 4 May 1954.
-Paraguay,AME,1958,,Election,Single,60,0,0,
-Paraguay,AME,1960,,Election,Single,60,0,0,
+Papua New Guinea,PAC,2017,June,Election,Single,106,0,0.0,
+Paraguay,AME,1948,,Election,Single,40,0,0.0,
+Paraguay,AME,1950,,Election,Single,40,0,0.0,
+Paraguay,AME,1953,,Election,Single,40,0,0.0,The Chamber was dissolved following a military coup d'Etat on 4 May 1954.
+Paraguay,AME,1958,,Election,Single,60,0,0.0,
+Paraguay,AME,1960,,Election,Single,60,0,0.0,
 Paraguay,AME,1963,,Election,Single,60,2,0.03333333333333333,
 Paraguay,AME,1967,,Election,Single,109,2,0.01834862385321101,
 Paraguay,AME,1968,,Election,Lower,60,2,0.03333333333333333,
@@ -2513,18 +2513,18 @@ Paraguay,AME,2008,April,Election,Lower,80,10,0.125,
 Paraguay,AME,2008,April,Election,Upper,45,7,0.15555555555555556,
 Paraguay,AME,2013,April,Election,Lower,80,14,0.175,
 Paraguay,AME,2013,April,Election,Upper,45,9,0.2,
-Paraguay,AME,2018,April,Election,Lower,80,12,15.0%,
-Paraguay,AME,2018,April,Election,Upper,45,8,17.8%,
-Peru,AME,1945,,Election,Lower,149,0,0,The Congress was dissolved following a military coup d'Etat on 2 November 1948.
-Peru,AME,1945,,Election,Upper,46,0,0,The Congress was dissolved following a military coup d'Etat on 2 November 1948.
-Peru,AME,1950,,Election,Lower,152,0,0,
-Peru,AME,1950,,Election,Upper,42,0,0,
+Paraguay,AME,2018,April,Election,Lower,80,12,0.15,
+Paraguay,AME,2018,April,Election,Upper,45,8,0.17777777777777778,
+Peru,AME,1945,,Election,Lower,149,0,0.0,The Congress was dissolved following a military coup d'Etat on 2 November 1948.
+Peru,AME,1945,,Election,Upper,46,0,0.0,The Congress was dissolved following a military coup d'Etat on 2 November 1948.
+Peru,AME,1950,,Election,Lower,152,0,0.0,
+Peru,AME,1950,,Election,Upper,42,0,0.0,
 Peru,AME,1956,,Election,Lower,182,8,0.04395604395604396,
 Peru,AME,1956,,Election,Upper,53,1,0.018867924528301886,
 Peru,AME,1962,,Election,Lower,147,5,0.034013605442176874,The parliamentarians elected in 1962 did not sit.
 Peru,AME,1962,,Election,Upper,55,2,0.03636363636363636,The parliamentarians elected in 1962 did not sit.
 Peru,AME,1963,,Election,Lower,140,2,0.014285714285714285,The Congress was dissolved following a military coup d'Etat on 3 October 1968.
-Peru,AME,1963,,Election,Upper,45,0,0,The Congress was dissolved following a military coup d'Etat on 3 October 1968.
+Peru,AME,1963,,Election,Upper,45,0,0.0,The Congress was dissolved following a military coup d'Etat on 3 October 1968.
 Peru,AME,1978,,Election,Temporary Assembly,100,2,0.02,A unicameral constituent assembly was elected after the long period of military rule to facilitate the transition back to civilian government.
 Peru,AME,1980,,Election,Lower,180,13,0.07222222222222222,
 Peru,AME,1980,,Election,Upper,60,2,0.03333333333333333,
@@ -2542,17 +2542,17 @@ Peru,AME,2016,,Election,Single,130,29,0.2230769230769231,
 Peru,AME,2016,April,Election,Single,130,34,0.26153846153846155,
 Peru,AME,2016,September,Election,Single,130,36,0.27692307692307694,
 Philippines,ASIA,1946,April,Election,Lower,99,1,0.010101010101010102,The Assembly elected in April 1946 became the first legislature of the Philippines when the country became independent on 4 July 1946.
-Philippines,ASIA,1946,April,Election,Upper,16,0,0,The Assembly elected in April 1946 became the first legislature of the Philippines when the country became independent on 4 July 1946.
+Philippines,ASIA,1946,April,Election,Upper,16,0,0.0,The Assembly elected in April 1946 became the first legislature of the Philippines when the country became independent on 4 July 1946.
 Philippines,ASIA,1947,,Election,Upper,8,1,0.125,
 Philippines,ASIA,1949,,Election,Lower,102,1,0.00980392156862745,
-Philippines,ASIA,1949,,Election,Upper,8,0,0,
-Philippines,ASIA,1951,,Election,Upper,8,0,0,
+Philippines,ASIA,1949,,Election,Upper,8,0,0.0,
+Philippines,ASIA,1951,,Election,Upper,8,0,0.0,
 Philippines,ASIA,1953,,Election,Lower,103,2,0.019417475728155338,
-Philippines,ASIA,1953,,Election,Upper,8,0,0,
+Philippines,ASIA,1953,,Election,Upper,8,0,0.0,
 Philippines,ASIA,1955,,Election,Upper,8,1,0.125,
 Philippines,ASIA,1957,,Election,Lower,103,1,0.009708737864077669,
-Philippines,ASIA,1957,,Election,Upper,8,0,0,
-Philippines,ASIA,1959,,Election,Upper,8,0,0,
+Philippines,ASIA,1957,,Election,Upper,8,0,0.0,
+Philippines,ASIA,1959,,Election,Upper,8,0,0.0,
 Philippines,ASIA,1961,,Election,Lower,106,2,0.018867924528301886,
 Philippines,ASIA,1961,,Election,Upper,8,1,0.125,
 Philippines,ASIA,1963,,Election,Upper,8,1,0.125,
@@ -2560,7 +2560,7 @@ Philippines,ASIA,1965,,Election,Lower,109,6,0.05504587155963303,
 Philippines,ASIA,1965,,Election,Upper,8,1,0.125,
 Philippines,ASIA,1967,,Election,Upper,8,2,0.25,"Every 3 years, half the membership of the Senate is renewed by direct election"
 Philippines,ASIA,1969,,Election,Lower,109,3,0.027522935779816515,The Assembly was dissolved in 1972 and martial law was established.
-Philippines,ASIA,1969,,Election,Upper,8,0,0,"The Assembly was dissolved in 1972 and martial law was established. Every 3 years, half the membership of the Senate is renewed by direct election"
+Philippines,ASIA,1969,,Election,Upper,8,0,0.0,"The Assembly was dissolved in 1972 and martial law was established. Every 3 years, half the membership of the Senate is renewed by direct election"
 Philippines,ASIA,1971,,Election,Upper,8,1,0.125,"Every 3 years, half the membership of the Senate is renewed by direct election"
 Philippines,ASIA,1978,,Election,Single,200,11,0.055,
 Philippines,ASIA,1984,,Election,Single,197,11,0.05583756345177665,
@@ -2587,7 +2587,7 @@ Philippines,ASIA,2013,May,Election,Upper,23,3,0.13043478260869565,"Every 3 years
 Philippines,ASIA,2016,,Election,Lower,290,79,0.27241379310344827,
 Philippines,ASIA,2016,june,Election,Lower,292,87,0.2979452054794521,
 Philippines,ASIA,2016,,Election,Upper,24,6,0.25,
-Poland,EUR,1947,,Election,Single,444,0,0,
+Poland,EUR,1947,,Election,Single,444,0,0.0,
 Poland,EUR,1952,,Election,Single,425,75,0.17647058823529413,
 Poland,EUR,1957,,Election,Single,459,19,0.04139433551198257,
 Poland,EUR,1961,,Election,Single,460,60,0.13043478260869565,
@@ -2639,16 +2639,16 @@ Portugal,EUR,2005,February,Election,Single,230,49,0.21304347826086956,
 Portugal,EUR,2009,September,Election,Single,230,64,0.2782608695652174,
 Portugal,EUR,2011,June,Election,Single,230,61,0.26521739130434785,
 Portugal,EUR,2015,October,Election,Single,230,80,0.34782608695652173,
-Qatar,MENA,2005,June,Election,Council,35,0,0,This is a unicameral Advisory Council that functions as the legislature of Qatar. All members appointed by the emir.
-Qatar,MENA,2007,June,Election,Council,35,0,0,This is a unicameral Advisory Council that functions as the legislature of Qatar. All members appointed by the emir.
-Qatar,MENA,2010,July,Election,Council,35,0,0,This is a unicameral Advisory Council that functions as the legislature of Qatar. All members appointed by the emir.
-Qatar,MENA,2013,July,Election,Council,35,0,0,This is a unicameral Advisory Council that functions as the legislature of Qatar. All members appointed by the emir.
+Qatar,MENA,2005,June,Election,Council,35,0,0.0,This is a unicameral Advisory Council that functions as the legislature of Qatar. All members appointed by the emir.
+Qatar,MENA,2007,June,Election,Council,35,0,0.0,This is a unicameral Advisory Council that functions as the legislature of Qatar. All members appointed by the emir.
+Qatar,MENA,2010,July,Election,Council,35,0,0.0,This is a unicameral Advisory Council that functions as the legislature of Qatar. All members appointed by the emir.
+Qatar,MENA,2013,July,Election,Council,35,0,0.0,This is a unicameral Advisory Council that functions as the legislature of Qatar. All members appointed by the emir.
 Republic of Korea,ASIA,1948,May,Election,Single,200,1,0.005,"First legislature of the Republic of Korea, proclaimed on 15 August 1948."
 Republic of Korea,ASIA,1950,May,Election,Single,210,2,0.009523809523809525,
 Republic of Korea,ASIA,1954,May,Election,Single,203,1,0.0049261083743842365,
 Republic of Korea,ASIA,1958,May,Election,Single,233,3,0.012875536480686695,
 Republic of Korea,ASIA,1960,July,Election,Lower,233,1,0.004291845493562232,Parliament was dissolved following a military coup d'Etat in May 1961.
-Republic of Korea,ASIA,1960,July,Election,Upper,58,0,0,Parliament was dissolved following a military coup d'Etat in May 1961.
+Republic of Korea,ASIA,1960,July,Election,Upper,58,0,0.0,Parliament was dissolved following a military coup d'Etat in May 1961.
 Republic of Korea,ASIA,1963,November,Election,Single,175,2,0.011428571428571429,
 Republic of Korea,ASIA,1967,June,Election,Single,175,3,0.017142857142857144,
 Republic of Korea,ASIA,1971,May,Election,Single,204,5,0.024509803921568627,
@@ -2663,7 +2663,7 @@ Republic of Korea,ASIA,2000,April,Election,Single,299,12,0.04013377926421405,
 Republic of Korea,ASIA,2000,April,Election,Single,273,10,0.03663003663003663,
 Republic of Korea,ASIA,2000,April,Election,Single,273,16,0.05860805860805861,
 Republic of Korea,ASIA,2004,February,Election,Single,271,15,0.055350553505535055,
-Republic of Korea,ASIA,2004,April,Election,Single,299,39,,
+Republic of Korea,ASIA,2004,April,Election,Single,299,39,0.13043478260869565,
 Republic of Korea,ASIA,2008,April,Election,Single,299,41,0.13712374581939799,
 Republic of Korea,ASIA,2012,April,Election,Single,300,47,0.15666666666666668,
 Republic of Korea,ASIA,2016,,Election,Single,300,49,0.16333333333333333,
@@ -2712,8 +2712,8 @@ Russia,EUR,2007,,Election,Lower,450,63,0.14,
 Russia,EUR,2011,December,Election,Lower,450,61,0.13555555555555557,
 Russian Federation,EUR,2016,,Election,Lower,450,61,0.13555555555555557,
 Russian Federation,EUR,2016,September,Election,Lower,450,57,0.12666666666666668,
-Rwanda,SUB-SAHARAN,1965,December,Election,Single,47,0,0,First legislature of Rwanda after the country became independent on 1 July 1962. Two Elections prior to independence took place in 1961 (January and December) no women were elected
-Rwanda,SUB-SAHARAN,1969,,Election,Single,47,0,0,Parliament was dissolved following a military coup d'Etat in July 1972.
+Rwanda,SUB-SAHARAN,1965,December,Election,Single,47,0,0.0,First legislature of Rwanda after the country became independent on 1 July 1962. Two Elections prior to independence took place in 1961 (January and December) no women were elected
+Rwanda,SUB-SAHARAN,1969,,Election,Single,47,0,0.0,Parliament was dissolved following a military coup d'Etat in July 1972.
 Rwanda,SUB-SAHARAN,1981,December,Election,Single,64,4,0.0625,
 Rwanda,SUB-SAHARAN,1983,December,Election,Single,70,9,0.12857142857142856,
 Rwanda,SUB-SAHARAN,1988,December,Election,Single,70,12,0.17142857142857143,Collapse of constitutional institutions in April 1994.
@@ -2730,25 +2730,25 @@ Saint Kitts and Nevis,AME,1989,March,Election,Single,15,1,0.06666666666666667,"3
 Saint Kitts and Nevis,AME,1993,November,Election,Single,16,1,0.0625,"3 members are appointed by the Governor General, 1 member, the Attorney General, is ex-officio"
 Saint Kitts and Nevis,AME,1995,July,Election,Single,15,2,0.13333333333333333,"3 members are appointed by the Governor General, 1 member, the Attorney General, is ex-officio"
 Saint Kitts and Nevis,AME,2000,March,Election,Single,15,2,0.13333333333333333,"3 members are appointed by the Governor General, 1 member, the Attorney General, is ex-officio"
-Saint Kitts and Nevis,AME,2004,October,Election,Single,15,0,0,"3 members are appointed by the Governor General, 1 member, the Attorney General, is ex-officio"
+Saint Kitts and Nevis,AME,2004,October,Election,Single,15,0,0.0,"3 members are appointed by the Governor General, 1 member, the Attorney General, is ex-officio"
 Saint Kitts and Nevis,AME,2010,January,Election,Single,15,1,0.06666666666666667,
 Saint Kitts and Nevis,AME,2015,,Election,Single,15,2,0.13333333333333333,
-Saint Lucia,AME,1979,,Election,Lower,17,0,0,"First legislature of Saint Lucia after the country became independent on 22 February 1979; however, the Parliament existing before independence continued to function until the end of its mandate, in June 1979. 17 members of the Lower House are directly elected, but the Speaker of the House is appointed and becomes the 18th member of the Lower House."
+Saint Lucia,AME,1979,,Election,Lower,17,0,0.0,"First legislature of Saint Lucia after the country became independent on 22 February 1979; however, the Parliament existing before independence continued to function until the end of its mandate, in June 1979. 17 members of the Lower House are directly elected, but the Speaker of the House is appointed and becomes the 18th member of the Lower House."
 Saint Lucia,AME,1979,,Election,Upper,11,2,0.18181818181818182,Members of the Upper House are appointed by the Governor General.
-Saint Lucia,AME,1982,,Election,Lower,17,0,0,
+Saint Lucia,AME,1982,,Election,Lower,17,0,0.0,
 Saint Lucia,AME,1982,,Election,Upper,11,3,0.2727272727272727,Members of the Upper House are appointed by the Governor General.
-Saint Lucia,AME,1987,,Election,Lower,18,0,0,
+Saint Lucia,AME,1987,,Election,Lower,18,0,0.0,
 Saint Lucia,AME,1987,,Election,Upper,11,2,0.18181818181818182,Members of the Upper House are appointed by the Governor General.
-Saint Lucia,AME,1992,,Election,Lower,17,0,0,
+Saint Lucia,AME,1992,,Election,Lower,17,0,0.0,
 Saint Lucia,AME,1992,,Election,Upper,11,4,0.36363636363636365,Members of the Upper House are appointed by the Governor General.
-Saint Lucia,AME,1997,January,Election,Lower,18,0,0,
+Saint Lucia,AME,1997,January,Election,Lower,18,0,0.0,
 Saint Lucia,AME,1997,January,Election,Upper,11,4,0.36363636363636365,Members of the Upper House are appointed by the Governor General.
 Saint Lucia,AME,1997,November,Election,Lower,17,2,0.11764705882352941,
 Saint Lucia,AME,1997,November,Election,Upper,11,2,0.18181818181818182,
 Saint Lucia,AME,2001,December,Election,Lower,18,2,0.1111111111111111,
 Saint Lucia,AME,2001,December,Election,Upper,11,4,0.36363636363636365,Members of the Upper House are appointed by the Governor General.
 Saint Lucia,AME,2006, March,Election,Lower,18,1,0.05555555555555555,No woman was elected in the 2006 elections. However a woman was appointed Speaker of the House and therefore became a member of the House
-Saint Lucia,AME,2006,December,Election,Lower,17,0,0,
+Saint Lucia,AME,2006,December,Election,Lower,17,0,0.0,
 Saint Lucia,AME,2007,January,Election,Upper,11,3,0.2727272727272727,Members of the Upper House are appointed by the Governor General.
 Saint Lucia,AME,2011,November,Election,Lower,18,3,0.16666666666666666,
 Saint Lucia,AME,2012,January,Election,Upper,11,2,0.18181818181818182,
@@ -2765,7 +2765,7 @@ Saint Vincent and the Grenadines,AME,2005,December,Election,Single,22,4,0.181818
 Saint Vincent and the Grenadines,AME,2010,December,Election,Single,21,3,0.14285714285714285,
 Saint Vincent and the Grenadines,AME,2015,,Election,Single,23,3,0.13043478260869565,
 Samoa,PAC,1964,,Election,Single,47,1,0.02127659574468085,First legislature of Samoa after the country became independent on 1 January 1962.
-Samoa,PAC,1967,,Election,Single,47,0,0,
+Samoa,PAC,1967,,Election,Single,47,0,0.0,
 Samoa,PAC,1970,,Election,Single,47,1,0.02127659574468085,
 Samoa,PAC,1973,,Election,Single,47,1,0.02127659574468085,
 Samoa,PAC,1976,,Election,Single,47,2,0.0425531914893617,Women could be appointed to 2 seats in Parliament before they were granted the right to stand for election in 1990. 
@@ -2779,13 +2779,13 @@ Samoa,PAC,2001,March,Election,Single,49,3,0.061224489795918366,
 Samoa,PAC,2006,September,Election,Single,49,4,0.08163265306122448,
 Samoa,PAC,2011,March,Election,Single,49,2,0.04081632653061224,
 Samoa ,PAC,2016,March,Election,Single,50,5,0.1,
-San Marino,EUR,1945,,Election,Single,60,0,0,
-San Marino,EUR,1949,,Election,Single,60,0,0,
-San Marino,EUR,1951,,Election,Single,60,0,0,
-San Marino,EUR,1955,,Election,Single,60,0,0,
-San Marino,EUR,1959,,Election,Single,60,0,0,
-San Marino,EUR,1964,,Election,Single,60,0,0,
-San Marino,EUR,1969,,Election,Single,60,0,0,
+San Marino,EUR,1945,,Election,Single,60,0,0.0,
+San Marino,EUR,1949,,Election,Single,60,0,0.0,
+San Marino,EUR,1951,,Election,Single,60,0,0.0,
+San Marino,EUR,1955,,Election,Single,60,0,0.0,
+San Marino,EUR,1959,,Election,Single,60,0,0.0,
+San Marino,EUR,1964,,Election,Single,60,0,0.0,
+San Marino,EUR,1969,,Election,Single,60,0,0.0,
 San Marino,EUR,1974,,Election,Single,60,4,0.06666666666666667,
 San Marino,EUR,1978,,Election,Single,60,3,0.05,
 San Marino,EUR,1983,,Election,Single,60,6,0.1,
@@ -2808,11 +2808,11 @@ Sao Tome and Principe,SUB-SAHARAN,2006,March,Election,Single,55,4,0.072727272727
 Sao Tome and Principe,SUB-SAHARAN,2010,October,Election,Single,55,10,0.18181818181818182,
 Sao Tome and Principe,SUB-SAHARAN,2014,October,Election,Single,55,10,0.18181818181818182,
 Sao Tome and Principe,SUB-SAHARAN,2018,October,Election,Single,55,8,0.14545454545454545,
-Saudi Arabia,MENA,2005,April,Election,Council,150,0,0,This is a unicameral Consultative Council that functions as the legislature of Saudi Arabia in cooperation with the King. All members are appointed by the king.
+Saudi Arabia,MENA,2005,April,Election,Council,150,0,0.0,This is a unicameral Consultative Council that functions as the legislature of Saudi Arabia in cooperation with the King. All members are appointed by the king.
 Saudi Arabia,MENA,2009,February,Election,Council,150,34,0.22666666666666666,
 Saudi Arabia,MENA,2013,February,Election,Single,151,30,0.1986754966887417,"The Royal Order issued on 11 January 2013 provided that women shall be represented in the Council at a minimum level of 20% of its 150 members, i.e. 30 women."
 Saudi Arabia,MENA,2016,,Election,Single,151,30,0.1986754966887417,
-Senegal,SUB-SAHARAN,1960,,Election,Single,80,0,0,First legislature of Senegal after the country became independent on 4 April 1960.
+Senegal,SUB-SAHARAN,1960,,Election,Single,80,0,0.0,First legislature of Senegal after the country became independent on 4 April 1960.
 Senegal,SUB-SAHARAN,1963,December,Election,Single,80,1,0.0125,
 Senegal,SUB-SAHARAN,1968,February,Election,Single,80,1,0.0125,
 Senegal,SUB-SAHARAN,1973,January,Election,Single,100,4,0.04,
@@ -2833,7 +2833,7 @@ Serbia,EUR,2012,May,Election,Single,250,81,0.324,
 Serbia,EUR,2014,March,Election,Single,250,85,0.34,
 Serbia,EUR,2016,April,Election,Single,250,85,0.34,
 Serbia and Montenegro,EUR,2003,February,Election,Single,126,10,0.07936507936507936,Women from Serbia and Montenegro had previously been elected to the Parliament of the S.F.R. of Yugoslavia (Federal Socialist Republic of)
-Seychelles,SUB-SAHARAN,1974,,Election,Single,15,0,0,"The National Assembly elected on 25 April 1974 became the first legislature of the Seychelles after the country became independent on 28 June 1976. When the National Assembly began operating as the Parliament of the independent State of Seychelles on 1 September 1976, the number of members was increased to 25, one woman member was appointed without fresh elections having been held; the Parliament was dissolved following a military coup d'Etat on 4 June 1977"
+Seychelles,SUB-SAHARAN,1974,,Election,Single,15,0,0.0,"The National Assembly elected on 25 April 1974 became the first legislature of the Seychelles after the country became independent on 28 June 1976. When the National Assembly began operating as the Parliament of the independent State of Seychelles on 1 September 1976, the number of members was increased to 25, one woman member was appointed without fresh elections having been held; the Parliament was dissolved following a military coup d'Etat on 4 June 1977"
 Seychelles,SUB-SAHARAN,1979,,Election,Single,25,8,0.32,2 members appointed by the President
 Seychelles,SUB-SAHARAN,1983,,Election,Single,25,6,0.24,2 members appointed by the President
 Seychelles,SUB-SAHARAN,1987,,Election,Single,25,4,0.16,2 members appointed by the President
@@ -2847,19 +2847,19 @@ Seychelles,SUB-SAHARAN,2016,,Election,Single,32,14,0.4375,
 Seychelles,SUB-SAHARAN,2011,December,Election,Single,32,14,0.4375,
 Seychelles,SUB-SAHARAN,2016,September,Election,Single,32,14,0.4375,
 Sierra Leone,SUB-SAHARAN,1973,,Election,Single,97,1,0.010309278350515464,"12 members are Paramount Chiefs, others directly elected"
-Sierra Leone,SUB-SAHARAN,1977,,Election,Single,100,0,0,"12 members are Paramount Chiefs, 3 are appointed by the president, others directly elected"
+Sierra Leone,SUB-SAHARAN,1977,,Election,Single,100,0,0.0,"12 members are Paramount Chiefs, 3 are appointed by the president, others directly elected"
 Sierra Leone,SUB-SAHARAN,1982,,Election,Single,104,1,0.009615384615384616,"12 members are Paramount Chiefs, 7 are appointed by the president, others directly elected"
 Sierra Leone,SUB-SAHARAN,1996,,Election,Single,80,5,0.0625,"Post-military coup; it seems that 68 membersl directly elected, unclear about others"
 Sierra Leone,SUB-SAHARAN,2002,May,Election,Single,124,18,0.14516129032258066,"12 members are Paramount Chiefs, others directly elected"
 Sierra Leone,SUB-SAHARAN,2007,August-august,Election,Single,112,16,0.14285714285714285,"12 members are Paramount Chiefs, others directly elected"
 Sierra Leone,SUB-SAHARAN,2007,August- september,Election,Single,124,16,0.12903225806451613,
 Sierra Leone,SUB-SAHARAN,2012,November,Election,Single,121,15,0.12396694214876033,
-Sierra Leone,SUB-SAHARAN,2018,March,Election,Single,146,18,12.3%,"Of the 132 directly elected MPs 16 are women and of the 14 Paramount Chiefs MPs, 2 are women."
+Sierra Leone,SUB-SAHARAN,2018,March,Election,Single,146,18,0.1232876712328767,"Of the 132 directly elected MPs 16 are women and of the 14 Paramount Chiefs MPs, 2 are women."
 Singapore,ASIA,1963,,Election,Single,51,3,0.058823529411764705,"Singapore became a self-governing state within the British Empire and obtained a limited parliament in 1959; this was the first legislature of Singapore after the country became independent on 9 August 1965:  Singapore's representatives to the Assembly of the Federation of Greater Malaysia, created in September 1963 with Singapore as a federated State, formed the Legislative Assembly of Singapore when the country became independent."
 Singapore,ASIA,1968,,Election,Single,58,1,0.017241379310344827,
-Singapore,ASIA,1972,,Election,Single,65,0,0,
-Singapore,ASIA,1976,,Election,Single,69,0,0,
-Singapore,ASIA,1980,,Election,Single,75,0,0,
+Singapore,ASIA,1972,,Election,Single,65,0,0.0,
+Singapore,ASIA,1976,,Election,Single,69,0,0.0,
+Singapore,ASIA,1980,,Election,Single,75,0,0.0,
 Singapore,ASIA,1984,,Election,Single,79,3,0.0379746835443038,
 Singapore,ASIA,1988,,Election,Single,82,4,0.04878048780487805,
 Singapore,ASIA,1991,,Election,Single,81,3,0.037037037037037035,
@@ -2898,19 +2898,19 @@ Slovenia,EUR,2011,December,Election,Lower,90,29,0.32222222222222224,
 Slovenia,EUR,2012,November,Election,Upper,40,3,0.075,
 Slovenia,EUR,2014,July,Election,Lower,90,32,0.35555555555555557,
 Slovenia,EUR,2017,november,Election,Upper,39,4,0.10256410256410256,
-Slovenia,EUR,2018,June,Election,Lower,90,22,24.4%,
-Solomon Islands,PAC,1980,,Election,Single,38,0,0,First legislature of the Solomon Islands after they became independent on 7 July 1978.
-Solomon Islands,PAC,1984,,Election,Single,38,0,0,
-Solomon Islands,PAC,1989,,Election,Single,37,0,0,"The nominal number of seats is 38, but there is 1 vacancy"
+Slovenia,EUR,2018,June,Election,Lower,90,22,0.24444444444444444,
+Solomon Islands,PAC,1980,,Election,Single,38,0,0.0,First legislature of the Solomon Islands after they became independent on 7 July 1978.
+Solomon Islands,PAC,1984,,Election,Single,38,0,0.0,
+Solomon Islands,PAC,1989,,Election,Single,37,0,0.0,"The nominal number of seats is 38, but there is 1 vacancy"
 Solomon Islands,PAC,1993,,Election,Single,47,1,0.02127659574468085,"The nominal number of seats is 48, but there is 1 vacancy"
 Solomon Islands,PAC,1997,December,Election,Single,49,1,0.02040816326530612,
-Solomon Islands,PAC,2001,December,Election,Single,50,0,0,
-Solomon Islands,PAC,2006,April,Election,Single,50,0,0,
-Solomon Islands,PAC,2010,August,Election,Single,50,0,0,No women were elected in the August 2010 elections.
+Solomon Islands,PAC,2001,December,Election,Single,50,0,0.0,
+Solomon Islands,PAC,2006,April,Election,Single,50,0,0.0,
+Solomon Islands,PAC,2010,August,Election,Single,50,0,0.0,No women were elected in the August 2010 elections.
 Solomon Islands,PAC,2014,,Election,Single,50,1,0.02,
-Somalia,SUB-SAHARAN,1960,February,Election,Single,124,0,0,Somalia was colonised by Great Britain and Italy; this was the first legislature of Somalia after the country became independent on 1 July 1960; the legislative Assemblies elected respectively in March 1959 in the Italian Somaliland (90 seats) and in February 1960 the British Somaliland (44 seats) altogether became the National Assembly of new the Independent Republic.
-Somalia,SUB-SAHARAN,1964,March,Election,Single,124,0,0,
-Somalia,SUB-SAHARAN,1969,March,Election,Single,124,0,0,The National Assembly was dissolved following a military coup d'Etat on 15 October 1969.
+Somalia,SUB-SAHARAN,1960,February,Election,Single,124,0,0.0,Somalia was colonised by Great Britain and Italy; this was the first legislature of Somalia after the country became independent on 1 July 1960; the legislative Assemblies elected respectively in March 1959 in the Italian Somaliland (90 seats) and in February 1960 the British Somaliland (44 seats) altogether became the National Assembly of new the Independent Republic.
+Somalia,SUB-SAHARAN,1964,March,Election,Single,124,0,0.0,
+Somalia,SUB-SAHARAN,1969,March,Election,Single,124,0,0.0,The National Assembly was dissolved following a military coup d'Etat on 15 October 1969.
 Somalia,SUB-SAHARAN,1979,December,Election,Single,177,18,0.1016949152542373,
 Somalia,SUB-SAHARAN,1984,December,Election,Single,177,7,0.03954802259887006,"Extension of the mandate of the Assembly for one year in December 1989, followed by the collapse of constitutional institutions in 1990-1991."
 Somalia,SUB-SAHARAN,2004,August,Election,Single,546,37,0.06776556776556776,"The total number of seats at the time was 275, but this was not counted since information on the number of women is unavailable."
@@ -2931,10 +2931,10 @@ South Africa,SUB-SAHARAN,1974,May,Election,Upper,55,2,0.03636363636363636,
 South Africa,SUB-SAHARAN,1977,November,Election,Lower,165,1,0.006060606060606061,
 South Africa,SUB-SAHARAN,1981,April,Election,Single,177,2,0.011299435028248588,
 South Africa,SUB-SAHARAN,1984,August,Election,Special,85,2,0.023529411764705882,"The Constitution providing for the tricameral system came into effect in 1983, i.e. after the House of Assembly elections in 1981, but before the elections for the other two Houses which took place under the new Constitution; special arrangements were made to enable the House of Assembly to sit beyond the period of five years specified by the Constitution. This chamber of parliament, The House of Representatives, functions as a Lower House of Parliament and is part of a special tricameral assembly in existence in South Africa at the time."
-South Africa,SUB-SAHARAN,1984,August,Election,Special,45,0,0,"The Constitution providing for the tricameral system came into effect in 1983, i.e. after the House of Assembly elections in 1981, but before the elections for the other two Houses which took place under the new Constitution; special arrangements were made to enable the House of Assembly to sit beyond the period of five years specified by the Constitution. This chamber of parliament, The House of Delegates, functions as an Upper House of Parliament and is part of a special tricameral assembly in existence in South Africa at the time."
+South Africa,SUB-SAHARAN,1984,August,Election,Special,45,0,0.0,"The Constitution providing for the tricameral system came into effect in 1983, i.e. after the House of Assembly elections in 1981, but before the elections for the other two Houses which took place under the new Constitution; special arrangements were made to enable the House of Assembly to sit beyond the period of five years specified by the Constitution. This chamber of parliament, The House of Delegates, functions as an Upper House of Parliament and is part of a special tricameral assembly in existence in South Africa at the time."
 South Africa,SUB-SAHARAN,1987,April,Election,Special,178,4,0.02247191011235955,"The Constitution providing for the tricameral system came into effect in 1983, i.e. after the House of Assembly elections in 1981, but before the elections for the other two Houses which took place under the new Constitution; special arrangements were made to enable the House of Assembly to sit beyond the period of five years specified by the Constitution. This chamber of parliament, The House of Assembly, functions as an Upper House of Parliament and is part of a special tricameral assembly in existence in South Africa at the time."
 South Africa,SUB-SAHARAN,1987,April,Election,Special,83,3,0.03614457831325301,"This chamber of parliament, The House of Representatives, functions as a Lower House of Parliament and is part of a special tricameral assembly in existence in South Africa at the time. The nominal number of seats is 85, but there were 2 vacancies at the time."
-South Africa,SUB-SAHARAN,1987,April,Election,Special,44,0,0,"This chamber of parliament, The House of Delegates, functions as an Upper House of Parliament and is part of a special tricameral assembly in existence in South Africa at the time. The nominal number of seats is 45, but there was 1 vacancy at the time."
+South Africa,SUB-SAHARAN,1987,April,Election,Special,44,0,0.0,"This chamber of parliament, The House of Delegates, functions as an Upper House of Parliament and is part of a special tricameral assembly in existence in South Africa at the time. The nominal number of seats is 45, but there was 1 vacancy at the time."
 South Africa,SUB-SAHARAN,1989,September,Election,Special,178,5,0.028089887640449437,"This chamber of parliament, The House of Assembly, functions as an Upper House of Parliament and is part of a special tricameral assembly in existence in South Africa at the time."
 South Africa,SUB-SAHARAN,1989,September,Election,Special,85,1,0.011764705882352941,"This chamber of parliament, The House of Representatives, functions as a Lower House of Parliament and is part of a special tricameral assembly in existence in South Africa at the time."
 South Africa,SUB-SAHARAN,1989,September,Election,Special,45,1,0.022222222222222223,"This chamber of parliament, The House of Delegates, functions as an Upper House of Parliament and is part of a special tricameral assembly in existence in South Africa at the time."
@@ -2945,8 +2945,8 @@ South Africa,SUB-SAHARAN,1999,June,Election,Upper,54,17,0.3148148148148148,"90 i
 South Africa,SUB-SAHARAN,2004,January,Election,Lower,399,119,0.2982456140350877,
 South Africa,SUB-SAHARAN,2004,April,Election,Lower,400,131,0.3275,
 South Africa,SUB-SAHARAN,2004,December,Election,Upper,54,18,0.3333333333333333,"90 indirectly elected (the figures on the distribution of seats do not include the 36 special rotating delegates appointed on an ad hoc basis, and the percentages given are therefore calculated on the basis of the 54 permanent seats)"
-South Africa,SUB-SAHARAN,2004,February,Election,Upper,86,17,,
-South Africa,SUB-SAHARAN,2004,March,Election,Upper,54,17,,
+South Africa,SUB-SAHARAN,2004,February,Election,Upper,86,17,0.19767441860465115,
+South Africa,SUB-SAHARAN,2004,March,Election,Upper,54,17,0.3148148148148148,
 South Africa,SUB-SAHARAN,2009,April- May,Election,Lower,400,174,0.435,
 South Africa,SUB-SAHARAN,2009,April - June,Election,Lower,400,178,0.445,
 South Africa,SUB-SAHARAN,2009,April,Election,Upper,54,16,0.2962962962962963,"90 indirectly elected (the figures on the distribution of seats do not include the 36 special rotating delegates appointed on an ad hoc basis, and the percentages given are therefore calculated on the basis of the 54 permanent seats)"
@@ -3007,7 +3007,7 @@ Sri Lanka,ASIA,1960,,Election,Upper,30,3,0.1,Half of the number of the Senators 
 Sri Lanka,ASIA,1965,,Election,Lower,157,4,0.025477707006369428,
 Sri Lanka,ASIA,1965,,Election,Upper,30,1,0.03333333333333333,Half of the number of the Senators elected and the other half appointed by the Attorney General. 1 additional woman was elected in 1966 by-elections and another additional woman in 1967 by-elections
 Sri Lanka,ASIA,1970,,Election,Lower,157,6,0.03821656050955414,"In the framework of the constitutional reform of 1972, the bicameral Parliament elected in May 1970 became a unicameral Parliament without new elections having been held. Five seats were multi-member seats."
-Sri Lanka,ASIA,1970,,Election,Upper,30,0,0,"In the framework of the constitutional reform of 1972, the bicameral Parliament elected in May 1970 became a unicameral Parliament without new elections having been held. Half of the number of the Senators elected and the other half appointed by the Attorney General."
+Sri Lanka,ASIA,1970,,Election,Upper,30,0,0.0,"In the framework of the constitutional reform of 1972, the bicameral Parliament elected in May 1970 became a unicameral Parliament without new elections having been held. Half of the number of the Senators elected and the other half appointed by the Attorney General."
 Sri Lanka,ASIA,1977,,Election,Single,168,4,0.023809523809523808,A referendum of 22 December 1982 approved the extension of the Parliament's term by six years from August 1983. Five seats were multi-member seats. The number of women increased to 11: 6.5%.
 Sri Lanka,ASIA,1989,,Election,Single,224,11,0.049107142857142856,"The nominal number of seats is 225, but there is 1 vacancy;  The number of women increased to 12:  5.3% in July 1991"
 Sri Lanka,ASIA,1994,,Election,Single,225,12,0.05333333333333334,
@@ -3016,10 +3016,10 @@ Sri Lanka,ASIA,2001,December,Election,Single,225,10,0.044444444444444446,
 Sri Lanka,ASIA,2004,April,Election,Single,225,11,0.04888888888888889,
 Sri Lanka,ASIA,2010,April,Election,Single,225,12,0.05333333333333334,
 Sri Lanka,ASIA,2015,August,Election,Single,225,11,0.04888888888888889,
-Sudan,MENA,1954,,Election,Single,95,0,0,First legislature of Sudan after the country became independent on 1 January 1956.  The Parliament was dissolved following a military coup d'Etat in November 1958.
-Sudan,MENA,1962,,Election,Single,82,0,0,
+Sudan,MENA,1954,,Election,Single,95,0,0.0,First legislature of Sudan after the country became independent on 1 January 1956.  The Parliament was dissolved following a military coup d'Etat in November 1958.
+Sudan,MENA,1962,,Election,Single,82,0,0.0,
 Sudan,MENA,1965,,Election,Temporary Assembly,233,1,0.004291845493562232,First Constituent Assembly after military rule; unicameral
-Sudan,MENA,1968,,Election,Temporary Assembly,233,0,0,Second Constituent Assembly after military rule; unicameral
+Sudan,MENA,1968,,Election,Temporary Assembly,233,0,0.0,Second Constituent Assembly after military rule; unicameral
 Sudan,MENA,1972,,Election,Single,255,14,0.054901960784313725,The first People's Assembly was then dissolved following a military coup d'Etat in 1972.
 Sudan,MENA,1974,,Election,Single,250,15,0.06,The number of members of the Assembly was increased to 304 in November 1977:  increase in the number of territory representatives.
 Sudan,MENA,1978,,Election,Single,304,20,0.06578947368421052,
@@ -3076,7 +3076,7 @@ Sweden,EUR,2018,September,Election,Single,349,161,0.46131805157593125,
 Switzerland,EUR,1971,,Election,Lower,200,11,0.055,First elections in which women could run as candidates; Switzerland has had a Federal Parliament since 1848 when the Federal State was created.
 Switzerland,EUR,1971,,Election,Upper,44,1,0.022727272727272728,First elections in which women could run as candidates; Switzerland has had a Federal Parliament since 1848 when the Federal State was created.
 Switzerland,EUR,1975,,Election,Lower,200,14,0.07,
-Switzerland,EUR,1975,,Election,Upper,44,0,0,
+Switzerland,EUR,1975,,Election,Upper,44,0,0.0,
 Switzerland,EUR,1979,,Election,Lower,200,21,0.105,
 Switzerland,EUR,1979,,Election,Upper,46,3,0.06521739130434782,
 Switzerland,EUR,1983,,Election,Lower,200,22,0.11,
@@ -3098,11 +3098,11 @@ Switzerland,EUR,2011,October,Election,Upper,31,4,0.12903225806451613,
 Switzerland,EUR,2015,October,Election,Lower,200,64,0.32,
 Switzerland,EUR,2015,May,Election,Upper,46,7,0.15217391304347827,
 Switzerland,EUR,2011,October,Election,Upper,46,9,0.1956521739130435,
-Syrian Arab Republic,MENA,1947,,Election,Single,114,0,0,First legislature of Syria after the country became independent on 17 April 1946.  The Assembly was dissolved following a military coup d'Etat on 30 March 1949.
-Syrian Arab Republic,MENA,1949,,Election,Single,103,0,0,The Assembly was dissolved following a military coup d'Etat on 2 December 1949.
-Syrian Arab Republic,MENA,1953,,Election,Single,81,0,0,
+Syrian Arab Republic,MENA,1947,,Election,Single,114,0,0.0,First legislature of Syria after the country became independent on 17 April 1946.  The Assembly was dissolved following a military coup d'Etat on 30 March 1949.
+Syrian Arab Republic,MENA,1949,,Election,Single,103,0,0.0,The Assembly was dissolved following a military coup d'Etat on 2 December 1949.
+Syrian Arab Republic,MENA,1953,,Election,Single,81,0,0.0,
 Syrian Arab Republic,MENA,1960,,Election,Single,600,7,0.011666666666666667,The 400-member Assembly of the Assembly of Egypt and 200 representatives from Syria:  there were no women among representatives from Syria.  The Assembly was dissolved following a military coup d'Etat on 29 September 1961 in Damascus.  Syria then seceded from the UAR and established the independent Syrian Arab Republic. (Syrian-Egyptian Union 1958-1961)
-Syrian Arab Republic,MENA,1961,,Election,Single,171,0,0,The Assembly was dissolved following a military coup d'Etat in February 1966.
+Syrian Arab Republic,MENA,1961,,Election,Single,171,0,0.0,The Assembly was dissolved following a military coup d'Etat in February 1966.
 Syrian Arab Republic,MENA,1973,,Election,Single,186,5,0.026881720430107527,
 Syrian Arab Republic,MENA,1977,,Election,Single,195,7,0.035897435897435895,
 Syrian Arab Republic,MENA,1981,,Election,Single,195,13,0.06666666666666667,
@@ -3126,22 +3126,22 @@ Tajikistan,EUR,2010,February,Election,Lower,63,12,0.19047619047619047,
 Tajikistan,EUR,2010,March,Election,Upper,34,5,0.14705882352941177,
 Tajikistan,EUR,2015,March,Election,Lower,63,12,0.19047619047619047,
 Tajikistan,EUR,2015,March,Election,Upper,32,2,0.0625,
-Thailand,ASIA,1945,September,Election,Lower,96,0,0,
-Thailand,ASIA,1945,September,Election,Upper,95,0,0,
-Thailand,ASIA,1946,July,Election,Lower,178,0,0,Parliament was dissolved following a military coup d'Etat on 8 November 1947.
-Thailand,ASIA,1946,January,Election,Single,192,0,0,"96 elected members, qualified under the Constitution of 1932 as members of the first category, and 96 appointed members, qualified under the Constitution of 1932 as members of the second category.  The Chamber was dissolved following the entry into force of the 1946 Constitution."
-Thailand,ASIA,1946,,Election,Upper,80,0,0,Parliament was dissolved following a military coup d'Etat on 8 November 1947.
+Thailand,ASIA,1945,September,Election,Lower,96,0,0.0,
+Thailand,ASIA,1945,September,Election,Upper,95,0,0.0,
+Thailand,ASIA,1946,July,Election,Lower,178,0,0.0,Parliament was dissolved following a military coup d'Etat on 8 November 1947.
+Thailand,ASIA,1946,January,Election,Single,192,0,0.0,"96 elected members, qualified under the Constitution of 1932 as members of the first category, and 96 appointed members, qualified under the Constitution of 1932 as members of the second category.  The Chamber was dissolved following the entry into force of the 1946 Constitution."
+Thailand,ASIA,1946,,Election,Upper,80,0,0.0,Parliament was dissolved following a military coup d'Etat on 8 November 1947.
 Thailand,ASIA,1947,,Election,Upper,100,2,0.02,Parliament was dissolved following a military coup d'Etat on 20 November 1951.
-Thailand,ASIA,1948,November,Election,Lower,120,0,0,"21 additional seats were created at June 1949 by-elections, inclusing 1 woman; Parliament was dissolved following a military coup d'Etat on 20 November 1951."
+Thailand,ASIA,1948,November,Election,Lower,120,0,0.0,"21 additional seats were created at June 1949 by-elections, inclusing 1 woman; Parliament was dissolved following a military coup d'Etat on 20 November 1951."
 Thailand,ASIA,1951,,Election,Upper,123,1,0.008130081300813009,
 Thailand,ASIA,1952,February,Election,Lower,123,4,0.032520325203252036,
 Thailand,ASIA,1957,February,Election,Lower,160,1,0.00625,
 Thailand,ASIA,1957,December,Election,Lower,160,4,0.025,Parliament was dissolved following a military coup d'Etat on 20 October 1958.
-Thailand,ASIA,1957,,Election,Upper,121,0,0,Parliament was dissolved following a military coup d'Etat on 20 October 1958.
-Thailand,ASIA,1959,March,Election,Temporary Assembly,164,0,0,"Unicameral Constituent Assembly. The nominal number of seats is 240, but there are 76 vacancies; all members are appointed. The Assembly was dissolved following the entry into force of the 1968 Constitution."
+Thailand,ASIA,1957,,Election,Upper,121,0,0.0,Parliament was dissolved following a military coup d'Etat on 20 October 1958.
+Thailand,ASIA,1959,March,Election,Temporary Assembly,164,0,0.0,"Unicameral Constituent Assembly. The nominal number of seats is 240, but there are 76 vacancies; all members are appointed. The Assembly was dissolved following the entry into force of the 1968 Constitution."
 Thailand,ASIA,1969,,Election,Lower,219,6,0.0273972602739726,All appointed; The Parliament was dissolved following a military coup d'Etat in November 1971
-Thailand,ASIA,1969,,Election,Upper,164,0,0,
-Thailand,ASIA,1972,,Election,Single,299,0,0,The Assembly was dissolved in December 1973 following a students revolt.
+Thailand,ASIA,1969,,Election,Upper,164,0,0.0,
+Thailand,ASIA,1972,,Election,Single,299,0,0.0,The Assembly was dissolved in December 1973 following a students revolt.
 Thailand,ASIA,1973,,Election,Single,299,18,0.06020066889632107,The Assembly was dissolved following the entry into force of the 1974 Constitution.
 Thailand,ASIA,1975,July,Election,Lower,256,3,0.01171875,"The nominal number of seats is 269, but there are 13 vacancies. Early dissolution of the House in 1976."
 Thailand,ASIA,1975,,Election,Upper,100,9,0.09,Early dissolution of the House in 1976.
@@ -3187,9 +3187,9 @@ Timor-Leste,ASIA,2007,June- june,Election,Single,65,18,0.27692307692307694,
 Timor-Leste,ASIA,2007,June- December,Election,Single,65,19,0.2923076923076923,
 Timor-Leste,ASIA,2012,July,Election,Single,65,25,0.38461538461538464,
 Timor-Leste,ASIA,2017,July,Election,Single,65,21,0.3230769230769231,
-Timor-Leste,ASIA,2018,May,Election,Single,65,22,33.8%,
+Timor-Leste,ASIA,2018,May,Election,Single,65,22,0.3384615384615385,
 Togo,SUB-SAHARAN,1961,,Election,Single,51,1,0.0196078431372549,First legislature of Togo after the country became independent on 27 April 1960.
-Togo,SUB-SAHARAN,1963,,Election,Single,56,0,0,The National Assembly was dissolved following a military coup d'Etat on 13 January 1967.
+Togo,SUB-SAHARAN,1963,,Election,Single,56,0,0.0,The National Assembly was dissolved following a military coup d'Etat on 13 January 1967.
 Togo,SUB-SAHARAN,1979,,Election,Single,67,7,0.1044776119402985,
 Togo,SUB-SAHARAN,1985,,Election,Single,77,4,0.05194805194805195,
 Togo,SUB-SAHARAN,1990,,Election,Single,77,3,0.03896103896103896,"The National Assembly was dissolved by the National Conference opened on 16 July 1991, and in August 1991, the latter formed a transitional Parliament, the High Council of the Republic."
@@ -3202,20 +3202,20 @@ Togo,SUB-SAHARAN,2007,October -november,Election,Single,81,7,0.08641975308641975
 Togo,SUB-SAHARAN,2007,October - december,Election,Single,81,9,0.1111111111111111,
 Togo,SUB-SAHARAN,2013,July,Election,Single,91,14,0.15384615384615385,
 Togo,SUB-SAHARAN,2018,December,Election,Single,91,15,0.16483516483516483,Woman Speaker elected for the first time.
-Tonga,PAC,1975,,Election,Single,23,0,0,First legislature of Tonga after the country became independent on 4 June 1970. Eleven ex officio members.
-Tonga,PAC,1978,,Election,Single,23,0,0,Eleven ex officio members.
-Tonga,PAC,1981,,Election,Single,25,0,0,Eleven ex officio members.
-Tonga,PAC,1984,,Election,Single,29,0,0,Eleven ex officio members.
-Tonga,PAC,1987,,Election,Single,29,0,0,Eleven ex officio members.
-Tonga,PAC,1990,,Election,Single,29,0,0,Eleven ex officio members.
+Tonga,PAC,1975,,Election,Single,23,0,0.0,First legislature of Tonga after the country became independent on 4 June 1970. Eleven ex officio members.
+Tonga,PAC,1978,,Election,Single,23,0,0.0,Eleven ex officio members.
+Tonga,PAC,1981,,Election,Single,25,0,0.0,Eleven ex officio members.
+Tonga,PAC,1984,,Election,Single,29,0,0.0,Eleven ex officio members.
+Tonga,PAC,1987,,Election,Single,29,0,0.0,Eleven ex officio members.
+Tonga,PAC,1990,,Election,Single,29,0,0.0,Eleven ex officio members.
 Tonga,PAC,1993,,Election,Single,30,1,0.03333333333333333,Eleven ex officio members.
-Tonga,PAC,1996,,Election,Single,30,0,0,Eleven ex officio members.
-Tonga,PAC,1999,,Election,Single,30,0,0,Eleven ex officio members.
-Tonga,PAC,2002,March,Election,Single,30,0,0,"9 members are directly elected, 9 indirectly elected, and 12 are ex officio"
+Tonga,PAC,1996,,Election,Single,30,0,0.0,Eleven ex officio members.
+Tonga,PAC,1999,,Election,Single,30,0,0.0,Eleven ex officio members.
+Tonga,PAC,2002,March,Election,Single,30,0,0.0,"9 members are directly elected, 9 indirectly elected, and 12 are ex officio"
 Tonga,PAC,2005,March,Election,Single,29,1,0.034482758620689655,"9 members are directly elected, 9 indirectly elected, and 12 are ex officio"
 Tonga,PAC,2008,April,Election,Single,32,1,0.03125,"9 members are directly elected, 9 indirectly elected, and 12 are ex officio"
-Tonga,PAC,2010,November,Election,Single,26,0,0,
-Tonga,PAC,2014,November,Election,Single,26,0,0,
+Tonga,PAC,2010,November,Election,Single,26,0,0.0,
+Tonga,PAC,2014,November,Election,Single,26,0,0.0,
 Trinidad and Tobago,AME,1962,,Election,Lower,30,1,0.03333333333333333,First legislature of Trinidad and Tobago after the country became independent on 31 August 1962.
 Trinidad and Tobago,AME,1962,,Election,Upper,24,5,0.20833333333333334,First legislature of Trinidad and Tobago after the country became independent on 31 August 1962. All members of the Upper House are appointed.
 Trinidad and Tobago,AME,1966,,Election,Lower,36,3,0.08333333333333333,
@@ -3273,7 +3273,7 @@ Turkey,EUR,1968,June,Election,Upper,150,1,0.006666666666666667,Electoral constit
 Turkey,EUR,1969,October,Election,Lower,450,5,0.011111111111111112,
 Turkey,EUR,1973,October,Election,Lower,456,6,0.013157894736842105,
 Turkey,EUR,1973,October,Election,Upper,150,1,0.006666666666666667,Electoral constituencies for Senators were divided into three main sub-groups and elections in each sub-group of Senators were held on different dates.
-Turkey,EUR,1975,October,Election,Upper,150,0,0,Electoral constituencies for Senators were divided into three main sub-groups and elections in each sub-group of Senators were held on different dates.
+Turkey,EUR,1975,October,Election,Upper,150,0,0.0,Electoral constituencies for Senators were divided into three main sub-groups and elections in each sub-group of Senators were held on different dates.
 Turkey,EUR,1977,June,Election,Lower,455,4,0.008791208791208791,The Assembly was dissolved following a military coup d'Etat on 12 September 1980.
 Turkey,EUR,1977,June,Election,Upper,150,2,0.013333333333333334,Electoral constituencies for Senators were divided into three main sub-groups and elections in each sub-group of Senators were held on different dates.
 Turkey,EUR,1979,October,Election,Upper,150,1,0.006666666666666667,The Assembly was dissolved following a military coup d'Etat on 12 September 1980.
@@ -3293,17 +3293,17 @@ Turkmenistan,EUR,1999,,Election,Single,50,13,0.26,
 Turkmenistan,EUR,2004,December,Election,Single,52,8,0.15384615384615385,In January 2005 a second round of elections was held for 7 districts where no candidate received more than 50% of the votes.
 Turkmenistan,EUR,2008,December,Election,Single,125,21,0.168,
 Turkmenistan,EUR,2013,December,Election,Single,125,21,0.168,
-Turkmenistan,EUR,2018,March,Election,Single,125,31,24.8%,Woman Speaker elected to replace former woman Speaker.
-Tuvalu,PAC,1977,,Election,Single,13,0,0,The Parliament elected prior independence became the first legislature of Tuvalu after the country became independent on 1 October 1978. Including one ex officio member.
-Tuvalu,PAC,1978,,Election,Single,13,0,0,Including one ex officio member.
-Tuvalu,PAC,1981,,Election,Single,13,0,0,Including one ex officio member.
-Tuvalu,PAC,1985,,Election,Single,13,0,0,Including one ex officio member.
+Turkmenistan,EUR,2018,March,Election,Single,125,31,0.248,Woman Speaker elected to replace former woman Speaker.
+Tuvalu,PAC,1977,,Election,Single,13,0,0.0,The Parliament elected prior independence became the first legislature of Tuvalu after the country became independent on 1 October 1978. Including one ex officio member.
+Tuvalu,PAC,1978,,Election,Single,13,0,0.0,Including one ex officio member.
+Tuvalu,PAC,1981,,Election,Single,13,0,0.0,Including one ex officio member.
+Tuvalu,PAC,1985,,Election,Single,13,0,0.0,Including one ex officio member.
 Tuvalu,PAC,1989,,Election,Single,13,1,0.07692307692307693,Including one ex officio member.
 Tuvalu,PAC,1993,,Election,Single,13,1,0.07692307692307693,Including one ex officio member.
-Tuvalu,PAC,1998,,Election,Single,12,0,0,Including one ex officio member.
-Tuvalu,PAC,2002,July,Election,Single,12,0,0,Including one ex officio member.
-Tuvalu,PAC,2006,August,Election,Single,15,0,0,Including one ex officio member.
-Tuvalu,PAC,2010,September,Election,Single,15,0,0,
+Tuvalu,PAC,1998,,Election,Single,12,0,0.0,Including one ex officio member.
+Tuvalu,PAC,2002,July,Election,Single,12,0,0.0,Including one ex officio member.
+Tuvalu,PAC,2006,August,Election,Single,15,0,0.0,Including one ex officio member.
+Tuvalu,PAC,2010,September,Election,Single,15,0,0.0,
 Tuvalu,PAC,2015,March,Election,Single,15,1,0.06666666666666667,
 Uganda,SUB-SAHARAN,1980,,Election,Single,126,1,0.007936507936507936,The Assembly was dissolved following a military coup d'Etat in July 1985.
 Uganda,SUB-SAHARAN,1989,,Election,Single,278,34,0.1223021582733813,210 members elected; the others are appointed by the Head of State.
@@ -3322,17 +3322,17 @@ Ukraine,EUR,2007,september- August,Election,Single,450,38,0.08444444444444445,
 Ukraine,EUR,2007,september- September,Election,Single,450,37,0.08222222222222222,
 Ukraine,EUR,2012,October,Election,Single,445,42,0.09438202247191012,
 Ukraine,EUR,2014,October,Election,Single,420,49,0.11666666666666667,
-United Arab Emirates,MENA,1971,,Election,Single,40,0,0,"First legislature of the United Arab Emirates, which became an independent federated State on 2 December 1971. Concerns all elections: Each of the 7 Emirates constituting the Federation determines the method of appointment of its representatives within the Federal National Council. "
-United Arab Emirates,MENA,1973,,Election,Single,40,0,0,All appointed. Each of the 7 Emirates constituting the Federation determines the method of appointment of its representatives within the Federal National Council. 
-United Arab Emirates,MENA,1975,,Election,Single,40,0,0,All appointed. Each of the 7 Emirates constituting the Federation determines the method of appointment of its representatives within the Federal National Council. 
-United Arab Emirates,MENA,1977,,Election,Single,40,0,0,All appointed. Each of the 7 Emirates constituting the Federation determines the method of appointment of its representatives within the Federal National Council. 
-United Arab Emirates,MENA,1980,,Election,Single,40,0,0,All appointed. Each of the 7 Emirates constituting the Federation determines the method of appointment of its representatives within the Federal National Council. 
-United Arab Emirates,MENA,1981,,Election,Single,40,0,0,All appointed. Each of the 7 Emirates constituting the Federation determines the method of appointment of its representatives within the Federal National Council. 
-United Arab Emirates,MENA,1984,,Election,Single,40,0,0,All appointed. Each of the 7 Emirates constituting the Federation determines the method of appointment of its representatives within the Federal National Council. 
-United Arab Emirates,MENA,1988,,Election,Single,40,0,0,All appointed. Each of the 7 Emirates constituting the Federation determines the method of appointment of its representatives within the Federal National Council. 
-United Arab Emirates,MENA,1990,,Election,Single,40,0,0,All appointed. Each of the 7 Emirates constituting the Federation determines the method of appointment of its representatives within the Federal National Council. 
-United Arab Emirates,MENA,1993,,Election,Single,40,0,0,All appointed. Each of the 7 Emirates constituting the Federation determines the method of appointment of its representatives within the Federal National Council. 
-United Arab Emirates,MENA,2003,February,Election,Single,40,0,0,All appointed. Each of the 7 Emirates constituting the Federation determines the method of appointment of its representatives within the Federal National Council. 
+United Arab Emirates,MENA,1971,,Election,Single,40,0,0.0,"First legislature of the United Arab Emirates, which became an independent federated State on 2 December 1971. Concerns all elections: Each of the 7 Emirates constituting the Federation determines the method of appointment of its representatives within the Federal National Council. "
+United Arab Emirates,MENA,1973,,Election,Single,40,0,0.0,All appointed. Each of the 7 Emirates constituting the Federation determines the method of appointment of its representatives within the Federal National Council. 
+United Arab Emirates,MENA,1975,,Election,Single,40,0,0.0,All appointed. Each of the 7 Emirates constituting the Federation determines the method of appointment of its representatives within the Federal National Council. 
+United Arab Emirates,MENA,1977,,Election,Single,40,0,0.0,All appointed. Each of the 7 Emirates constituting the Federation determines the method of appointment of its representatives within the Federal National Council. 
+United Arab Emirates,MENA,1980,,Election,Single,40,0,0.0,All appointed. Each of the 7 Emirates constituting the Federation determines the method of appointment of its representatives within the Federal National Council. 
+United Arab Emirates,MENA,1981,,Election,Single,40,0,0.0,All appointed. Each of the 7 Emirates constituting the Federation determines the method of appointment of its representatives within the Federal National Council. 
+United Arab Emirates,MENA,1984,,Election,Single,40,0,0.0,All appointed. Each of the 7 Emirates constituting the Federation determines the method of appointment of its representatives within the Federal National Council. 
+United Arab Emirates,MENA,1988,,Election,Single,40,0,0.0,All appointed. Each of the 7 Emirates constituting the Federation determines the method of appointment of its representatives within the Federal National Council. 
+United Arab Emirates,MENA,1990,,Election,Single,40,0,0.0,All appointed. Each of the 7 Emirates constituting the Federation determines the method of appointment of its representatives within the Federal National Council. 
+United Arab Emirates,MENA,1993,,Election,Single,40,0,0.0,All appointed. Each of the 7 Emirates constituting the Federation determines the method of appointment of its representatives within the Federal National Council. 
+United Arab Emirates,MENA,2003,February,Election,Single,40,0,0.0,All appointed. Each of the 7 Emirates constituting the Federation determines the method of appointment of its representatives within the Federal National Council. 
 United Arab Emirates,MENA,2006,December,Election,Single,20,1,0.05,"Parliamentary elections were held for the first time in the country's history, for half of the seats of the Federal National Council; the other half was appointed"
 United Arab Emirates,MENA,2011,September,Election,Single,20,1,0.05,
 United Arab Emirates,MENA,2012,november,Election,Single,40,7,0.175,
@@ -3369,7 +3369,7 @@ United Republic of Tanzania,SUB-SAHARAN,2005,December,Election,Single,319,97,0.3
 United Republic of Tanzania,SUB-SAHARAN,2010,October,Election,Single,350,126,0.36,
 United Republic of Tanzania,SUB-SAHARAN,2015,October,Election,Single,372,136,0.3655913978494624,
 United States of America,AME,1946,November,Election,Lower,440,11,0.025,Lower House total includes 5 non-voting members 
-United States of America,AME,1946,November,Election,Upper,100,0,0,Elections for the Upper House are held every 2 years and one third of the membership is renewed each time.
+United States of America,AME,1946,November,Election,Upper,100,0,0.0,Elections for the Upper House are held every 2 years and one third of the membership is renewed each time.
 United States of America,AME,1948,November,Election,Lower,440,7,0.015909090909090907,
 United States of America,AME,1948,November,Election,Upper,100,1,0.01,Elections for the Upper House are held every 2 years and one third of the membership is renewed each time.
 United States of America,AME,1950,November,Election,Lower,440,9,0.020454545454545454,
@@ -3397,9 +3397,9 @@ United States of America,AME,1970,November,Election,Upper,100,1,0.01,Elections f
 United States of America,AME,1972,November,Election,Lower,440,13,0.029545454545454545,
 United States of America,AME,1972,November,Election,Upper,100,2,0.02,Elections for the Upper House are held every 2 years and one third of the membership is renewed each time.
 United States of America,AME,1974,November,Election,Lower,440,16,0.03636363636363636,
-United States of America,AME,1974,November,Election,Upper,100,0,0,Elections for the Upper House are held every 2 years and one third of the membership is renewed each time.
+United States of America,AME,1974,November,Election,Upper,100,0,0.0,Elections for the Upper House are held every 2 years and one third of the membership is renewed each time.
 United States of America,AME,1976,November,Election,Lower,440,19,0.04318181818181818,
-United States of America,AME,1976,November,Election,Upper,100,0,0,Elections for the Upper House are held every 2 years and one third of the membership is renewed each time.
+United States of America,AME,1976,November,Election,Upper,100,0,0.0,Elections for the Upper House are held every 2 years and one third of the membership is renewed each time.
 United States of America,AME,1978,November,Election,Lower,440,18,0.04090909090909091,
 United States of America,AME,1978,November,Election,Upper,100,2,0.02,Elections for the Upper House are held every 2 years and one third of the membership is renewed each time.
 United States of America,AME,1980,November,Election,Lower,440,16,0.03636363636363636,
@@ -3442,24 +3442,24 @@ United States of America,AME,2016,November,Election,Lower,433,83,0.1916859122401
 United States of America,AME,2016,November,Election,Upper,100,20,0.2,
 United States of America,AME,2018,November,Election,Lower,434,102,0.2350230414746544,Woman Speaker elected.
 United States of America,AME,2018,,Election,Upper,100,25,0.25,
-Uruguay,AME,1946,November,Election,Lower,99,0,0,4 additional woman substitute members effectively sat in Parliament
-Uruguay,AME,1946,November,Election,Upper,30,0,0,2 additional woman substitute members effectively sat in Parliament
-Uruguay,AME,1950,November,Election,Lower,99,0,0,6 additional woman substitute members effectively sat in Parliament
-Uruguay,AME,1950,November,Election,Upper,30,0,0,3 additional woman substitute members effectively sat in Parliament
-Uruguay,AME,1954,November,Election,Lower,99,0,0,8 additional woman substitute members effectively sat in Parliament
-Uruguay,AME,1954,November,Election,Upper,30,0,0,1 additional woman substitute member effectively sat in Parliament
-Uruguay,AME,1958,November,Election,Lower,99,0,0,5 additional woman substitute members effectively sat in Parliament
-Uruguay,AME,1958,November,Election,Upper,30,0,0,1 additional woman substitute member effectively sat in Parliament
-Uruguay,AME,1962,November,Election,Lower,99,0,0,4 additional woman substitute members effectively sat in Parliament
-Uruguay,AME,1962,November,Election,Upper,30,0,0,1 additional woman substitute member effectively sat in Parliament
-Uruguay,AME,1966,November,Election,Lower,99,0,0,3 additional woman substitute members effectively sat in Parliament
-Uruguay,AME,1966,November,Election,Upper,30,0,0,2 additional woman substitute members effectively sat in Parliament
+Uruguay,AME,1946,November,Election,Lower,99,0,0.0,4 additional woman substitute members effectively sat in Parliament
+Uruguay,AME,1946,November,Election,Upper,30,0,0.0,2 additional woman substitute members effectively sat in Parliament
+Uruguay,AME,1950,November,Election,Lower,99,0,0.0,6 additional woman substitute members effectively sat in Parliament
+Uruguay,AME,1950,November,Election,Upper,30,0,0.0,3 additional woman substitute members effectively sat in Parliament
+Uruguay,AME,1954,November,Election,Lower,99,0,0.0,8 additional woman substitute members effectively sat in Parliament
+Uruguay,AME,1954,November,Election,Upper,30,0,0.0,1 additional woman substitute member effectively sat in Parliament
+Uruguay,AME,1958,November,Election,Lower,99,0,0.0,5 additional woman substitute members effectively sat in Parliament
+Uruguay,AME,1958,November,Election,Upper,30,0,0.0,1 additional woman substitute member effectively sat in Parliament
+Uruguay,AME,1962,November,Election,Lower,99,0,0.0,4 additional woman substitute members effectively sat in Parliament
+Uruguay,AME,1962,November,Election,Upper,30,0,0.0,1 additional woman substitute member effectively sat in Parliament
+Uruguay,AME,1966,November,Election,Lower,99,0,0.0,3 additional woman substitute members effectively sat in Parliament
+Uruguay,AME,1966,November,Election,Upper,30,0,0.0,2 additional woman substitute members effectively sat in Parliament
 Uruguay,AME,1971,November,Election,Lower,99,1,0.010101010101010102,1 additional woman substitute member effectively sat in Parliament; Congress was dissolved following a military coup d'Etat on 27 June 1973.
-Uruguay,AME,1971,November,Election,Upper,30,0,0,Congress was dissolved following a military coup d'Etat on 27 June 1973.
-Uruguay,AME,1984,November,Election,Lower,99,0,0,
-Uruguay,AME,1984,November,Election,Upper,30,0,0,2 additional woman substitute members effectively sat in Parliament
+Uruguay,AME,1971,November,Election,Upper,30,0,0.0,Congress was dissolved following a military coup d'Etat on 27 June 1973.
+Uruguay,AME,1984,November,Election,Lower,99,0,0.0,
+Uruguay,AME,1984,November,Election,Upper,30,0,0.0,2 additional woman substitute members effectively sat in Parliament
 Uruguay,AME,1989,November,Election,Lower,99,6,0.06060606060606061,2 additional woman substitute members effectively sat in Parliament
-Uruguay,AME,1989,November,Election,Upper,31,0,0,2 additional woman substitute members effectively sat in Parliament
+Uruguay,AME,1989,November,Election,Upper,31,0,0.0,2 additional woman substitute members effectively sat in Parliament
 Uruguay,AME,1994,November,Election,Lower,99,7,0.0707070707070707,2 additional woman substitute members effectively sat in Parliament
 Uruguay,AME,1994,November,Election,Upper,30,2,0.06666666666666667,3 additional woman substitute members effectively sat in Parliament
 Uruguay,AME,1999,,Election,Lower,99,12,0.12121212121212122,
@@ -3501,31 +3501,31 @@ Uzbekistan,EUR,2009,December,Election,Lower,150,33,0.22,
 Uzbekistan,EUR,2010,January,Election,Upper,100,15,0.15,
 Uzbekistan ,EUR,2015,Dec 2014-Jan 2015,Election,Lower,150,24,0.16,
 Uzbekistan ,EUR,2015,Jan Feb,Election,Upper,100,17,0.17,
-Vanuatu,PAC,1979,,Election,Single,39,0,0,First legislature of Vanuatu after the country became independent on 30 July 1980.
-Vanuatu,PAC,1983,,Election,Single,39,0,0,
+Vanuatu,PAC,1979,,Election,Single,39,0,0.0,First legislature of Vanuatu after the country became independent on 30 July 1980.
+Vanuatu,PAC,1983,,Election,Single,39,0,0.0,
 Vanuatu,PAC,1987,,Election,Single,46,2,0.043478260869565216,
 Vanuatu,PAC,1991,,Election,Single,46,1,0.021739130434782608,No longer any woman in Parliament as of May 1991
-Vanuatu,PAC,1998,,Election,Single,52,0,0,
+Vanuatu,PAC,1998,,Election,Single,52,0,0.0,
 Vanuatu,PAC,2002,,Election,Single,52,1,0.019230769230769232,
 Vanuatu,PAC,2004,July,Election,Single,52,2,0.038461538461538464,
 Vanuatu,PAC,2008,September,Election,Single,52,2,0.038461538461538464,
-Vanuatu,PAC,2012,October,Election,Single,52,0,0,
-Vanuatu,PAC,2016,January,Election,Single,52,0,0,
+Vanuatu,PAC,2012,October,Election,Single,52,0,0.0,
+Vanuatu,PAC,2016,January,Election,Single,52,0,0.0,
 Venezuela,AME,1946,October,Election,Temporary Assembly,160,9,0.05625,"A 160-member unicameral Constituent Assembly, including 9 women (5.6%), had previously been elected in October 1946."
 Venezuela,AME,1948,February,Election,Lower,110,2,0.01818181818181818,Congress was dissolved following a military coup d'Etat in December 1952
 Venezuela,AME,1948,February,Election,Upper,45,2,0.044444444444444446,"Excluding senators for life, such as the President of the Republic; Congress was dissolved following a military coup d'Etat in December 1952"
 Venezuela,AME,1958,December,Election,Lower,133,3,0.022556390977443608,
-Venezuela,AME,1958,December,Election,Upper,51,0,0,"Excluding senators for life, such as the President of the Republic"
+Venezuela,AME,1958,December,Election,Upper,51,0,0.0,"Excluding senators for life, such as the President of the Republic"
 Venezuela,AME,1963,March,Election,Lower,178,6,0.033707865168539325,
-Venezuela,AME,1963,March,Election,Upper,47,0,0,"Excluding senators for life, such as the President of the Republic"
-Venezuela,AME,1968,December,Election,Lower,214,0,0,
+Venezuela,AME,1963,March,Election,Upper,47,0,0.0,"Excluding senators for life, such as the President of the Republic"
+Venezuela,AME,1968,December,Election,Lower,214,0,0.0,
 Venezuela,AME,1968,December,Election,Upper,52,1,0.019230769230769232,"Excluding senators for life, such as the President of the Republic"
 Venezuela,AME,1973,December,Election,Lower,200,5,0.025,
-Venezuela,AME,1973,December,Election,Upper,47,0,0,"Excluding senators for life, such as the President of the Republic"
+Venezuela,AME,1973,December,Election,Upper,47,0,0.0,"Excluding senators for life, such as the President of the Republic"
 Venezuela,AME,1978,December,Election,Lower,199,6,0.03015075376884422,
 Venezuela,AME,1978,December,Election,Upper,44,1,0.022727272727272728,"Excluding senators for life, such as the President of the Republic"
 Venezuela,AME,1983,December,Election,Lower,200,7,0.035,
-Venezuela,AME,1983,December,Election,Upper,44,0,0,"Excluding senators for life, such as the President of the Republic"
+Venezuela,AME,1983,December,Election,Upper,44,0,0.0,"Excluding senators for life, such as the President of the Republic"
 Venezuela,AME,1988,December,Election,Lower,201,20,0.09950248756218906,
 Venezuela,AME,1988,December,Election,Upper,46,3,0.06521739130434782,"Excluding senators for life, such as the President of the Republic"
 Venezuela,AME,1993,December,Election,Lower,203,12,0.059113300492610835,
@@ -3561,9 +3561,9 @@ Yemen,MENA,1993,April,Election,Single,301,2,0.006644518272425249,31 members appo
 Yemen,MENA,1997,,Election,Lower,301,2,0.006644518272425249,31 members appointed by the Head of State.
 Yemen,MENA,2001,April,Election,Upper,111,2,0.018018018018018018,All members of the Upper House are appointed
 Yemen,MENA,2003,April,Election,Lower,301,1,0.0033222591362126247,
-Yemen North (Yemen Arab Republic),MENA,1970,,Election,Single,99,0,0,First legislature of the Arab Republic of Yemen proclaimed on 30 November 1967.  The Assembly was later dissolved following a military coup d'Etat on 13 June 1974.
-Yemen North (Yemen Arab Republic),MENA,1978,,Election,Single,99,0,0,People's Constituent Assembly where all the members were appointed for 3 years by the Military Command Council.
-Yemen North (Yemen Arab Republic),MENA,1988,,Election,Single,159,0,0,128 elected members and 31 appointed by the Head of State.
+Yemen North (Yemen Arab Republic),MENA,1970,,Election,Single,99,0,0.0,First legislature of the Arab Republic of Yemen proclaimed on 30 November 1967.  The Assembly was later dissolved following a military coup d'Etat on 13 June 1974.
+Yemen North (Yemen Arab Republic),MENA,1978,,Election,Single,99,0,0.0,People's Constituent Assembly where all the members were appointed for 3 years by the Military Command Council.
+Yemen North (Yemen Arab Republic),MENA,1988,,Election,Single,159,0,0.0,128 elected members and 31 appointed by the Head of State.
 Yemen South (People's Democratic Republic),MENA,1971,,Election,Single,101,9,0.0891089108910891,"In 1971, the members of the Council were all appointed."
 Yemen South (People's Democratic Republic),MENA,1978,,Election,Single,111,7,0.06306306306306306,
 Yemen South (People's Democratic Republic),MENA,1986,,Election,Single,111,11,0.0990990990990991,
@@ -3643,12 +3643,12 @@ Zimbabwe,SUB-SAHARAN,2013,September,Election,Lower,270,85,0.3148148148148148,"*T
 Zimbabwe,SUB-SAHARAN,2013,September,Election,Upper,80,38,0.475,
 Zimbabwe,SUB-SAHARAN,2018,July,Election,Lower,270,85,0.3148148148148148,60 reserved seats for women (only valid for the 2013 and 2018 elections)
 Zimbabwe,SUB-SAHARAN,2018,July,Election,Upper,80,35,0.4375,
-Malaysia,ASIA,1959,,Renewal,Upper,37,0,0,"First legislature of Malaysia after the country became independent on 31 August 1957. The nominal number of seats is 38, but there was 1 vacancy at the time; Senators are appointed or elected at varying dates.  The numbers of total members and women members correspond to the situation after the Parliamentary (Lower House) elections, during which the Senate is at its maximum strength and when the King's Speech is debated in the Senate."
-Malaysia,ASIA,1960,,Renewal,Upper,38,0,0,"Senators are appointed or elected at varying dates.  The numbers of total members and women members correspond to the situation after the Parliamentary (Lower House) elections, during which the Senate is at its maximum strength and when the King's Speech is debated in the Senate."
-Malaysia,ASIA,1961,,Renewal,Upper,38,0,0,"Senators are appointed or elected at varying dates.  The numbers of total members and women members correspond to the situation after the Parliamentary (Lower House) elections, during which the Senate is at its maximum strength and when the King's Speech is debated in the Senate."
-Malaysia,ASIA,1962,,Renewal,Upper,38,0,0,"Senators are appointed or elected at varying dates.  The numbers of total members and women members correspond to the situation after the Parliamentary (Lower House) elections, during which the Senate is at its maximum strength and when the King's Speech is debated in the Senate."
-Malaysia,ASIA,1963,,Renewal,Upper,38,0,0,"Senators are appointed or elected at varying dates.  The numbers of total members and women members correspond to the situation after the Parliamentary (Lower House) elections, during which the Senate is at its maximum strength and when the King's Speech is debated in the Senate."
-Malaysia,ASIA,1964,,Renewal,Upper,38,0,0,"Senators are appointed or elected at varying dates.  The numbers of total members and women members correspond to the situation after the Parliamentary (Lower House) elections, during which the Senate is at its maximum strength and when the King's Speech is debated in the Senate."
+Malaysia,ASIA,1959,,Renewal,Upper,37,0,0.0,"First legislature of Malaysia after the country became independent on 31 August 1957. The nominal number of seats is 38, but there was 1 vacancy at the time; Senators are appointed or elected at varying dates.  The numbers of total members and women members correspond to the situation after the Parliamentary (Lower House) elections, during which the Senate is at its maximum strength and when the King's Speech is debated in the Senate."
+Malaysia,ASIA,1960,,Renewal,Upper,38,0,0.0,"Senators are appointed or elected at varying dates.  The numbers of total members and women members correspond to the situation after the Parliamentary (Lower House) elections, during which the Senate is at its maximum strength and when the King's Speech is debated in the Senate."
+Malaysia,ASIA,1961,,Renewal,Upper,38,0,0.0,"Senators are appointed or elected at varying dates.  The numbers of total members and women members correspond to the situation after the Parliamentary (Lower House) elections, during which the Senate is at its maximum strength and when the King's Speech is debated in the Senate."
+Malaysia,ASIA,1962,,Renewal,Upper,38,0,0.0,"Senators are appointed or elected at varying dates.  The numbers of total members and women members correspond to the situation after the Parliamentary (Lower House) elections, during which the Senate is at its maximum strength and when the King's Speech is debated in the Senate."
+Malaysia,ASIA,1963,,Renewal,Upper,38,0,0.0,"Senators are appointed or elected at varying dates.  The numbers of total members and women members correspond to the situation after the Parliamentary (Lower House) elections, during which the Senate is at its maximum strength and when the King's Speech is debated in the Senate."
+Malaysia,ASIA,1964,,Renewal,Upper,38,0,0.0,"Senators are appointed or elected at varying dates.  The numbers of total members and women members correspond to the situation after the Parliamentary (Lower House) elections, during which the Senate is at its maximum strength and when the King's Speech is debated in the Senate."
 Malaysia,ASIA,1965,,Renewal,Upper,58,2,0.034482758620689655,"The nominal number of seats is 60, but there were 2 vacancies at the time. Senators are appointed or elected at varying dates.  The numbers of total members and women members correspond to the situation after the Parliamentary (Lower House) elections, during which the Senate is at its maximum strength and when the King's Speech is debated in the Senate."
 Malaysia,ASIA,1966,,Renewal,Upper,58,2,0.034482758620689655,"Senators are appointed or elected at varying dates.  The numbers of total members and women members correspond to the situation after the Parliamentary (Lower House) elections, during which the Senate is at its maximum strength and when the King's Speech is debated in the Senate."
 Malaysia,ASIA,1967,,Renewal,Upper,58,2,0.034482758620689655,"Senators are appointed or elected at varying dates.  The numbers of total members and women members correspond to the situation after the Parliamentary (Lower House) elections, during which the Senate is at its maximum strength and when the King's Speech is debated in the Senate."
